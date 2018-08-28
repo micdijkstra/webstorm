@@ -8,14 +8,13 @@
         <mark key="[" line="14" column="33" />
         <mark key="]" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" timestamp="1535416405444">
-        <mark key="'" line="98" column="4" />
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="23" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" timestamp="1535495879276">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="16" column="23" />
       </file>
-      <file name="/fragment.js" timestamp="1535432457008">
+      <file name="/fragment.js" timestamp="1535495912362">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1535416571461">
@@ -26,6 +25,11 @@
         <mark key="[" line="114" column="31" />
         <mark key="]" line="114" column="31" />
         <mark key="." line="114" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1535416927749">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/actions/index.js" timestamp="1535432110128">
         <mark key="'" line="16" column="0" />
@@ -61,6 +65,13 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/.env.test" timestamp="1535495698279">
+        <mark key="'" line="9" column="40" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1535425409580">
         <mark key="'" line="41" column="13" />
       </file>
@@ -74,12 +85,10 @@
         <mark key="." line="54" column="8" />
         <mark key="^" line="54" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" timestamp="1535433856057">
-        <mark key="'" line="385" column="44" />
-        <mark key="[" line="376" column="12" />
-        <mark key="]" line="376" column="17" />
-        <mark key="^" line="376" column="17" />
-        <mark key="." line="376" column="17" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" timestamp="1535495949850">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/index.js" timestamp="1535428027896">
         <mark key="'" line="0" column="0" />
@@ -100,6 +109,11 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/Evaluation/index.js" timestamp="1535417147379">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/OptimisedPulse/index.js" timestamp="1535418122463">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -112,23 +126,15 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" timestamp="1535433870393">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="38" column="39" />
-        <mark key="." line="38" column="39" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" timestamp="1535495325970">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="35" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="266" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="278" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="287" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="299" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="307" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="313" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="336" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="340" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="353" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="361" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="369" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
@@ -144,8 +150,6 @@
       <jump line="436" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="437" column="13" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="397" column="21" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="52" column="34" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="88" column="31" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="90" column="18" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="30" column="5" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="41" column="24" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
@@ -158,9 +162,6 @@
       <jump line="37" column="6" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="201" column="21" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="218" column="2" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="56" column="13" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="98" column="15" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="63" column="25" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="93" column="18" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="110" column="12" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Evaluation/index.js" />
       <jump line="111" column="6" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Evaluation/index.js" />
@@ -174,8 +175,6 @@
       <jump line="110" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="16" column="47" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="33" column="18" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="53" column="20" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="82" column="4" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="254" column="49" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="253" column="30" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="261" column="4" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
@@ -205,7 +204,6 @@
       <jump line="327" column="24" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="334" column="32" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="347" column="34" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="339" column="6" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="348" column="11" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="26" column="38" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
@@ -213,69 +211,84 @@
       <jump line="373" column="33" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="221" column="15" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="224" column="20" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="21" column="2" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="177" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="354" column="6" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="396" column="6" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="352" column="6" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="372" column="11" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="386" column="44" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="31" column="11" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="9" column="40" filename="$USER_HOME$/Code/frontend/.env.test" />
+      <jump line="339" column="31" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="98" column="1" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RVZBTFVBVElPTl9UWVBFUy5PTkVfUVVCSVQsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gU2VuZHMgdGhlIHN0b3JlIGFuIE9uZVF1Yml0IG9iamVjdApleHBvcnQgY29uc3QgcmVjZWl2ZU9uZVF1Yml0QXR0cmlidXRlcyA9ICh0eXBlLCBhdHRyaWJ1dGVzKSA9PiB7CiAgX3NldChhdHRyaWJ1dGVzLCAidHlwZSIsIE9ORV9RVUJJVF9FVkFMVUFUSU9OX1RZUEVTLlBVTFNFKTsKCiAgLy8gUG9sYXIgQW5nbGUgaXMgc2F2ZWQgYXMgYW4gYWJzb2x1dGUgbnVtYmVyIGJ1dCBkaXNwbGF5ZWQgYXMgYSBudW1iZXIgKiBQSQogIF9zZXQoCiAgICBhdHRyaWJ1dGVzLAogICAgInBvbGFyQW5nbGVNdWx0aXBsaWVyIiwKICAgIChOdW1iZXIoYXR0cmlidXRlcy5wb2xhckFuZ2xlIHx8IDApIC8gTWF0aC5QSSkudG9TdHJpbmcoKQogICk7CgogIC8vIFJhYmkgUmF0ZSBpcyBzYXZlZCBhcyBhbiBhYnNvbHV0ZSBudW1iZXIgYnV0IGRpc3BsYXllZCBhcyBhIG51bWJlciAqIDIgKiBQSQogIC8vICoga0h6IG9yIE1Iei4gV2UgZGVmYXVsdCB1bml0cyB0byBrSHoKICBsZXQgbWF4aW11bVJhYmlSYXRlTXVsdGlwbGllciA9IE9ORV9RVUJJVF9NQVhJTVVNX1JBQklfUkFURV9VTklUUy5rSHo7CiAgbGV0IG1heGltdW1SYWJpUmF0ZVZhbHVlID0gY2FsY3VsYXRlTWF4aW11bVJhYmlSYXRlVmFsdWUoCiAgICBhdHRyaWJ1dGVzLm1heGltdW1SYWJpUmF0ZSwKICAgIG1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIKICApOwoKICAvLyBXZSBjYWxjdWxhdGUgaW4gTUh6IGlmIHZhbHVlIGlzIGdyZWF0ZXIgdGhhbiBvciBlcXVhbCB0byAxMDAwIGtIegogIGlmIChtYXhpbXVtUmFiaVJhdGVWYWx1ZSA+PSAxMDAwKSB7CiAgICBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyID0gT05FX1FVQklUX01BWElNVU1fUkFCSV9SQVRFX1VOSVRTLk1IejsKICAgIG1heGltdW1SYWJpUmF0ZVZhbHVlID0gY2FsY3VsYXRlTWF4aW11bVJhYmlSYXRlVmFsdWUoCiAgICAgIGF0dHJpYnV0ZXMubWF4aW11bVJhYmlSYXRlLAogICAgICBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyCiAgICApOwogIH0KICBfc2V0KGF0dHJpYnV0ZXMsICJtYXhpbXVtUmFiaVJhdGVWYWx1ZSIsIG1heGltdW1SYWJpUmF0ZVZhbHVlKTsKICBfc2V0KGF0dHJpYnV0ZXMsICJtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyIiwgbWF4aW11bVJhYmlSYXRlTXVsdGlwbGllcik7CgogIHJldHVybiB7CiAgICB0eXBlOiBBQ1RJT05fVFlQRVMuUkVDRUlWRV9PTkVfUVVCSVRfQVRUUklCVVRFUywKICAgIGl0ZW06IGF0dHJpYnV0ZXMKICB9Owp9OwoKLy8gTGlzdGVucyBmb3IgdXBkYXRlcyB0byBldmFsdWF0aW9uIGF0dHJpYnV0ZXMgaW4gZmlyZWJhc2UKZXhwb3J0IGNvbnN0IGZldGNoT25lUXViaXRBdHRyaWJ1dGVzID0gdHlwZSA9PiBkaXNwYXRjaCA9PiB7CiAgY29uc3QgcGF0aCA9IGAke3R5cGV9LyR7Z2V0Q3VycmVudFVzZXJVaWQoKX0vYXR0cmlidXRlc2A7CiAgZGF0YWJhc2UucmVmKHBhdGgpLm9uKCJ2YWx1ZSIsIHNuYXBzaG90ID0+IHsKICAgIGNvbnN0IGRhdGEgPSBzbmFwc2hvdC52YWwoKTsKICAgIGlmIChkYXRhKSB7CiAgICAgIGRpc3BhdGNoKHJlY2VpdmVPbmVRdWJpdEF0dHJpYnV0ZXModHlwZSwgZGF0YSkpOwogICAgfQogIH0pOwp9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RVZBTFVBVElPTl9UWVBFUy5PTkVfUVVCSVQsIA==</text>
+        <text>micdijkstra</text>
       </register>
       <register name="/" type="4">
-        <text>uploadingOneQubit</text>
+        <text>receive</text>
       </register>
       <register name="0" type="4">
         <text>currentUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB1aWQgPSBnZXRTdGF0ZSgpLmF1dGguaXRlbS51aWQ7Cg==</text>
+        <text encoding="base64">Ly8gU2VuZHMgdGhlIHN0b3JlIGFuIE9uZVF1Yml0IG9iamVjdApleHBvcnQgY29uc3QgcmVjZWl2ZU9uZVF1Yml0QXR0cmlidXRlcyA9ICh0eXBlLCBhdHRyaWJ1dGVzKSA9PiB7CiAgX3NldChhdHRyaWJ1dGVzLCAidHlwZSIsIE9ORV9RVUJJVF9FVkFMVUFUSU9OX1RZUEVTLlBVTFNFKTsKCiAgLy8gUG9sYXIgQW5nbGUgaXMgc2F2ZWQgYXMgYW4gYWJzb2x1dGUgbnVtYmVyIGJ1dCBkaXNwbGF5ZWQgYXMgYSBudW1iZXIgKiBQSQogIF9zZXQoCiAgICBhdHRyaWJ1dGVzLAogICAgInBvbGFyQW5nbGVNdWx0aXBsaWVyIiwKICAgIChOdW1iZXIoYXR0cmlidXRlcy5wb2xhckFuZ2xlIHx8IDApIC8gTWF0aC5QSSkudG9TdHJpbmcoKQogICk7CgogIC8vIFJhYmkgUmF0ZSBpcyBzYXZlZCBhcyBhbiBhYnNvbHV0ZSBudW1iZXIgYnV0IGRpc3BsYXllZCBhcyBhIG51bWJlciAqIDIgKiBQSQogIC8vICoga0h6IG9yIE1Iei4gV2UgZGVmYXVsdCB1bml0cyB0byBrSHoKICBsZXQgbWF4aW11bVJhYmlSYXRlTXVsdGlwbGllciA9IE9ORV9RVUJJVF9NQVhJTVVNX1JBQklfUkFURV9VTklUUy5rSHo7CiAgbGV0IG1heGltdW1SYWJpUmF0ZVZhbHVlID0gY2FsY3VsYXRlTWF4aW11bVJhYmlSYXRlVmFsdWUoCiAgICBhdHRyaWJ1dGVzLm1heGltdW1SYWJpUmF0ZSwKICAgIG1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIKICApOwoKICAvLyBXZSBjYWxjdWxhdGUgaW4gTUh6IGlmIHZhbHVlIGlzIGdyZWF0ZXIgdGhhbiBvciBlcXVhbCB0byAxMDAwIGtIegogIGlmIChtYXhpbXVtUmFiaVJhdGVWYWx1ZSA+PSAxMDAwKSB7CiAgICBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyID0gT05FX1FVQklUX01BWElNVU1fUkFCSV9SQVRFX1VOSVRTLk1IejsKICAgIG1heGltdW1SYWJpUmF0ZVZhbHVlID0gY2FsY3VsYXRlTWF4aW11bVJhYmlSYXRlVmFsdWUoCiAgICAgIGF0dHJpYnV0ZXMubWF4aW11bVJhYmlSYXRlLAogICAgICBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyCiAgICApOwogIH0KICBfc2V0KGF0dHJpYnV0ZXMsICJtYXhpbXVtUmFiaVJhdGVWYWx1ZSIsIG1heGltdW1SYWJpUmF0ZVZhbHVlKTsKICBfc2V0KGF0dHJpYnV0ZXMsICJtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyIiwgbWF4aW11bVJhYmlSYXRlTXVsdGlwbGllcik7CgogIHJldHVybiB7CiAgICB0eXBlOiBBQ1RJT05fVFlQRVMuUkVDRUlWRV9PTkVfUVVCSVRfQVRUUklCVVRFUywKICAgIGl0ZW06IGF0dHJpYnV0ZXMKICB9Owp9OwoKLy8gTGlzdGVucyBmb3IgdXBkYXRlcyB0byBldmFsdWF0aW9uIGF0dHJpYnV0ZXMgaW4gZmlyZWJhc2UKZXhwb3J0IGNvbnN0IGZldGNoT25lUXViaXRBdHRyaWJ1dGVzID0gdHlwZSA9PiBkaXNwYXRjaCA9PiB7CiAgY29uc3QgcGF0aCA9IGAke3R5cGV9LyR7Z2V0Q3VycmVudFVzZXJVaWQoKX0vYXR0cmlidXRlc2A7CiAgZGF0YWJhc2UucmVmKHBhdGgpLm9uKCJ2YWx1ZSIsIHNuYXBzaG90ID0+IHsKICAgIGNvbnN0IGRhdGEgPSBzbmFwc2hvdC52YWwoKTsKICAgIGlmIChkYXRhKSB7CiAgICAgIGRpc3BhdGNoKHJlY2VpdmVPbmVRdWJpdEF0dHJpYnV0ZXModHlwZSwgZGF0YSkpOwogICAgfQogIH0pOwp9Owo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dXBsb2FkaW5nT25lUXViaXRDdXN0b21QdWxzZSA9IGl0ZW0gPT4gewogIHJldHVybiB7CiAgICB0eXBlOiBBQ1RJT05fVFlQRVMuVVBMT0FESU5HX0NVU1RPTV9QVUxTRSwKICAgIGl0ZW0KICB9Owp9OwoKLy8gVGVsbHMgdGhlIHN0b3JlIGEgY3VzdG9tIHB1bHNlIGhhcyBiZWVuIHVwbG9hZGVkCmNvbnN0IHVwbG9hZGVkQ3VzdG9tUHVsc2UgPSAodHlwZSwgaXRlbSkgPT4gewogIHJldHVybiB7CiAgICB0eXBlOiBBQ1RJT05fVFlQRVMuVVBMT0FERURfQ1VTVE9NX1BVTFNFLAogICAgaXRlbQogIH07Cn07CgovLyBVcGxvYWRzIGEgY3VzdG9tIHB1bHNlIGZpbGUgdG8gY2xvdWQgc3RvcmFnZQpleHBvcnQgY29uc3QgY3JlYXRlQ3VzdG9tUHVsc2UgPSAodHlwZSwgaXRlbSkgPT4gKGRpc3BhdGNoLCBnZXRTdGF0ZSkgPT4gewogIGNvbnN0IHVpZCA9IGdldFN0YXRlKCkuYXV0aC5pdGVtLnVpZDsKICBjb25zdCBwdWxzZUtleSA9IGBjdXN0b20ke3V1aWQoKX1gOwoKICBkaXNwYXRjaCgKICAgIHVwbG9hZGluZ09uZVF1Yml0Q3VzdG9tUHVsc2UodHlwZSwgeyBwcm9ncmVzczogMSwgZG93bmxvYWRVUkw6IG51bGwgfSkKICApOwoKICB0cmFjaygiY3JlYXRlX2N1c3RvbV9wdWxzZSIpOwoKICBjb25zdCB1cGxvYWRUYXNrID0gc3RvcmFnZQogICAgLnJlZihgJHt0eXBlfS8ke3VpZH0vcHVsc2VzLyR7cHVsc2VLZXl9LmNzdmApCiAgICAucHV0KGl0ZW0uZmlsZSk7CiAgdXBsb2FkVGFzay5vbigKICAgICJzdGF0ZV9jaGFuZ2VkIiwKICAgIHNuYXBzaG90ID0+IHsKICAgICAgY29uc3QgcHJvZ3Jlc3MgPQogICAgICAgIHNuYXBzaG90LmJ5dGVzVHJhbnNmZXJyZWQgLyBzbmFwc2hvdC50b3RhbEJ5dGVzICogMTAwIHx8IDE7CiAgICAgIF9zZXQoaXRlbSwgInByb2dyZXNzIiwgcHJvZ3Jlc3MpOwogICAgICBfc2V0KGl0ZW0sICJkb3dubG9hZFVSTCIsIG51bGwpOwogICAgICBkaXNwYXRjaCh1cGxvYWRpbmdPbmVRdWJpdEN1c3RvbVB1bHNlKHQ=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZmV0Y2hFdmFsdWF0aW9uQXR0cmlidXRlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB1aWQgPSBnZXRTdGF0ZSgpLmF1dGguaXRlbS51aWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCwK</text>
+        <text encoding="base64">Ly8gTGlzdGVucyBmb3IgdXBkYXRlcyB0byBldmFsdWF0aW9uIGF0dHJpYnV0ZXMgaW4gZmlyZWJhc2UKZXhwb3J0IGNvbnN0IGZldGNoRXZhbHVhdGlvbkF0dHJpYnV0ZXMgPSB0eXBlID0+IGRpc3BhdGNoID0+IHsKICBjb25zdCBwYXRoID0gYCR7dHlwZX0vJHtnZXRDdXJyZW50VXNlclVpZCgpfS9hdHRyaWJ1dGVzYDsKICBkYXRhYmFzZS5yZWYocGF0aCkub24oInZhbHVlIiwgc25hcHNob3QgPT4gewogICAgY29uc3QgZGF0YSA9IHNuYXBzaG90LnZhbCgpOwogICAgaWYgKGRhdGEpIHsKICAgICAgZGlzcGF0Y2gocmVjZWl2ZUV2YWx1YXRpb24odHlwZSwgZGF0YSkpOwogICAgfQogIH0pOwp9OwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCwK</text>
+        <text encoding="base64">Ly8gTGlzdGVucyBmb3IgdXBkYXRlcyB0byBldmFsdWF0aW9uIGF0dHJpYnV0ZXMgaW4gZmlyZWJhc2UKZXhwb3J0IGNvbnN0IGZldGNoRXZhbHVhdGlvbkF0dHJpYnV0ZXMgPSB0eXBlID0+IGRpc3BhdGNoID0+IHsKICBjb25zdCBwYXRoID0gYCR7dHlwZX0vJHtnZXRDdXJyZW50VXNlclVpZCgpfS9hdHRyaWJ1dGVzYDsKICBkYXRhYmFzZS5yZWYocGF0aCkub24oInZhbHVlIiwgc25hcHNob3QgPT4gewogICAgY29uc3QgZGF0YSA9IHNuYXBzaG90LnZhbCgpOwogICAgaWYgKGRhdGEpIHsKICAgICAgZGlzcGF0Y2gocmVjZWl2ZUV2YWx1YXRpb24odHlwZSwgZGF0YSkpOwogICAgfQogIH0pOwp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCwK</text>
+        <text encoding="base64">ICBjb25zdCB1aWQgPSBnZXRTdGF0ZSgpLmF1dGguaXRlbS51aWQ7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCwK</text>
+      <register name="7" type="4">
+        <text encoding="base64">dXBsb2FkaW5nT25lUXViaXRDdXN0b21QdWxzZSA9IGl0ZW0gPT4gewogIHJldHVybiB7CiAgICB0eXBlOiBBQ1RJT05fVFlQRVMuVVBMT0FESU5HX0NVU1RPTV9QVUxTRSwKICAgIGl0ZW0KICB9Owp9OwoKLy8gVGVsbHMgdGhlIHN0b3JlIGEgY3VzdG9tIHB1bHNlIGhhcyBiZWVuIHVwbG9hZGVkCmNvbnN0IHVwbG9hZGVkQ3VzdG9tUHVsc2UgPSAodHlwZSwgaXRlbSkgPT4gewogIHJldHVybiB7CiAgICB0eXBlOiBBQ1RJT05fVFlQRVMuVVBMT0FERURfQ1VTVE9NX1BVTFNFLAogICAgaXRlbQogIH07Cn07CgovLyBVcGxvYWRzIGEgY3VzdG9tIHB1bHNlIGZpbGUgdG8gY2xvdWQgc3RvcmFnZQpleHBvcnQgY29uc3QgY3JlYXRlQ3VzdG9tUHVsc2UgPSAodHlwZSwgaXRlbSkgPT4gKGRpc3BhdGNoLCBnZXRTdGF0ZSkgPT4gewogIGNvbnN0IHVpZCA9IGdldFN0YXRlKCkuYXV0aC5pdGVtLnVpZDsKICBjb25zdCBwdWxzZUtleSA9IGBjdXN0b20ke3V1aWQoKX1gOwoKICBkaXNwYXRjaCgKICAgIHVwbG9hZGluZ09uZVF1Yml0Q3VzdG9tUHVsc2UodHlwZSwgeyBwcm9ncmVzczogMSwgZG93bmxvYWRVUkw6IG51bGwgfSkKICApOwoKICB0cmFjaygiY3JlYXRlX2N1c3RvbV9wdWxzZSIpOwoKICBjb25zdCB1cGxvYWRUYXNrID0gc3RvcmFnZQogICAgLnJlZihgJHt0eXBlfS8ke3VpZH0vcHVsc2VzLyR7cHVsc2VLZXl9LmNzdmApCiAgICAucHV0KGl0ZW0uZmlsZSk7CiAgdXBsb2FkVGFzay5vbigKICAgICJzdGF0ZV9jaGFuZ2VkIiwKICAgIHNuYXBzaG90ID0+IHsKICAgICAgY29uc3QgcHJvZ3Jlc3MgPQogICAgICAgIHNuYXBzaG90LmJ5dGVzVHJhbnNmZXJyZWQgLyBzbmFwc2hvdC50b3RhbEJ5dGVzICogMTAwIHx8IDE7CiAgICAgIF9zZXQoaXRlbSwgInByb2dyZXNzIiwgcHJvZ3Jlc3MpOwogICAgICBfc2V0KGl0ZW0sICJkb3dubG9hZFVSTCIsIG51bGwpOwogICAgICBkaXNwYXRjaCh1cGxvYWRpbmdPbmVRdWJpdEN1c3RvbVB1bHNlKHQ=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmVjZWl2ZU9uZVF1Yml0U2VsZWN0ZWRQdWxzZVR5cGVzID0gKHNlbGVjdGVkUHVsc2VUeXBlcykgPT4gewogIC8vIE9yZGVyIHB1bHNlcwogIGNvbnN0IG9yZGVyZWRQdWxzZVR5cGVzID0ge307CiAgT2JqZWN0LmtleXMoc2VsZWN0ZWRQdWxzZVR5cGVzKQogICAgLnNvcnQoKGEsIGIpID0+IE9ORV9RVUJJVF9QVUxTRV9PUkRFUlthXSAtIE9ORV9RVUJJVF9QVUxTRV9PUkRFUltiXSkKICAgIC5tYXAodHlwZSA9PiAob3JkZXJlZFB1bHNlVHlwZXNbdHlwZV0gPSBzZWxlY3RlZFB1bHNlVHlwZXNbdHlwZV0pKTsKCiAgcmV0dXJuIHsKICAgIHR5cGU6IEFDVElPTl9UWVBFUy5SRUNFSVZFX09ORV9RVUJJVF9TRUxFQ1RFRF9QVUxTRV9UWVBFUywKICAgIGl0ZW06IG9yZGVyZWRQdWxzZVR5cGVzCiAgfTsKfTsKCi8vIExpc3RlbnMgZm9yIHVwZGF0ZXMgdG8gc2VsZWN0ZWRQdWxzZVR5cGVzIGluIGZpcmViYXNlCmV4cG9ydCBjb25zdCBmZXRjaFNlbGVjdGVkUHVsc2VUeXBlcyA9IHR5cGUgPT4gKGRpc3BhdGNoLCBnZXRTdGF0ZSkgPT4gewogIGNvbnN0IHVpZCA9IGdldFN0YXRlKCkuYXV0aC5pdGVtLnVpZDsKICBjb25zdCBwYXRoID0gYCR7dHlwZX0vJHt1aWR9L3NlbGVjdGVkUHVsc2VUeXBlc2A7CiAgZGF0YWJhc2UucmVmKHBhdGgpLm9uKCJ2YWx1ZSIsIHNuYXBzaG90ID0+IHsKICAgIGNvbnN0IGRhdGEgPSBzbmFwc2hvdC52YWwoKSB8fCB7fTsKICAgIGRpc3BhdGNoKHJlY2VpdmVPbmVRdWJpdFNlbGVjdGVkUHVsc2VUeXBlcyh0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCB1aWQgPSBnZXRTdGF0ZSgpLmF1dGguaXRlbS51aWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>uploadingOneQubit</last-search>
+      <last-search>receive</last-search>
       <last-offset />
-      <last-pattern>uploadingOneQubit</last-pattern>
+      <last-pattern>receive</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>item</entry>
-        <entry>state</entry>
         <entry>combineForms</entry>
         <entry>updatedState</entry>
         <entry>shows save</entry>
@@ -294,6 +307,8 @@
         <entry>receiveCustomPulse</entry>
         <entry>uploading</entry>
         <entry>uploadingOneQubit</entry>
+        <entry>receiveEVal</entry>
+        <entry>receive</entry>
       </history-search>
       <history-cmd>
         <entry>tabnew .</entry>
@@ -304,12 +319,12 @@
         <entry>21</entry>
         <entry>tabnew</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>Ex</entry>
         <entry>qa!</entry>
         <entry>110</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>red</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
