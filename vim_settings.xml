@@ -10,8 +10,38 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535453063977">
+      <file name="/Dummy.txt" timestamp="1535454280474">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/utils/tests.js" timestamp="1535454235185">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="101" column="26" />
+        <mark key="]" line="101" column="49" />
+        <mark key="^" line="101" column="49" />
+        <mark key="." line="101" column="49" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/actions/Evaluation/index.js" timestamp="1535455769471">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/selectors/OneQubit/index.js" timestamp="1535455882076">
+        <mark key="'" line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/CustomPulse/index.js" timestamp="1535455576599">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/actions/index.js" timestamp="1535455233160">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" timestamp="1535453574623">
         <mark key="'" line="273" column="2" />
@@ -24,12 +54,28 @@
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" timestamp="1535453433317">
-        <mark key="'" line="183" column="21" />
-        <mark key="[" line="193" column="21" />
-        <mark key="]" line="193" column="21" />
-        <mark key="." line="193" column="21" />
-        <mark key="^" line="248" column="36" />
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" timestamp="1535454191413">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="18" />
+        <mark key="." line="49" column="18" />
+        <mark key="^" line="47" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/__tests__/OneQubit/OptimisedPulse.test.js" timestamp="1535454147222">
+        <mark key="'" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" timestamp="1535455862531">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" timestamp="1535455720000">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="112" column="31" />
+        <mark key="]" line="112" column="31" />
+        <mark key="." line="112" column="31" />
+        <mark key="^" line="12" column="58" />
       </file>
       <file name="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" timestamp="1535452012048">
         <mark key="'" line="25" column="40" />
@@ -88,72 +134,129 @@
       <jump line="86" column="2" filename="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" />
       <jump line="273" column="2" filename="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" />
       <jump line="133" column="56" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="60" column="4" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="9" column="16" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="11" column="26" filename="$USER_HOME$/Code/qctrl/frontend/src/__tests__/OneQubit/OptimisedPulse.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/utils/tests.js" />
+      <jump line="103" column="27" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="309" column="41" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="114" column="6" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" />
+      <jump line="111" column="23" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" />
+      <jump line="36" column="29" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" />
+      <jump line="7" column="2" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" />
+      <jump line="0" column="22" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="2" column="9" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="8" column="62" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="29" column="13" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="91" column="12" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="92" column="26" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="32" column="36" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="34" column="28" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="117" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="39" column="27" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" />
+      <jump line="10" column="17" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" />
+      <jump line="89" column="18" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="90" column="41" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="54" column="13" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/Evaluation/index.js" />
+      <jump line="9" column="15" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/Evaluation/index.js" />
+      <jump line="55" column="34" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/selectors/OneQubit/index.js" />
+      <jump line="14" column="40" filename="$USER_HOME$/Code/qctrl/frontend/src/selectors/OneQubit/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DELETABLE_PULSE_TYPES</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBfc2V0KGF0dHJpYnV0ZXMsICJ0eXBlIiwgT05FX1FVQklUX0VWQUxVQVRJT05fVFlQRVMuUFVMU0UpOwoKICAvLyBQb2xhciBBbmdsZSBpcyBzYXZlZCBhcyBhbiBhYnNvbHV0ZSBudW1iZXIgYnV0IGRpc3BsYXllZCBhcyBhIG51bWJlciAqIFBJCiAgX3NldCgKICAgIGF0dHJpYnV0ZXMsCiAgICAicG9sYXJBbmdsZU11bHRpcGxpZXIiLAogICAgKE51bWJlcihhdHRyaWJ1dGVzLnBvbGFyQW5nbGUgfHwgMCkgLyBNYXRoLlBJKS50b1N0cmluZygpCiAgKTsKCiAgLy8gUmFiaSBSYXRlIGlzIHNhdmVkIGFzIGFuIGFic29sdXRlIG51bWJlciBidXQgZGlzcGxheWVkIGFzIGEgbnVtYmVyICogMiAqIFBJCiAgLy8gKiBrSHogb3IgTUh6LiBXZSBkZWZhdWx0IHVuaXRzIHRvIGtIegogIGxldCBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyID0gT05FX1FVQklUX01BWElNVU1fUkFCSV9SQVRFX1VOSVRTLmtIejsKICBsZXQgbWF4aW11bVJhYmlSYXRlVmFsdWUgPSBjYWxjdWxhdGVNYXhpbXVtUmFiaVJhdGVWYWx1ZSgKICAgIGF0dHJpYnV0ZXMubWF4aW11bVJhYmlSYXRlLAogICAgbWF4aW11bVJhYmlSYXRlTXVsdGlwbGllcgogICk7CgogIC8vIFdlIGNhbGN1bGF0ZSBpbiBNSHogaWYgdmFsdWUgaXMgZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvIDEwMDAga0h6CiAgaWYgKG1heGltdW1SYWJpUmF0ZVZhbHVlID49IDEwMDApIHsKICAgIG1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIgPSBPTkVfUVVCSVRfTUFYSU1VTV9SQUJJX1JBVEVfVU5JVFMuTUh6OwogICAgbWF4aW11bVJhYmlSYXRlVmFsdWUgPSBjYWxjdWxhdGVNYXhpbXVtUmFiaVJhdGVWYWx1ZSgKICAgICAgYXR0cmlidXRlcy5tYXhpbXVtUmFiaVJhdGUsCiAgICAgIG1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIKICAgICk7CiAgfQogIF9zZXQoYXR0cmlidXRlcywgIm1heGltdW1SYWJpUmF0ZVZhbHVlIiwgbWF4aW11bVJhYmlSYXRlVmFsdWUpOwogIF9zZXQoYXR0cmlidXRlcywgIm1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIiLCBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyKTsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DELETABLE_PULSE_TYPES</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>OPTIMISED</text>
+        <text>Evaluation</text>
       </register>
-      <register name="0" type="4">
-        <text>MODIFIABLE_PULSE_TYPES</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZGF0YWJhc2UsIHN0b3JhZ2UgfSBmcm9tICIuLi8uLi91dGlscy9maXJlYmFzZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBkaXNhYmxlZCA9IGRpZmZlcmVudFJvdGF0aW9uOwo=</text>
+        <text encoding="base64">ICBfc2V0KGF0dHJpYnV0ZXMsICJ0eXBlIiwgT05FX1FVQklUX0VWQUxVQVRJT05fVFlQRVMuUFVMU0UpOwoKICAvLyBQb2xhciBBbmdsZSBpcyBzYXZlZCBhcyBhbiBhYnNvbHV0ZSBudW1iZXIgYnV0IGRpc3BsYXllZCBhcyBhIG51bWJlciAqIFBJCiAgX3NldCgKICAgIGF0dHJpYnV0ZXMsCiAgICAicG9sYXJBbmdsZU11bHRpcGxpZXIiLAogICAgKE51bWJlcihhdHRyaWJ1dGVzLnBvbGFyQW5nbGUgfHwgMCkgLyBNYXRoLlBJKS50b1N0cmluZygpCiAgKTsKCiAgLy8gUmFiaSBSYXRlIGlzIHNhdmVkIGFzIGFuIGFic29sdXRlIG51bWJlciBidXQgZGlzcGxheWVkIGFzIGEgbnVtYmVyICogMiAqIFBJCiAgLy8gKiBrSHogb3IgTUh6LiBXZSBkZWZhdWx0IHVuaXRzIHRvIGtIegogIGxldCBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyID0gT05FX1FVQklUX01BWElNVU1fUkFCSV9SQVRFX1VOSVRTLmtIejsKICBsZXQgbWF4aW11bVJhYmlSYXRlVmFsdWUgPSBjYWxjdWxhdGVNYXhpbXVtUmFiaVJhdGVWYWx1ZSgKICAgIGF0dHJpYnV0ZXMubWF4aW11bVJhYmlSYXRlLAogICAgbWF4aW11bVJhYmlSYXRlTXVsdGlwbGllcgogICk7CgogIC8vIFdlIGNhbGN1bGF0ZSBpbiBNSHogaWYgdmFsdWUgaXMgZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvIDEwMDAga0h6CiAgaWYgKG1heGltdW1SYWJpUmF0ZVZhbHVlID49IDEwMDApIHsKICAgIG1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIgPSBPTkVfUVVCSVRfTUFYSU1VTV9SQUJJX1JBVEVfVU5JVFMuTUh6OwogICAgbWF4aW11bVJhYmlSYXRlVmFsdWUgPSBjYWxjdWxhdGVNYXhpbXVtUmFiaVJhdGVWYWx1ZSgKICAgICAgYXR0cmlidXRlcy5tYXhpbXVtUmFiaVJhdGUsCiAgICAgIG1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIKICAgICk7CiAgfQogIF9zZXQoYXR0cmlidXRlcywgIm1heGltdW1SYWJpUmF0ZVZhbHVlIiwgbWF4aW11bVJhYmlSYXRlVmFsdWUpOwogIF9zZXQoYXR0cmlidXRlcywgIm1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIiLCBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoIWl0ZW0uYmxvY2hTcGhlcmUgfHwgaXRlbS5zdGF0dXMgPT09IFBVTFNFX1NUQVRVU0VTLlBFTkRJTkcpIHsKICAgIHJldHVybiA8TG9hZGluZ1B1bHNlIGl0ZW09e2l0ZW19IG9uQ2xvc2U9e29uQ2xvc2V9IC8+OwogIH0K</text>
+        <text encoding="base64">ICBfc2V0KGF0dHJpYnV0ZXMsICJ0eXBlIiwgT05FX1FVQklUX0VWQUxVQVRJT05fVFlQRVMuUFVMU0UpOwoKICAvLyBQb2xhciBBbmdsZSBpcyBzYXZlZCBhcyBhbiBhYnNvbHV0ZSBudW1iZXIgYnV0IGRpc3BsYXllZCBhcyBhIG51bWJlciAqIFBJCiAgX3NldCgKICAgIGF0dHJpYnV0ZXMsCiAgICAicG9sYXJBbmdsZU11bHRpcGxpZXIiLAogICAgKE51bWJlcihhdHRyaWJ1dGVzLnBvbGFyQW5nbGUgfHwgMCkgLyBNYXRoLlBJKS50b1N0cmluZygpCiAgKTsKCiAgLy8gUmFiaSBSYXRlIGlzIHNhdmVkIGFzIGFuIGFic29sdXRlIG51bWJlciBidXQgZGlzcGxheWVkIGFzIGEgbnVtYmVyICogMiAqIFBJCiAgLy8gKiBrSHogb3IgTUh6LiBXZSBkZWZhdWx0IHVuaXRzIHRvIGtIegogIGxldCBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyID0gT05FX1FVQklUX01BWElNVU1fUkFCSV9SQVRFX1VOSVRTLmtIejsKICBsZXQgbWF4aW11bVJhYmlSYXRlVmFsdWUgPSBjYWxjdWxhdGVNYXhpbXVtUmFiaVJhdGVWYWx1ZSgKICAgIGF0dHJpYnV0ZXMubWF4aW11bVJhYmlSYXRlLAogICAgbWF4aW11bVJhYmlSYXRlTXVsdGlwbGllcgogICk7CgogIC8vIFdlIGNhbGN1bGF0ZSBpbiBNSHogaWYgdmFsdWUgaXMgZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvIDEwMDAga0h6CiAgaWYgKG1heGltdW1SYWJpUmF0ZVZhbHVlID49IDEwMDApIHsKICAgIG1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIgPSBPTkVfUVVCSVRfTUFYSU1VTV9SQUJJX1JBVEVfVU5JVFMuTUh6OwogICAgbWF4aW11bVJhYmlSYXRlVmFsdWUgPSBjYWxjdWxhdGVNYXhpbXVtUmFiaVJhdGVWYWx1ZSgKICAgICAgYXR0cmlidXRlcy5tYXhpbXVtUmFiaVJhdGUsCiAgICAgIG1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIKICAgICk7CiAgfQogIF9zZXQoYXR0cmlidXRlcywgIm1heGltdW1SYWJpUmF0ZVZhbHVlIiwgbWF4aW11bVJhYmlSYXRlVmFsdWUpOwogIF9zZXQoYXR0cmlidXRlcywgIm1heGltdW1SYWJpUmF0ZU11bHRpcGxpZXIiLCBtYXhpbXVtUmFiaVJhdGVNdWx0aXBsaWVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gTGlzdGVucyBmb3IgdXBkYXRlcyB0byBldmFsdWF0aW9uIGF0dHJpYnV0ZXMgaW4gZmlyZWJhc2UKZXhwb3J0IGNvbnN0IGZldGNoQXR0cmlidXRlcyA9IHR5cGUgPT4gZGlzcGF0Y2ggPT4gewogIGNvbnN0IHBhdGggPSBgJHt0eXBlfS8ke2dldEN1cnJlbnRVc2VyVWlkKCl9L2F0dHJpYnV0ZXNgOwogIGRhdGFiYXNlLnJlZihwYXRoKS5vbigidmFsdWUiLCBzbmFwc2hvdCA9PiB7CiAgICBjb25zdCBkYXRhID0gc25hcHNob3QudmFsKCk7CiAgICBpZiAoZGF0YSkgewogICAgICBkaXNwYXRjaChyZWNlaXZlRXZhbHVhdGlvbih0eXBlLCBkYXRhKSk7CiAgICB9CiAgfSk7Cn07Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB1aWQgPSBnZXRTdGF0ZSgpLmF1dGguaXRlbS51aWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoW1BVTFNFX1RZUEVTLk9QVElNSVNFRCwgUFVMU0VfVFlQRVMuQ1VTVE9NXS5pbmNsdWRlcyhpdGVtLnB1bHNlVHlwZSkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgUm9vdCA9ICgpID0+IGBvbmVRdWJpdC8ke2dldEN1cnJlbnRVc2VyVWlkKCl9YDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKFtQVUxTRV9TVEFUVVNFUy5QRU5ESU5HXSkK</text>
+        <text encoding="base64">ICBjb25zdCB1aWQgPSBnZXRTdGF0ZSgpLmF1dGguaXRlbS51aWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApIHsK</text>
+        <text encoding="base64">ICBQVUxTRV9UWVBFUwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzd2l0Y2ggKGl0ZW0ucHVsc2VUeXBlKSB7CiAgICBjYXNlIFBVTFNFX1RZUEVTLk9QVElNSVNFRDoKICAgIGNhc2UgUFVMU0VfVFlQRVMuQ1VTVE9NOgogICAgICBicmVhazsKICAgIGRlZmF1bHQ6CiAgICAgIGJyZWFrOwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OPTIMISED</last-search>
+      <last-search>Evaluation</last-search>
       <last-offset />
-      <last-pattern>OPTIMISED</last-pattern>
+      <last-pattern>Evaluation</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Generating</entry>
-        <entry>locale.display</entry>
-        <entry>STATUSES</entry>
-        <entry>Loading</entry>
-        <entry>LoadingPulse</entry>
-        <entry>disabled</entry>
-        <entry>switch</entry>
         <entry>OPTIMISED</entry>
+        <entry>const</entry>
+        <entry>PULSE_TYPES</entry>
+        <entry>show optimised</entry>
+        <entry>shows optim</entry>
+        <entry>shows</entry>
+        <entry>creates opt</entry>
+        <entry>pending</entry>
+        <entry>SELECTED</entry>
+        <entry>type</entry>
+        <entry>ONE_QUBIT</entry>
+        <entry>EVALUATION_TYPES</entry>
+        <entry>actions</entry>
+        <entry>fetchOne</entry>
+        <entry>uid</entry>
+        <entry>fetchAttributes</entry>
+        <entry>updateEval</entry>
+        <entry>receiveEval</entry>
+        <entry>Attributes</entry>
+        <entry>Evaluation</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>q</entry>
+        <entry>red</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
