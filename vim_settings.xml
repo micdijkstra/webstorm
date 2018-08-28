@@ -2,15 +2,168 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" timestamp="1535453586115">
+        <mark key="'" line="133" column="56" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535453063977">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" timestamp="1535453574623">
+        <mark key="'" line="273" column="2" />
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="84" column="35" />
+        <mark key="." line="84" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Loading/index.js" timestamp="1535452984658">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" timestamp="1535453433317">
+        <mark key="'" line="183" column="21" />
+        <mark key="[" line="193" column="21" />
+        <mark key="]" line="193" column="21" />
+        <mark key="." line="193" column="21" />
+        <mark key="^" line="248" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" timestamp="1535452012048">
+        <mark key="'" line="25" column="40" />
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="20" column="28" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" />
+      <jump line="15" column="6" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" />
+      <jump line="68" column="15" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" />
+      <jump line="17" column="28" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" />
+      <jump line="25" column="40" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="109" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="41" column="8" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="6" column="30" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="51" column="17" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="26" column="31" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="25" column="7" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="61" column="12" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="249" column="19" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="183" column="21" filename="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" />
+      <jump line="80" column="2" filename="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" />
+      <jump line="84" column="13" filename="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" />
+      <jump line="86" column="2" filename="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" />
+      <jump line="273" column="2" filename="$USER_HOME$/Code/qctrl/frontend/src/constants/index.js" />
+      <jump line="133" column="56" filename="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Pulse/index.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>DELETABLE_PULSE_TYPES</text>
+      </register>
+      <register name="-" type="4">
+        <text>DELETABLE_PULSE_TYPES</text>
+      </register>
+      <register name="/" type="4">
+        <text>OPTIMISED</text>
+      </register>
+      <register name="0" type="4">
+        <text>MODIFIABLE_PULSE_TYPES</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCBkaXNhYmxlZCA9IGRpZmZlcmVudFJvdGF0aW9uOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpZiAoIWl0ZW0uYmxvY2hTcGhlcmUgfHwgaXRlbS5zdGF0dXMgPT09IFBVTFNFX1NUQVRVU0VTLlBFTkRJTkcpIHsKICAgIHJldHVybiA8TG9hZGluZ1B1bHNlIGl0ZW09e2l0ZW19IG9uQ2xvc2U9e29uQ2xvc2V9IC8+OwogIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpZiAoW1BVTFNFX1RZUEVTLk9QVElNSVNFRCwgUFVMU0VfVFlQRVMuQ1VTVE9NXS5pbmNsdWRlcyhpdGVtLnB1bHNlVHlwZSkpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmKFtQVUxTRV9TVEFUVVNFUy5QRU5ESU5HXSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICApIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>OPTIMISED</last-search>
+      <last-offset />
+      <last-pattern>OPTIMISED</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>Generating</entry>
+        <entry>locale.display</entry>
+        <entry>STATUSES</entry>
+        <entry>Loading</entry>
+        <entry>LoadingPulse</entry>
+        <entry>disabled</entry>
+        <entry>switch</entry>
+        <entry>OPTIMISED</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>qa</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
