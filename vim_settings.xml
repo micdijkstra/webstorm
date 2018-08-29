@@ -22,16 +22,7 @@
         <mark key="^" line="101" column="49" />
         <mark key="." line="101" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/qctrl/frontend/src/actions/Evaluation/index.js" timestamp="1535455769471">
-        <mark key="'" line="9" column="15" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/qctrl/frontend/src/selectors/OneQubit/index.js" timestamp="1535455882076">
-        <mark key="'" line="14" column="40" />
-      </file>
+      <file name="$USER_HOME$/Code/qctrl/frontend/src/actions/Evaluation/index.js" timestamp="1535455769471" />
       <file name="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/CustomPulse/index.js" timestamp="1535455576599">
         <mark key="'" line="29" column="13" />
         <mark key="[" line="8" column="0" />
@@ -63,19 +54,6 @@
       </file>
       <file name="$USER_HOME$/Code/qctrl/frontend/src/__tests__/OneQubit/OptimisedPulse.test.js" timestamp="1535454147222">
         <mark key="'" line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/qctrl/frontend/src/actions/OneQubit/index.js" timestamp="1535455862531">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/qctrl/frontend/src/containers/OneQubit/Attributes/index.js" timestamp="1535455720000">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="112" column="31" />
-        <mark key="]" line="112" column="31" />
-        <mark key="." line="112" column="31" />
-        <mark key="^" line="12" column="58" />
       </file>
       <file name="$USER_HOME$/Code/qctrl/frontend/src/components/templates/Pulse/Generating/index.js" timestamp="1535452012048">
         <mark key="'" line="25" column="40" />
