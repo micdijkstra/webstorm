@@ -63,11 +63,6 @@
         <mark key="." line="52" column="42" />
         <mark key="^" line="51" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" timestamp="1536022826807">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="51" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" timestamp="1536024598773">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="63" column="4" />
@@ -110,11 +105,11 @@
         <mark key="." line="194" column="7" />
         <mark key="^" line="194" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" timestamp="1536032204629">
-        <mark key="'" line="232" column="2" />
-        <mark key="[" line="71" column="49" />
-        <mark key="]" line="71" column="50" />
-        <mark key="." line="71" column="50" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" timestamp="1536032347463">
+        <mark key="'" line="233" column="31" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/index.js" timestamp="1536032244791">
         <mark key="'" line="11" column="32" />
@@ -150,17 +145,19 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/UserOnboarding/index.js" timestamp="1535932752156">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="72" column="1" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" timestamp="1536021778066">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="56" column="31" />
         <mark key="]" line="56" column="31" />
         <mark key="^" line="56" column="65" />
         <mark key="." line="56" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1536034648932">
+        <mark key="'" line="555" column="25" />
+        <mark key="[" line="590" column="29" />
+        <mark key="]" line="590" column="36" />
+        <mark key="^" line="590" column="36" />
+        <mark key="." line="590" column="36" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1536023502664">
         <mark key="'" line="14" column="2" />
@@ -188,8 +185,8 @@
         <mark key="^" line="9" column="59" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" timestamp="1536032336287">
-        <mark key="'" line="65" column="43" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" timestamp="1536032349134">
+        <mark key="'" line="74" column="40" />
         <mark key="[" line="51" column="48" />
         <mark key="]" line="51" column="49" />
         <mark key="^" line="51" column="45" />
@@ -241,11 +238,6 @@
         <mark key="]" line="65" column="17" />
         <mark key="." line="65" column="17" />
         <mark key="^" line="65" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Notification/index.js" timestamp="1535934353549">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="50" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/FilterFunctions/index.js" timestamp="1536018425692">
         <mark key="'" line="14" column="23" />
@@ -397,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" />
@@ -463,7 +454,6 @@
       <jump line="73" column="43" filename="$USER_HOME$/Code/frontend/src/utils/evaluation.js" />
       <jump line="11" column="32" filename="$USER_HOME$/Code/frontend/src/reducers/OneQubit/index.js" />
       <jump line="115" column="17" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
-      <jump line="234" column="51" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="34" column="37" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
       <jump line="71" column="49" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
@@ -484,7 +474,6 @@
       <jump line="155" column="17" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
       <jump line="38" column="12" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
       <jump line="51" column="48" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
-      <jump line="74" column="40" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
       <jump line="5" column="65" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
       <jump line="8" column="16" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
       <jump line="9" column="12" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
@@ -497,55 +486,58 @@
       <jump line="55" column="35" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
       <jump line="56" column="31" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
       <jump line="65" column="43" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="234" column="31" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="74" column="40" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" />
+      <jump line="555" column="25" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmF2b3JpdGVDb250cm9scyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBPTkVfUVVCSVRfUFVMU0VfT1JERVIsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZmF2b3JpdGVDb250cm9scyA=</text>
       </register>
       <register name="/" type="4">
-        <text>Custom</text>
+        <text>pulse.custom.generating</text>
       </register>
       <register name="0" type="4">
         <text>ONE_QUBIT_DEFAULT_STATES.PULSE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBPTkVfUVVCSVRfUFVMU0VfT1JERVIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh7c2VsZWN0ZWRDb250cm9sVHlwZXMsIGNvbnRyb2xUeXBlLCBjb250cm9sfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh7c2VsZWN0ZWRDb250cm9sVHlwZXMsIGNvbnRyb2xUeXBlLCBjb250cm9sfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXR1czogU1RBVFVTRVMuUEVORElORwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgc2VsZWN0ZWRQdWxzZVR5cGVzIH0pOwo=</text>
+        <text encoding="base64">ICAgIHN0YXR1czogU1RBVFVTRVMuUEVORElORwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAga2V5cz17T05FX1FVQklUX1BVTFNFX0RBVEFbdGFiXX0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgc2VsZWN0ZWRQdWxzZVR5cGVzIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9ybWF0PXt0YWJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAga2V5cz17T05FX1FVQklUX1BVTFNFX0RBVEFbdGFiXX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBrZXlzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9ybWF0PXt0YWJ9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT05FX1FVQklUX1BVTFNFX0RBVEEgfSBmcm9tICIuLi8uLi8uLi8uLi9jb25zdGFudHMvaW5kZXgiOwo=</text>
+        <text encoding="base64">ICBrZXlzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>Custom</last-search>
+      <last-search>pulse.custom.generating</last-search>
       <last-offset />
-      <last-pattern>Custom</last-pattern>
+      <last-pattern>pulse.custom.generating</last-pattern>
       <last-replace>drive</last-replace>
       <last-substitute>pulse</last-substitute>
       <last-dir>1</last-dir>
@@ -553,8 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ORDER</entry>
-        <entry>coloredDrive</entry>
         <entry>Chart</entry>
         <entry>uni</entry>
         <entry>PULSE_DATA</entry>
@@ -573,6 +563,8 @@
         <entry>const Pulses =</entry>
         <entry>Root(state)</entry>
         <entry>Custom</entry>
+        <entry>pulse.generating</entry>
+        <entry>pulse.custom.generating</entry>
       </history-search>
       <history-cmd>
         <entry>%s/oneQubit/parametricDrive/g</entry>
@@ -591,10 +583,10 @@
         <entry>%s/pulse/drive/g</entry>
         <entry>14</entry>
         <entry>174</entry>
-        <entry>qa</entry>
         <entry>145</entry>
         <entry>red</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
