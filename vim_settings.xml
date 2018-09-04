@@ -26,12 +26,6 @@
       <file name="$USER_HOME$/Code/frontend/src/reducers/Noise/index.js" timestamp="1536038803801">
         <mark key="'" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/TwoQubit/EvaluationType/index.js" timestamp="1535936437577">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ParametricDrive/Attributes/index.js" timestamp="1536040581660">
         <mark key="'" line="2" column="21" />
         <mark key="[" line="47" column="7" />
@@ -79,17 +73,12 @@
         <mark key="." line="52" column="42" />
         <mark key="^" line="51" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1535946100590">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" timestamp="1536040682877">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="7" />
+      <file name="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" timestamp="1536041355737">
+        <mark key="'" line="7" column="39" />
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="53" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" timestamp="1536025392393">
         <mark key="'" line="22" column="39" />
@@ -409,21 +398,8 @@
         <mark key="." line="154" column="47" />
         <mark key="^" line="154" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/PulseActions/index.js" timestamp="1535603377590">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="5" />
-        <mark key="." line="30" column="47" />
-        <mark key="^" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/utils/firebase.js" timestamp="1535593577188">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="36" filename="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/OptimisedPulse.test.js" />
       <jump line="155" column="36" filename="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/OptimisedPulse.test.js" />
       <jump line="193" column="36" filename="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/OptimisedPulse.test.js" />
       <jump line="3" column="7" filename="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/OptimisedPulse.test.js" />
@@ -523,6 +499,7 @@
       <jump line="2" column="14" filename="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" />
       <jump line="5" column="35" filename="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" />
       <jump line="7" column="26" filename="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" />
+      <jump line="6" column="39" filename="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
