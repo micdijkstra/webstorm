@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" timestamp="1536555312818">
-        <mark key="'" line="534" column="13" />
-        <mark key="[" line="535" column="55" />
-        <mark key="]" line="536" column="13" />
-        <mark key="^" line="536" column="13" />
-        <mark key="." line="536" column="13" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Drive/Data/index.js" timestamp="1536024923205">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="21" column="11" />
@@ -39,10 +32,10 @@
         <mark key="." line="142" column="53" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/PerformanceSummaries/index.js" timestamp="1536551276090">
-        <mark key="[" line="19" column="59" />
-        <mark key="]" line="19" column="59" />
-        <mark key="." line="19" column="59" />
-        <mark key="^" line="19" column="59" />
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+        <mark key="^" line="7" column="59" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/TwoQubit/EvaluationType/index.js" timestamp="1535936707320">
         <mark key="'" line="113" column="0" />
@@ -141,13 +134,6 @@
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/theme/index.js" timestamp="1536554808859">
-        <mark key="'" line="118" column="2" />
-        <mark key="[" line="160" column="7" />
-        <mark key="]" line="160" column="6" />
-        <mark key="^" line="160" column="6" />
-        <mark key="." line="160" column="6" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/path.js" timestamp="1536289041631">
         <mark key="[" line="28" column="80" />
         <mark key="]" line="29" column="2" />
@@ -203,10 +189,10 @@
         <mark key="." line="18" column="69" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/noise.js" timestamp="1536554962114">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/Evaluation.test.js" timestamp="1535596286093">
         <mark key="'" line="44" column="17" />
@@ -214,12 +200,6 @@
         <mark key="]" line="65" column="17" />
         <mark key="." line="65" column="17" />
         <mark key="^" line="65" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Characterization/index.js" timestamp="1536547083909">
-        <mark key="[" line="114" column="6" />
-        <mark key="]" line="114" column="6" />
-        <mark key="^" line="112" column="5" />
-        <mark key="." line="114" column="6" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/FilterFunctions/index.js" timestamp="1536551235770">
         <mark key="'" line="15" column="23" />
@@ -235,18 +215,10 @@
         <mark key="." line="44" column="41" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/PerformanceMetrics/index.js" timestamp="1536551568257">
-        <mark key="'" line="10" column="7" />
         <mark key="[" line="4" column="73" />
         <mark key="]" line="4" column="106" />
         <mark key="^" line="4" column="106" />
         <mark key="." line="4" column="106" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/Preview/index.js" timestamp="1536535491736">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="16" />
-        <mark key="]" line="66" column="16" />
-        <mark key="^" line="66" column="16" />
-        <mark key="." line="66" column="16" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/Noises/index.js" timestamp="1536546992671">
         <mark key="'" line="0" column="0" />
@@ -308,6 +280,11 @@
         <mark key="]" line="18" column="21" />
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/Loading/index.js" timestamp="1536199784122">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/TwoQubit/EvaluationType/index.js" timestamp="1535936437577">
         <mark key="[" line="20" column="30" />
@@ -378,20 +355,6 @@
         <mark key="^" line="46" column="27" />
         <mark key="." line="108" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1536546932118">
-        <mark key="'" line="215" column="13" />
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="0" />
-        <mark key="." line="281" column="0" />
-        <mark key="^" line="280" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" timestamp="1536554345042">
-        <mark key="'" line="43" column="28" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="79" column="3" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/index.js" timestamp="1536554065128">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="23" column="18" />
@@ -427,11 +390,11 @@
         <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/PerformanceMetrics/index.js" timestamp="1536551261795">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="19" column="57" />
-        <mark key="]" line="19" column="57" />
-        <mark key="^" line="19" column="57" />
-        <mark key="." line="19" column="57" />
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="7" column="57" />
+        <mark key="^" line="7" column="57" />
+        <mark key="." line="7" column="57" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/index.js" timestamp="1536554073651">
         <mark key="'" line="54" column="14" />
@@ -448,7 +411,6 @@
         <mark key="^" line="238" column="48" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Sampled/index.js" timestamp="1536554173002">
-        <mark key="'" line="47" column="20" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -475,7 +437,7 @@
         <mark key="^" line="3" column="46" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/SelectedPulses/index.js" timestamp="1536207657961">
-        <mark key="'" line="51" column="40" />
+        <mark key="'" line="49" column="40" />
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
@@ -529,13 +491,6 @@
         <mark key="]" line="57" column="21" />
         <mark key="^" line="57" column="21" />
         <mark key="." line="57" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" timestamp="1536554298744">
-        <mark key="'" line="77" column="23" />
-        <mark key="[" line="84" column="20" />
-        <mark key="]" line="84" column="28" />
-        <mark key="." line="84" column="28" />
-        <mark key="^" line="84" column="28" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/constants/actionTypes.js" timestamp="1536550272290">
         <mark key="'" line="0" column="6" />
