@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" timestamp="1536632299800">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" timestamp="1536620898723">
         <mark key="'" line="579" column="0" />
         <mark key="[" line="584" column="0" />
@@ -115,7 +122,6 @@
         <mark key="^" line="44" column="55" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" timestamp="1536623824561">
-        <mark key="'" line="110" column="10" />
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
@@ -185,12 +191,6 @@
         <mark key="." line="77" column="26" />
         <mark key="^" line="77" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" timestamp="1535609519466">
-        <mark key="'" line="124" column="11" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" timestamp="1536552904824">
         <mark key="'" line="43" column="20" />
         <mark key="[" line="63" column="0" />
@@ -204,12 +204,6 @@
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" timestamp="1536623696105">
-        <mark key="'" line="89" column="21" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="104" column="1" />
-        <mark key="^" line="63" column="65" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Actions/index.js" timestamp="1536534347233">
         <mark key="'" line="17" column="5" />
@@ -333,12 +327,12 @@
         <mark key="." line="30" column="47" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" timestamp="1536545314238">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="33" />
-        <mark key="." line="47" column="33" />
-        <mark key="^" line="47" column="33" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" timestamp="1536632140101">
+        <mark key="'" line="47" column="5" />
+        <mark key="[" line="184" column="18" />
+        <mark key="]" line="184" column="20" />
+        <mark key="." line="184" column="20" />
+        <mark key="^" line="184" column="20" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/firebase.js" timestamp="1535593577188">
         <mark key="[" line="18" column="20" />
@@ -415,13 +409,6 @@
         <mark key="^" line="46" column="27" />
         <mark key="." line="108" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" timestamp="1536621636400">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="193" column="59" />
-        <mark key="]" line="194" column="61" />
-        <mark key="." line="194" column="61" />
-        <mark key="^" line="194" column="61" />
-      </file>
       <file name="$USER_HOME$/Code/firebase/scripts/db/parametricDrive/iSWAP/pulses.json" timestamp="1536534406535">
         <mark key="'" line="1" column="0" />
       </file>
@@ -450,19 +437,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/utils/control.js" timestamp="1536623624971">
-        <mark key="'" line="58" column="2" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="2" />
-        <mark key="^" line="67" column="14" />
-        <mark key="." line="67" column="2" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" timestamp="1536621139357">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="162" column="14" />
-        <mark key="]" line="162" column="26" />
-        <mark key="^" line="149" column="9" />
-        <mark key="." line="149" column="0" />
+        <mark key="'" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/PerformanceMetrics/index.js" timestamp="1536551261795">
         <mark key="'" line="25" column="0" />
@@ -477,12 +453,6 @@
         <mark key="]" line="20" column="7" />
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/CustomControl/index.js" timestamp="1536299393362">
-        <mark key="'" line="3" column="31" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/README.md" timestamp="1536280338898">
         <mark key="'" line="23" column="121" />
@@ -506,7 +476,7 @@
         <mark key="^" line="3" column="46" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/SelectedPulses/index.js" timestamp="1536207657961">
-        <mark key="'" line="51" column="40" />
+        <mark key="'" line="49" column="40" />
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
@@ -575,15 +545,8 @@
         <mark key="^" line="57" column="21" />
         <mark key="." line="57" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" timestamp="1536623076419">
-        <mark key="'" line="150" column="31" />
-        <mark key="^" line="18" column="36" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/constants/actionTypes.js" timestamp="1536620606862">
         <mark key="'" line="0" column="6" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Evaluation/Noise/index.js" timestamp="1536623026648">
         <mark key="'" line="147" column="0" />
@@ -617,24 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="51" column="32" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="15" column="3" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="159" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="4" column="24" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="60" column="53" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="45" column="39" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="152" column="31" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
-      <jump line="11" column="13" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="103" column="2" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="101" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="13" column="18" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="29" column="6" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="94" column="27" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="93" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
@@ -717,55 +662,73 @@
       <jump line="85" column="23" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="64" column="2" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="110" column="10" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="47" column="5" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="51" column="14" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="19" column="66" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="24" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="48" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="35" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Pulse</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>Pulse</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>controlTypeKey</text>
+        <text>this.snap</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqW2tleV0gPSBmb3JtYXRDb250cm9sRGF0YShldmFsdWF0aW9uVHlwZSwgaXRlbSwgIGNvbnRyb2wsIGludGwpOwo=</text>
+      <register name="0" type="4">
+        <text>BLOCH_SPHERE_SNAP_BUTTON_LABELS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBjb250cm9sVHlwZUtleSA9CiAgICBldmFsdWF0aW9uVHlwZSA9PT0gRVZBTFVBVElPTl9UWVBFUy5PTkVfUVVCSVQgPyAicHVsc2VUeXBlIiA6ICJjb250cm9sVHlwZSI7Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbFR5cGVLZXksCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc25hcEJ1dHRvbkxhYmVscyA9IEJMT0NIX1NQSEVSRV9TTkFQX0JVVFRPTl9MQUJFTFM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBjb250cm9sTG9jYWxlID0KICAgIGV2YWx1YXRpb25UeXBlID09PSBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCA/ICJwdWxzZSIgOiAiY29udHJvbCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9GbGV4Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGludGwpIHsKICAgICAgICAgICAgICBpdGVtLnRpdGxlID0KICAgICAgICAgICAgICAgIGNvbnRyb2wubmFtZSB8fAogICAgICAgICAgICAgICAgaW50bC5mb3JtYXRNZXNzYWdlKHsKICAgICAgICAgICAgICAgICAgaWQ6IGAke2NvbnRyb2xMb2NhbGV9LnR5cGUuJHtjb250cm9sW2NvbnRyb2xUeXBlS2V5XX1gCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpdGVtLmNvbG9ycyA9IGNvbnRyb2wuY29sb3JzOwoKICAgICAgICAgICAgb2JqW2tleV0gPSBpdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZsZXggZmxleD17MX0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5jb2xvcnMgPSBwdWxzZS5jb2xvcnM7CiAgICAgICAgICAgIGlmIChpbnRsKSB7CiAgICAgICAgICAgICAgaXRlbS50aXRsZSA9CiAgICAgICAgICAgICAgICBwdWxzZS5uYW1lIHx8CiAgICAgICAgICAgICAgICBpbnRsLmZvcm1hdE1lc3NhZ2UoewogICAgICAgICAgICAgICAgICBpZDogYHB1bHNlLnR5cGUuJHtwdWxzZS5wdWxzZVR5cGV9YAogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICBjb25zdCBjb250cm9sVHlwZUtleSA9CiAgICBldmFsdWF0aW9uVHlwZSA9PT0gRVZBTFVBVElPTl9UWVBFUy5PTkVfUVVCSVQgPyAicHVsc2VUeXBlIiA6ICJjb250cm9sVHlwZSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoaXRlbS5zdGF0dXMgPT09IFNUQVRVU0VTLkRPTkUpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbFR5cGVLZXksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoaXRlbS5zdGF0dXMgPT09IFNUQVRVU0VTLkRPTkUpIHsK</text>
+        <text encoding="base64">ICBjb25zdCBjb250cm9sTG9jYWxlID0KICAgIGV2YWx1YXRpb25UeXBlID09PSBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCA/ICJwdWxzZSIgOiAiY29udHJvbCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>controlTypeKey</last-search>
+      <last-search>this.snap</last-search>
       <last-offset />
-      <last-pattern>controlTypeKey</last-pattern>
+      <last-pattern>this.snap</last-pattern>
       <last-replace>CustomDrive</last-replace>
       <last-substitute>CustomControl</last-substitute>
       <last-dir>1</last-dir>
@@ -773,8 +736,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onSave</entry>
-        <entry>this.updateNoise</entry>
         <entry>Promise</entry>
         <entry>receiveNoise</entry>
         <entry>didReceiveEval</entry>
@@ -793,6 +754,8 @@
         <entry>Filter</entry>
         <entry>format</entry>
         <entry>controlTypeKey</entry>
+        <entry>PlayBar</entry>
+        <entry>this.snap</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
