@@ -121,11 +121,12 @@
         <mark key="." line="44" column="23" />
         <mark key="^" line="44" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" timestamp="1536623824561">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
+      <file name="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" timestamp="1536636614081">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/attributes/onWrite.function.js" timestamp="1536036462184">
         <mark key="'" line="12" column="15" />
@@ -205,6 +206,11 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" timestamp="1536636585699">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="43" column="75" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Actions/index.js" timestamp="1536534347233">
         <mark key="'" line="17" column="5" />
         <mark key="[" line="76" column="28" />
@@ -264,11 +270,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/PerformanceMetrics/index.js" timestamp="1536551568257">
-        <mark key="[" line="4" column="73" />
-        <mark key="]" line="4" column="106" />
-        <mark key="^" line="4" column="106" />
-        <mark key="." line="4" column="106" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/PerformanceMetrics/index.js" timestamp="1536637035787">
+        <mark key="'" line="5" column="32" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/Preview/index.js" timestamp="1536535491736">
         <mark key="'" line="0" column="0" />
@@ -326,13 +333,6 @@
         <mark key="]" line="21" column="5" />
         <mark key="." line="30" column="47" />
         <mark key="^" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" timestamp="1536632140101">
-        <mark key="'" line="47" column="5" />
-        <mark key="[" line="184" column="18" />
-        <mark key="]" line="184" column="20" />
-        <mark key="." line="184" column="20" />
-        <mark key="^" line="184" column="20" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/firebase.js" timestamp="1535593577188">
         <mark key="[" line="18" column="20" />
@@ -409,6 +409,12 @@
         <mark key="^" line="46" column="27" />
         <mark key="." line="108" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" timestamp="1536636780274">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="205" column="63" />
+        <mark key="^" line="204" column="13" />
+        <mark key="." line="204" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/scripts/db/parametricDrive/iSWAP/pulses.json" timestamp="1536534406535">
         <mark key="'" line="1" column="0" />
       </file>
@@ -476,7 +482,7 @@
         <mark key="^" line="3" column="46" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/SelectedPulses/index.js" timestamp="1536207657961">
-        <mark key="'" line="49" column="40" />
+        <mark key="'" line="51" column="40" />
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
@@ -545,6 +551,9 @@
         <mark key="^" line="57" column="21" />
         <mark key="." line="57" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" timestamp="1536636922866">
+        <mark key="'" line="147" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/constants/actionTypes.js" timestamp="1536620606862">
         <mark key="'" line="0" column="6" />
       </file>
@@ -580,52 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="94" column="27" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="75" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="223" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="96" column="1" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="196" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="192" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="187" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="18" column="60" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="183" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="182" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="178" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="173" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="168" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="166" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="161" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="156" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="151" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
       <jump line="147" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
       <jump line="144" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
       <jump line="133" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
@@ -680,55 +643,101 @@
       <jump line="40" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/SnapButtons/index.js" />
+      <jump line="17" column="27" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="94" column="37" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
+      <jump line="165" column="15" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="66" column="8" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="35" column="19" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="128" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/FilterFunctions/index.js" />
+      <jump line="5" column="32" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/PerformanceMetrics/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFBlcmZvcm1hbmNlU3VtbWFyaWVzIGZyb20gIi4uLy4uLy4uL3JlZHVjZXJzL0V2YWx1YXRpb24vUGVyZm9ybWFuY2VTdW1tYXJpZXMiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">UGFnZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>this.snap</text>
+        <text>ONE_QUBIT</text>
       </register>
-      <register name="0" type="4">
-        <text>BLOCH_SPHERE_SNAP_BUTTON_LABELS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV2YWx1YXRpb25UeXBlLAogICAgICAgICAgb3BlcmF0aW9uVHlwZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBlcmZvcm1hbmNlU3VtbWFyaWVzIGZyb20gIi4uLy4uLy4uL3JlZHVjZXJzL0V2YWx1YXRpb24vUGVyZm9ybWFuY2VTdW1tYXJpZXMiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRQZXJmb3JtYW5jZU1ldHJpY3MgfSBmcm9tICIuLi8uLi8uLi9zZWxlY3RvcnMvRXZhbHVhdGlvbiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc25hcEJ1dHRvbkxhYmVscyA9IEJMT0NIX1NQSEVSRV9TTkFQX0JVVFRPTl9MQUJFTFM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsKICBFVkFMVUFUSU9OX1RZUEVTLAogIE9ORV9RVUJJVF9PUEVSQVRJT05fVFlQRVMKfSBmcm9tICIuLi8uLi8uLi9jb25zdGFudHMiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9GbGV4Pgo=</text>
+        <text encoding="base64">ICBPTkVfUVVCSVRfT1BFUkFUSU9OX1RZUEVTCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZsZXggZmxleD17MX0+Cg==</text>
+        <text encoding="base64">ICBFVkFMVUFUSU9OX1RZUEVTLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEVWQUxVQVRJT05fVFlQRVMuT05FX1FVQklULAogICAgICAgICAgT05FX1FVQklUX09QRVJBVElPTl9UWVBFUy5QVUxTRSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBjb250cm9sVHlwZUtleSA9CiAgICBldmFsdWF0aW9uVHlwZSA9PT0gRVZBTFVBVElPTl9UWVBFUy5PTkVfUVVCSVQgPyAicHVsc2VUeXBlIiA6ICJjb250cm9sVHlwZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9ORV9RVUJJVF9PUEVSQVRJT05fVFlQRVMuUFVMU0UsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbFR5cGVLZXksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEVWQUxVQVRJT05fVFlQRVMuT05FX1FVQklULAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjb250cm9sTG9jYWxlID0KICAgIGV2YWx1YXRpb25UeXBlID09PSBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCA/ICJwdWxzZSIgOiAiY29udHJvbCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVCwKICAgICAgICBPTkVfUVVCSVRfT1BFUkFUSU9OX1RZUEVTLlBVTFNFCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.snap</last-search>
+      <last-search>ONE_QUBIT</last-search>
       <last-offset />
-      <last-pattern>this.snap</last-pattern>
+      <last-pattern>ONE_QUBIT</last-pattern>
       <last-replace>CustomDrive</last-replace>
       <last-substitute>CustomControl</last-substitute>
       <last-dir>1</last-dir>
@@ -736,8 +745,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Promise</entry>
-        <entry>receiveNoise</entry>
         <entry>didReceiveEval</entry>
         <entry>Noise</entry>
         <entry>onUpdateNoise</entry>
@@ -756,6 +763,8 @@
         <entry>controlTypeKey</entry>
         <entry>PlayBar</entry>
         <entry>this.snap</entry>
+        <entry>Combined</entry>
+        <entry>ONE_QUBIT</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
