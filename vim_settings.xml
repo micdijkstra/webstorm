@@ -146,6 +146,13 @@
       <file name="$USER_HOME$/Code/frontend/src/components/modules/PlayBar/index.js" timestamp="1537139274114">
         <mark key="'" line="20" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/Private/index.js" timestamp="1537240442596">
+        <mark key="'" line="39" column="18" />
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+        <mark key="^" line="60" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Analytical/index.js" timestamp="1537160719156">
         <mark key="'" line="163" column="18" />
         <mark key="[" line="167" column="30" />
@@ -412,11 +419,11 @@
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/database.rules.json" timestamp="1537224873038">
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="23" />
+      <file name="$USER_HOME$/Code/firebase/database.rules.json" timestamp="1537242101248">
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+        <mark key="^" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulses/index.js" timestamp="1536216472257">
         <mark key="'" line="32" column="11" />
@@ -483,12 +490,12 @@
       <file name="$USER_HOME$/Code/firebase/scripts/README.md" timestamp="1537225566260">
         <mark key="'" line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" timestamp="1537240287559">
-        <mark key="'" line="118" column="23" />
-        <mark key="[" line="91" column="26" />
-        <mark key="]" line="91" column="39" />
-        <mark key="." line="91" column="39" />
-        <mark key="^" line="91" column="39" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" timestamp="1537242564452">
+        <mark key="'" line="93" column="9" />
+        <mark key="[" line="93" column="9" />
+        <mark key="]" line="93" column="15" />
+        <mark key="." line="93" column="15" />
+        <mark key="^" line="93" column="15" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/control.js" timestamp="1536731567016">
         <mark key="'" line="2" column="25" />
@@ -684,9 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/Code/firebase/functions/db/organisations/plan/onWrite.function.js" />
-      <jump line="6" column="10" filename="$USER_HOME$/Code/firebase/functions/db/organisations/plan/onWrite.function.js" />
-      <jump line="6" column="73" filename="$USER_HOME$/Code/firebase/functions/db/organisations/owner/onWrite.function.js" />
       <jump line="12" column="32" filename="$USER_HOME$/Code/firebase/functions/db/organisations/owner/onWrite.function.js" />
       <jump line="20" column="17" filename="$USER_HOME$/Code/firebase/functions/db/organisations/plan/onWrite.function.js" />
       <jump line="28" column="18" filename="$USER_HOME$/Code/firebase/functions/db/organisations/plan/onWrite.function.js" />
@@ -784,55 +788,58 @@
       <jump line="8" column="38" filename="$USER_HOME$/Code/firebase/functions/db/organisations/owner/onWrite.function.js" />
       <jump line="11" column="13" filename="$USER_HOME$/Code/firebase/functions/db/organisations/owner/onWrite.function.js" />
       <jump line="21" column="21" filename="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" />
+      <jump line="9" column="48" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="93" column="9" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>owner</text>
+        <text>ChoosePlanProduct</text>
       </register>
       <register name="-" type="4">
-        <text>owner</text>
+        <text>ChoosePlanProduct</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>Choose</text>
       </register>
-      <register name="0" type="4">
-        <text>PAID_BETA_CURRENCY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8Tm90aWZpZXIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9SRUFDVF9BUFBfUkVEVVhfTE9HR0VSPXRydWUK</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAicm9vdC5jaGlsZCgndXNlcnMnKS5jaGlsZChhdXRoLnVpZCkuY2hpbGQoJ29yZ2FuaXNhdGlvbnMnKS5oYXNDaGlsZHJlbihbJG9pZF0pIiwK</text>
+        <text encoding="base64">ICAgICAgKHRoaXMuaXNVc2VyT25ib2FyZGluZyAmJiAoCiAgICAgICkpIHx8ICgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgeyBhZG1pbiwgZnVuY3Rpb25zIH0gPSByZXF1aXJlKCIuLi8uLi91dGlscy9maXJlYmFzZSIpOwpjb25zdCB7IE5PVElGSUNBVElPTl9UWVBFUywgU1RSSVBFIH0gPSByZXF1aXJlKCIuL2NvbnN0YW50cyIpOwpjb25zdCBoYW5kbGVFcnJvciA9IHJlcXVpcmUoIi4uL3V0aWxzL2hhbmRsZS1lcnJvciIpOwpjb25zdCBmb3JtYXR0ZWRNZXNzYWdlID0gcmVxdWlyZSgiLi4vdXRpbHMvZm9ybWF0dGVkTWVzc2FnZSIpOwpjb25zdCBzdHJpcGUgPSByZXF1aXJlKCJzdHJpcGUiKShTVFJJUEUuS0VZKTsK</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGUgZXhhY3QgcGF0aD0iKiIgY29tcG9uZW50PXtVc2VyT25ib2FyZGluZ30gLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgaGFuZGxlRXJyb3IgPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9oYW5kbGUtZXJyb3IiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgeyBhZG1pbiwgZnVuY3Rpb25zIH0gPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9maXJlYmFzZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3RyaXBlID0gcmVxdWlyZSgiLi4vLi4vLi4vdXRpbHMvc3RyaXBlIik7Cg==</text>
+        <text encoding="base64">Ly9SRUFDVF9BUFBfUkVEVVhfTE9HR0VSPXRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc3RyaXBlID0gcmVxdWlyZSgiLi4vLi4vLi4vdXRpbHMvc3RyaXBlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAicm9vdC5jaGlsZCgndXNlcnMnKS5jaGlsZChhdXRoLnVpZCkuY2hpbGQoJ29yZ2FuaXNhdGlvbnMnKS5oYXNDaGlsZHJlbihbJG9pZF0pIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc3RyaXBlID0gcmVxdWlyZSgic3RyaXBlIikoU1RSSVBFLktFWSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBhZG1pbiwgZnVuY3Rpb25zIH0gPSByZXF1aXJlKCIuLi8uLi91dGlscy9maXJlYmFzZSIpOwpjb25zdCB7IE5PVElGSUNBVElPTl9UWVBFUywgU1RSSVBFIH0gPSByZXF1aXJlKCIuL2NvbnN0YW50cyIpOwpjb25zdCBoYW5kbGVFcnJvciA9IHJlcXVpcmUoIi4uL3V0aWxzL2hhbmRsZS1lcnJvciIpOwpjb25zdCBmb3JtYXR0ZWRNZXNzYWdlID0gcmVxdWlyZSgiLi4vdXRpbHMvZm9ybWF0dGVkTWVzc2FnZSIpOwpjb25zdCBzdHJpcGUgPSByZXF1aXJlKCJzdHJpcGUiKShTVFJJUEUuS0VZKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIiRvaWQiOiB7CiAgICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgaGFuZGxlRXJyb3IgPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9oYW5kbGUtZXJyb3IiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>owner</last-search>
+      <last-search>Choose</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern>Choose</last-pattern>
       <last-replace>stripeCustomer</last-replace>
       <last-substitute>owner</last-substitute>
       <last-dir>1</last-dir>
@@ -840,7 +847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sentry</entry>
         <entry>MANDRILL</entry>
         <entry>SENTRY</entry>
         <entry>handleError</entry>
@@ -860,6 +866,7 @@
         <entry>change</entry>
         <entry>currency</entry>
         <entry>owner</entry>
+        <entry>Choose</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
