@@ -332,6 +332,9 @@
         <mark key="." line="15" column="89" />
         <mark key="^" line="15" column="89" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" timestamp="1537399949043">
+        <mark key="'" line="16" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Pulse/index.js" timestamp="1537337347307" />
       <file name="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" timestamp="1537398873083">
         <mark key="'" line="77" column="12" />
@@ -339,6 +342,12 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
         <mark key="^" line="77" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/PlayBar/index.js" timestamp="1537399979137">
+        <mark key="[" line="57" column="13" />
+        <mark key="]" line="57" column="13" />
+        <mark key="." line="57" column="13" />
+        <mark key="^" line="54" column="42" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/PerformanceMetrics/index.js" timestamp="1536637035787">
         <mark key="'" line="5" column="32" />
@@ -632,6 +641,12 @@
         <mark key="]" line="322" column="6" />
         <mark key="." line="322" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePassword/index.js" timestamp="1537150799914">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" timestamp="1536730785666">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="181" column="16" />
@@ -851,7 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="411" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="429" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="438" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
@@ -951,16 +965,17 @@
       <jump line="68" column="29" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
       <jump line="69" column="60" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
       <jump line="95" column="31" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Progress</text>
       </register>
       <register name="-" type="4">
-        <text>, pulseKey</text>
+        <text>Progress</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>animationProgress</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgdXNlclVJRCwgcHVsc2VLZXkgfSA9IGNvbnRleHQucGFyYW1zOwo=</text>
@@ -993,21 +1008,20 @@
         <text encoding="base64">ICAgICAgICBwdWxzZUtleSA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>animationProgress</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
-      <last-replace>Plan</last-replace>
-      <last-substitute>ChoosePlan</last-substitute>
+      <last-pattern>animationProgress</last-pattern>
+      <last-replace>progress</last-replace>
+      <last-substitute>animationProgress</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
         <entry>value</entry>
         <entry>snapshot</entry>
         <entry>after</entry>
@@ -1027,9 +1041,9 @@
         <entry>pulseKey</entry>
         <entry>createOptimised</entry>
         <entry>console</entry>
+        <entry>animationProgress</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/processingPayment/processingPlan/g</entry>
         <entry>%s/owner/stripeCustomer/g</entry>
         <entry>39</entry>
         <entry>%s/ChoosePlan/StripeCustomer/g</entry>
@@ -1045,10 +1059,11 @@
         <entry>122</entry>
         <entry>red</entry>
         <entry>57</entry>
-        <entry>q</entry>
         <entry>55</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>q</entry>
+        <entry>%s/animationProgress/progress/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
