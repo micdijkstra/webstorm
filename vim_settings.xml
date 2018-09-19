@@ -177,8 +177,8 @@
         <mark key="^" line="70" column="53" />
         <mark key="." line="70" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/noises/onWrite.function.js" timestamp="1537332817762">
-        <mark key="'" line="81" column="10" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/noises/onWrite.function.js" timestamp="1537340737456">
+        <mark key="'" line="6" column="7" />
         <mark key="]" line="96" column="9" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Attributes/index.js" timestamp="1536292378165">
@@ -315,6 +315,9 @@
         <mark key="^" line="15" column="89" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Pulse/index.js" timestamp="1537337347307" />
+      <file name="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" timestamp="1537340746231">
+        <mark key="'" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/PerformanceMetrics/index.js" timestamp="1536637035787">
         <mark key="'" line="5" column="32" />
         <mark key="[" line="10" column="0" />
@@ -810,54 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="138" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="134" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="129" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="127" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="125" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="120" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
@@ -910,55 +865,103 @@
       <jump line="411" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="429" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="438" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
+      <jump line="68" column="18" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="79" column="10" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="83" column="26" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="84" column="21" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="85" column="23" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="86" column="22" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="87" column="24" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="92" column="11" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="97" column="21" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="102" column="30" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="98" column="51" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="88" column="20" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="109" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="138" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="129" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="127" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="6" column="7" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/noises/onWrite.function.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQWJvdmUgaXMKY29uc3QgY3VycmVudFNlZ21lbnROdW1iZXIgPSB0aGlzLmRhdGEuc2VnbWVudEluZGV4ZXNbdGhpcy5mcmFtZUluZGV4XTsKY3VycmVudFNlZ21lbnQ6IHRoaXMucHVsc2VBcmMuc2VnbWVudHNbY3VycmVudFNlZ21lbnROdW1iZXIgLSAxXQoKCi8vIFNvIHlvdSBjb3VsZCBkbwpjb25zdCB7IGN1cnJlbnRTZWdtZW50LCBjdXJyZW50U2VnbWVudE51bWJlciB9ID0gdGhpcy5nZXRnZXRDdXJyZW50U2VnbWVudCgpCgoKdGhpcy5wdWxzZUFyYy5zZWdtZW50c1tjdXJyZW50U2VnbWVudCAtIDJdCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YWZ0ZXI6IHsgdmFsOiAoKSA9PiBwdWxzZSB9LCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YWZ0ZXI6IHsgdmFsOiAoKSA9PiBwdWxzZSB9LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>upload</text>
+        <text>change</text>
       </register>
       <register name="0" type="4">
-        <text>item[noiseKey]</text>
+        <text encoding="base64">dmFsOiAoKSA9PiBwdWxzZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQWJvdmUgaXMKY29uc3QgY3VycmVudFNlZ21lbnROdW1iZXIgPSB0aGlzLmRhdGEuc2VnbWVudEluZGV4ZXNbdGhpcy5mcmFtZUluZGV4XTsKY3VycmVudFNlZ21lbnQ6IHRoaXMucHVsc2VBcmMuc2VnbWVudHNbY3VycmVudFNlZ21lbnROdW1iZXIgLSAxXQoKCi8vIFNvIHlvdSBjb3VsZCBkbwpjb25zdCB7IGN1cnJlbnRTZWdtZW50LCBjdXJyZW50U2VnbWVudE51bWJlciB9ID0gdGhpcy5nZXRnZXRDdXJyZW50U2VnbWVudCgpCgoKdGhpcy5wdWxzZUFyYy5zZWdtZW50c1tjdXJyZW50U2VnbWVudCAtIDJdCg==</text>
+        <text encoding="base64">ICAgICAgICBhZnRlclB1bHNlU3R1Yi5yZXR1cm5zKHsgYWZ0ZXI6IH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZnRlclB1bHNlU3R1Yi5yZXR1cm5zKFByb21pc2UucmVzb2x2ZSh7IHZhbDogKCkgPT4gcHVsc2UgfSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGhpcy5wdWxzZUFyYy5zZWdtZW50c1t0aGlzLmRhdGEuc2VnbWVudEluZGV4ZXNbdGhpcy5mcmFtZUluZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgICBhZnRlclN0dWIgPSBzaW5vbi5zdHViKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
+        <text encoding="base64">Ly8gQWJvdmUgaXMKY29uc3QgY3VycmVudFNlZ21lbnROdW1iZXIgPSB0aGlzLmRhdGEuc2VnbWVudEluZGV4ZXNbdGhpcy5mcmFtZUluZGV4XTsKY3VycmVudFNlZ21lbnQ6IHRoaXMucHVsc2VBcmMuc2VnbWVudHNbY3VycmVudFNlZ21lbnROdW1iZXIgLSAxXQoKCi8vIFNvIHlvdSBjb3VsZCBkbwpjb25zdCB7IGN1cnJlbnRTZWdtZW50LCBjdXJyZW50U2VnbWVudE51bWJlciB9ID0gdGhpcy5nZXRnZXRDdXJyZW50U2VnbWVudCgpCgoKdGhpcy5wdWxzZUFyYy5zZWdtZW50c1tjdXJyZW50U2VnbWVudCAtIDJdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gT2JqZWN0LmFzc2lnbiBpcyBwb2x5ZmlsbGVkIGJ5IAo=</text>
+        <text encoding="base64">dGhpcy5wdWxzZUFyYy5zZWdtZW50c1t0aGlzLmRhdGEuc2VnbWVudEluZGV4ZXNbdGhpcy5mcmFtZUluZGV4XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICJjb3JlLWpzL2VzL29iamVjdC9hc3NpZ24iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICJAYmFiZWwvcG9seWZpbGwiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gT2JqZWN0LmFzc2lnbiBpcyBwb2x5ZmlsbGVkIGJ5IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>upload</last-search>
+      <last-search>change</last-search>
       <last-offset />
-      <last-pattern>upload</last-pattern>
+      <last-pattern>change</last-pattern>
       <last-replace>Plan</last-replace>
       <last-substitute>ChoosePlan</last-substitute>
       <last-dir>1</last-dir>
@@ -966,14 +969,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NOISE_TYPES</entry>
-        <entry>noiseType</entry>
-        <entry>noisePlotKey</entry>
-        <entry>console</entry>
-        <entry>Download</entry>
-        <entry>onDownload</entry>
-        <entry>downloadPulse</entry>
-        <entry>setFrameIndexFromProgress</entry>
         <entry>changeLabelOpacity</entry>
         <entry>update</entry>
         <entry>Noise</entry>
@@ -986,6 +981,14 @@
         <entry>Drive</entry>
         <entry>Empty</entry>
         <entry>upload</entry>
+        <entry>value</entry>
+        <entry>snapshot</entry>
+        <entry>after</entry>
+        <entry>on</entry>
+        <entry>val</entry>
+        <entry>afgter</entry>
+        <entry>onWrite</entry>
+        <entry>change</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -999,15 +1002,15 @@
         <entry>39</entry>
         <entry>%s/ChoosePlan/StripeCustomer/g</entry>
         <entry>%s/ChoosePlan/Plan/g</entry>
-        <entry>red</entry>
         <entry>7</entry>
-        <entry>q</entry>
         <entry>134</entry>
         <entry>124</entry>
         <entry>45</entry>
         <entry>tabo</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>red</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
