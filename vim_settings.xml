@@ -1091,7 +1091,7 @@
         <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>Phi</text>
       </register>
       <register name="0" type="4">
         <text>admin.apps.length</text>
@@ -1128,9 +1128,9 @@
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>Phi</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>Phi</last-pattern>
       <last-replace>cameraPreset</last-replace>
       <last-substitute>selectedCameraPreset</last-substitute>
       <last-dir>1</last-dir>
@@ -1138,8 +1138,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dispatch</entry>
-        <entry>disaptch</entry>
         <entry>actions</entry>
         <entry>change</entry>
         <entry>Provider</entry>
@@ -1158,6 +1156,8 @@
         <entry>item</entry>
         <entry>build:</entry>
         <entry>admin</entry>
+        <entry>phi</entry>
+        <entry>Phi</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
