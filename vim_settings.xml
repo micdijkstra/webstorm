@@ -272,12 +272,11 @@
         <mark key="]" line="2" column="38" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/utils/factoryBot.js" timestamp="1537484423965">
+      <file name="$USER_HOME$/Code/frontend/src/utils/factoryBot.js" timestamp="1537487716904">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1536715426380">
         <mark key="'" line="5" column="0" />
@@ -306,7 +305,7 @@
         <mark key="]" line="7" column="46" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/firebase.js" timestamp="1537484240685">
+      <file name="$USER_HOME$/Code/firebase/functions/utils/firebase.js" timestamp="1537487611693">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="0" />
@@ -359,6 +358,12 @@
         <mark key="]" line="51" column="3" />
         <mark key="^" line="51" column="3" />
         <mark key="." line="51" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/__tests__/App.test.js" timestamp="1537487733849">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/Evaluation.test.js" timestamp="1535596286093">
         <mark key="'" line="44" column="17" />
@@ -499,10 +504,10 @@
         <mark key="." line="188" column="40" />
         <mark key="^" line="188" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/utils/firebase.js" timestamp="1537484411526">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/utils/firebase.js" timestamp="1537487520144">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
@@ -977,8 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/BlochSphere/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
       <jump line="33" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
       <jump line="41" column="7" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
@@ -1077,55 +1080,57 @@
       <jump line="2" column="24" filename="$USER_HOME$/Code/frontend/src/utils/factoryBot.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/utils/firebase.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/utils/factoryBot.js" />
+      <jump line="16" column="35" filename="$USER_HOME$/Code/frontend/src/utils/firebase.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/utils/firebase.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFkbWluIGZyb20gImZpcmViYXNlLWFkbWluIjsKCmlmICghYWRtaW4uYXBwcy5sZW5ndGgpIHsKICBhZG1pbi5pbml0aWFsaXplQXBwKCk7Cn0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">byAg</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>build:</text>
+        <text>admin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFkbWluIGZyb20gImZpcmViYXNlLWFkbWluIjsKCmlmICghYWRtaW4uYXBwcy5sZW5ndGgpIHsKICBhZG1pbi5pbml0aWFsaXplQXBwKCk7Cn0K</text>
+      <register name="0" type="4">
+        <text>admin.apps.length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRtaW4uaW5pdGlhbGl6ZUFwcCgpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgYWRtaW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICJmaXJlYmFzZS9hZCI7Cg==</text>
+        <text encoding="base64">YWRtaW4uaW5pdGlhbGl6ZUFwcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJmaXJlYmFzZS9hZCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eWFybiBidWlsZDp0ZXN0IHx8IGV4aXQgMQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJidWlsZDp0ZXN0IjogImVudi1jbWQgLmVudi50ZXN0IHJlYWN0LXNjcmlwdHMgYnVpbGQiLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaApQUk9KRUNUPXEtY3RybC1hcGktdGVzdAoKZmlyZWJhc2UgZnVuY3Rpb25zOmRlbGV0ZSBkYkNoYXJhY3Rlcml6YXRpb25Db25maWd1cmF0aW9uc0ZpbHRlckZ1bmN0aW9uVXBkYXRlZEF0T25Xcml0ZSBkYkNoYXJhY3Rlcml6YXRpb25Db25maWd1cmF0aW9uc1VwZGF0ZWRBdE9uV3JpdGUgZGJDaGFyYWN0ZXJpemF0aW9uTWVhc3VyZW1lbnRzTm9pc2VVcGRhdGVkQXRPblVwZGF0ZSBkYkNoYXJhY3Rlcml6YXRpb25NZWFzdXJlbWVudHNVcGRhdGVkQXRPbldyaXRlIGRiRW1haWxzT25Xcml0ZSAgZGJPbmVRdWJpdEF0dHJpYnV0ZXNPbldyaXRlIGRiT25lUXViaXRGaWx0ZXJGdW5jdGlvbnNPbldyaXRlICBkYk9uZVF1Yml0Tm9pc2VzT25Xcml0ZSBkYk9uZVF1Yml0UGVyZm9ybWFuY2VNZXRyaWNzT25Xcml0ZSAgZGJPbmVRdWJpdFBlcmZvcm1hbmNlU3VtbWFyaWVzT25Xcml0ZSBkYk9uZVF1Yml0UHVsc2VzT25EZWxldGUgIGRiT25lUXViaXRQdWxzZXNQdWxzZUV1Y2xpZGVhbk9uV3JpdGUgZGJPbmVRdWJpdFB1bHNlc1B1bHNlU3RhdHVzT25Xcml0ZSBkYk9uZVF1Yml0UHVsc2VzUHVsc2VVcGRhdGVkQXRPbldyaXRlIGRiUGFyYW1ldHJpY0RyaXZlSVN3YXBBdHRyaWJ1dGVzVXBkYXRlZEF0T25Xcml0ZSBkYlBhcmFtZXRyaWNEcml2ZUlTd2FwQ29udHJvbHNDb250cm9sVXBkYXRlZEF0T25Xcml0ZSBkYlBhcmFtZXRyaWNEcml2ZUlTd2FwRmlsdGVyRnVuY3Rpb25zTm9pc2VQdWxzZVVwZGF0ZWRBdE9uV3JpdGUgIGh0dHBzQWRtaW5PblJlcXVlc3QgaHR0cHNDaGFyYWN0ZXJpemF0aW9uT25SZXF1ZXN0IHB1YnN1YkRiUHVzaE9uUHVibGlzaCBwdWJzdWJEYlVwZGF0ZU9uUHVibGlzaCBzdG9yYWdlT25GaW5hbGl6ZSAtLWZvcmNlIC0tcHJvamVjdD0kREVQTE9ZX1BST0pFQ1QKCmZpcmViYXNlIGRhdGFiYXNlOnJlbW92ZSAvIC0tY29uZmlybSAtLXByb2plY3Q9JERFUExPWV9QUk9KRUNUCgplY2hvICJDbGVhbmVkIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">eWFybiBidWlsZDp0ZXN0IHx8IGV4aXQgMQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJidWlsZDp0ZXN0IjogImVudi1jbWQgLmVudi50ZXN0IHJlYWN0LXNjcmlwdHMgYnVpbGQiLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaApQUk9KRUNUPXEtY3RybC1hcGktdGVzdAoKZmlyZWJhc2UgZnVuY3Rpb25zOmRlbGV0ZSBkYkNoYXJhY3Rlcml6YXRpb25Db25maWd1cmF0aW9uc0ZpbHRlckZ1bmN0aW9uVXBkYXRlZEF0T25Xcml0ZSBkYkNoYXJhY3Rlcml6YXRpb25Db25maWd1cmF0aW9uc1VwZGF0ZWRBdE9uV3JpdGUgZGJDaGFyYWN0ZXJpemF0aW9uTWVhc3VyZW1lbnRzTm9pc2VVcGRhdGVkQXRPblVwZGF0ZSBkYkNoYXJhY3Rlcml6YXRpb25NZWFzdXJlbWVudHNVcGRhdGVkQXRPbldyaXRlIGRiRW1haWxzT25Xcml0ZSAgZGJPbmVRdWJpdEF0dHJpYnV0ZXNPbldyaXRlIGRiT25lUXViaXRGaWx0ZXJGdW5jdGlvbnNPbldyaXRlICBkYk9uZVF1Yml0Tm9pc2VzT25Xcml0ZSBkYk9uZVF1Yml0UGVyZm9ybWFuY2VNZXRyaWNzT25Xcml0ZSAgZGJPbmVRdWJpdFBlcmZvcm1hbmNlU3VtbWFyaWVzT25Xcml0ZSBkYk9uZVF1Yml0UHVsc2VzT25EZWxldGUgIGRiT25lUXViaXRQdWxzZXNQdWxzZUV1Y2xpZGVhbk9uV3JpdGUgZGJPbmVRdWJpdFB1bHNlc1B1bHNlU3RhdHVzT25Xcml0ZSBkYk9uZVF1Yml0UHVsc2VzUHVsc2VVcGRhdGVkQXRPbldyaXRlIGRiUGFyYW1ldHJpY0RyaXZlSVN3YXBBdHRyaWJ1dGVzVXBkYXRlZEF0T25Xcml0ZSBkYlBhcmFtZXRyaWNEcml2ZUlTd2FwQ29udHJvbHNDb250cm9sVXBkYXRlZEF0T25Xcml0ZSBkYlBhcmFtZXRyaWNEcml2ZUlTd2FwRmlsdGVyRnVuY3Rpb25zTm9pc2VQdWxzZVVwZGF0ZWRBdE9uV3JpdGUgIGh0dHBzQWRtaW5PblJlcXVlc3QgaHR0cHNDaGFyYWN0ZXJpemF0aW9uT25SZXF1ZXN0IHB1YnN1YkRiUHVzaE9uUHVibGlzaCBwdWJzdWJEYlVwZGF0ZU9uUHVibGlzaCBzdG9yYWdlT25GaW5hbGl6ZSAtLWZvcmNlIC0tcHJvamVjdD0kREVQTE9ZX1BST0pFQ1QKCmZpcmViYXNlIGRhdGFiYXNlOnJlbW92ZSAvIC0tY29uZmlybSAtLXByb2plY3Q9JERFUExPWV9QUk9KRUNUCgplY2hvICJDbGVhbmVkIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">JChkaXJuYW1lICQwKS9zZXQtcmVsZWFzZS10aW1lc3RhbXAuc2ggLS1wcm9qZWN0PSRERVBMT1lfUFJPSkVDVCAiJEAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaApQUk9KRUNUPXEtY3RybC1hcGktdGVzdAoKZmlyZWJhc2UgZnVuY3Rpb25zOmRlbGV0ZSBkYkNoYXJhY3Rlcml6YXRpb25Db25maWd1cmF0aW9uc0ZpbHRlckZ1bmN0aW9uVXBkYXRlZEF0T25Xcml0ZSBkYkNoYXJhY3Rlcml6YXRpb25Db25maWd1cmF0aW9uc1VwZGF0ZWRBdE9uV3JpdGUgZGJDaGFyYWN0ZXJpemF0aW9uTWVhc3VyZW1lbnRzTm9pc2VVcGRhdGVkQXRPblVwZGF0ZSBkYkNoYXJhY3Rlcml6YXRpb25NZWFzdXJlbWVudHNVcGRhdGVkQXRPbldyaXRlIGRiRW1haWxzT25Xcml0ZSAgZGJPbmVRdWJpdEF0dHJpYnV0ZXNPbldyaXRlIGRiT25lUXViaXRGaWx0ZXJGdW5jdGlvbnNPbldyaXRlICBkYk9uZVF1Yml0Tm9pc2VzT25Xcml0ZSBkYk9uZVF1Yml0UGVyZm9ybWFuY2VNZXRyaWNzT25Xcml0ZSAgZGJPbmVRdWJpdFBlcmZvcm1hbmNlU3VtbWFyaWVzT25Xcml0ZSBkYk9uZVF1Yml0UHVsc2VzT25EZWxldGUgIGRiT25lUXViaXRQdWxzZXNQdWxzZUV1Y2xpZGVhbk9uV3JpdGUgZGJPbmVRdWJpdFB1bHNlc1B1bHNlU3RhdHVzT25Xcml0ZSBkYk9uZVF1Yml0UHVsc2VzUHVsc2VVcGRhdGVkQXRPbldyaXRlIGRiUGFyYW1ldHJpY0RyaXZlSVN3YXBBdHRyaWJ1dGVzVXBkYXRlZEF0T25Xcml0ZSBkYlBhcmFtZXRyaWNEcml2ZUlTd2FwQ29udHJvbHNDb250cm9sVXBkYXRlZEF0T25Xcml0ZSBkYlBhcmFtZXRyaWNEcml2ZUlTd2FwRmlsdGVyRnVuY3Rpb25zTm9pc2VQdWxzZVVwZGF0ZWRBdE9uV3JpdGUgIGh0dHBzQWRtaW5PblJlcXVlc3QgaHR0cHNDaGFyYWN0ZXJpemF0aW9uT25SZXF1ZXN0IHB1YnN1YkRiUHVzaE9uUHVibGlzaCBwdWJzdWJEYlVwZGF0ZU9uUHVibGlzaCBzdG9yYWdlT25GaW5hbGl6ZSAtLWZvcmNlIC0tcHJvamVjdD0kREVQTE9ZX1BST0pFQ1QKCmZpcmViYXNlIGRhdGFiYXNlOnJlbW92ZSAvIC0tY29uZmlybSAtLXByb2plY3Q9JERFUExPWV9QUk9KRUNUCgplY2hvICJDbGVhbmVkIgo=</text>
+        <text encoding="base64">JChkaXJuYW1lICQwKS9zZXQtcmVsZWFzZS10aW1lc3RhbXAuc2ggLS1wcm9qZWN0PSRERVBMT1lfUFJPSkVDVCAiJEAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build:</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>build:</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace>cameraPreset</last-replace>
       <last-substitute>selectedCameraPreset</last-substitute>
       <last-dir>1</last-dir>
@@ -1133,7 +1138,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Presets</entry>
         <entry>dispatch</entry>
         <entry>disaptch</entry>
         <entry>actions</entry>
@@ -1153,6 +1157,7 @@
         <entry>RECEIVE_BLOCH</entry>
         <entry>item</entry>
         <entry>build:</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
