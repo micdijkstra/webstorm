@@ -20,11 +20,16 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.circleci/config.yml" timestamp="1537766253655">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="23" />
+      <file name="$USER_HOME$/Code/frontend/.circleci/config.yml" timestamp="1537770711311">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/status/onWrite.function.js" timestamp="1537399133773">
+        <mark key="[" line="55" column="49" />
+        <mark key="]" line="56" column="3" />
+        <mark key="." line="56" column="3" />
+        <mark key="^" line="56" column="3" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/SelectedPulseTypes/index.js" timestamp="1535600998811">
         <mark key="[" line="9" column="0" />
@@ -50,11 +55,11 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" timestamp="1537337461502">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" timestamp="1537771326541">
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="33" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Warning/index.js" timestamp="1536199813467">
         <mark key="'" line="3" column="53" />
@@ -103,6 +108,12 @@
         <mark key="]" line="47" column="19" />
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/.env.production" timestamp="1537248484910">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="64" />
+        <mark key="." line="12" column="64" />
+        <mark key="^" line="12" column="64" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Private/index.js" timestamp="1537246600975">
         <mark key="'" line="39" column="18" />
@@ -214,13 +225,6 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" timestamp="1537767563839">
-        <mark key="'" line="85" column="27" />
-        <mark key="[" line="82" column="14" />
-        <mark key="]" line="82" column="14" />
-        <mark key="." line="82" column="14" />
-        <mark key="^" line="20" column="74" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Drive/Preview/index.js" timestamp="1536733037456">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="27" column="39" />
@@ -328,6 +332,12 @@
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/database.rules.json" timestamp="1537242101248">
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulses/index.js" timestamp="1536216472257">
         <mark key="'" line="32" column="11" />
         <mark key="[" line="35" column="0" />
@@ -374,6 +384,12 @@
         <mark key="]" line="16" column="21" />
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/.ops/tests/live.sh" timestamp="1537423802815">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" timestamp="1537318900805">
         <mark key="'" line="27" column="0" />
@@ -542,8 +558,8 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/package.json" timestamp="1537766055915">
-        <mark key="'" line="32" column="5" />
+      <file name="$USER_HOME$/Code/frontend/package.json" timestamp="1537771183076">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="98" column="57" />
         <mark key="]" line="98" column="55" />
         <mark key="." line="98" column="55" />
@@ -807,6 +823,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/integrationTest.js" timestamp="1537502213608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Chart/index.js" timestamp="1537415343880">
         <mark key="'" line="18" column="2" />
         <mark key="[" line="79" column="52" />
@@ -854,6 +876,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/StripeCard/index.js" timestamp="1537311774707">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="1" column="79" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drives/index.js" timestamp="1536211997583">
         <mark key="'" line="54" column="50" />
         <mark key="[" line="49" column="0" />
@@ -874,12 +902,8 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" timestamp="1537754281696">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="59" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" timestamp="1537770852906">
         <mark key="^" line="204" column="13" />
-        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/emails/onWrite.function.js" timestamp="1537165195938">
         <mark key="'" line="9" column="0" />
@@ -1051,44 +1075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="55" filename="$USER_HOME$/Code/frontend/package.json" />
-      <jump line="32" column="5" filename="$USER_HOME$/Code/frontend/package.json" />
-      <jump line="156" column="13" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="4" column="2" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="7" column="2" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="5" column="13" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="25" column="17" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="15" column="36" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="11" column="10" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="12" column="10" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="13" column="10" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="14" column="4" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="20" column="44" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="24" column="10" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="33" column="14" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="35" column="14" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="36" column="28" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="49" column="14" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="58" column="7" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="65" column="14" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="68" column="28" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="82" column="14" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="84" column="14" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="85" column="27" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
-      <jump line="94" column="38" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="41" column="9" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="61" column="6" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="16" column="18" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
@@ -1151,55 +1137,93 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="114" column="30" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
+      <jump line="35" column="34" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="33" column="6" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
+      <jump line="2" column="6" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
+      <jump line="5" column="29" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration.js" />
+      <jump line="14" column="14" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
+      <jump line="23" column="25" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
+      <jump line="142" column="16" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" />
+      <jump line="164" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" />
+      <jump line="199" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" />
+      <jump line="188" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" />
+      <jump line="172" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" />
+      <jump line="168" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" />
+      <jump line="198" column="15" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" />
+      <jump line="32" column="5" filename="$USER_HOME$/Code/frontend/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgLy8gU2V0IGFsbCBkZWZpbmVkIGFuZCBvcHRpbWlzZWQgQ29udHJvbHMgdG8gcGVuZGluZyBpbiB0aGUgc3RhdGUKICBjb25zdCBjb250cm9scyA9IGdldFN0YXRlKClbZXZhbHVhdGlvblR5cGVdW29wZXJhdGlvblR5cGVdW2NvbnRyb2xUeXBlXS5pdGVtOwogIGNvbnN0IHByb2Nlc3NpbmdDb250cm9scyA9IF9tYXBWYWx1ZXMoY29udHJvbHMsIChjb250cm9sKSA9PiAoe3N0YXR1czogY29udHJvbFtjb250cm9sVHlwZV0gPT09IENPTlRST0xfVFlQRVMuQ1VTVE9NID8gY29udHJvbC5zdGF0dXMgOiBTVEFUVVNFUy5QRU5ESU5HfSkpCgogIGNvbnNvbGUubG9nKHsgcHJvY2Vzc2luZ0NvbnRyb2xzIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pick</text>
+        <text>nouser@q-ctrl.com</text>
       </register>
       <register name="/" type="4">
-        <text>mapValues</text>
+        <text>plotly</text>
       </register>
-      <register name="0" type="4">
-        <text>!key.includes(CONTROL_TYPES.CUSTOM)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLSBpbWFnZTogY2lyY2xlY2kvbm9kZTo5LjQtYnJvd3NlcnMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLy8gU2V0IGFsbCBkZWZpbmVkIGFuZCBvcHRpbWlzZWQgQ29udHJvbHMgdG8gcGVuZGluZyBpbiB0aGUgc3RhdGUKICBjb25zdCBjb250cm9scyA9IGdldFN0YXRlKClbZXZhbHVhdGlvblR5cGVdW29wZXJhdGlvblR5cGVdW2NvbnRyb2xUeXBlXS5pdGVtOwogIGNvbnN0IHByb2Nlc3NpbmdDb250cm9scyA9IF9tYXBWYWx1ZXMoY29udHJvbHMsIChjb250cm9sKSA9PiAoe3N0YXR1czogY29udHJvbFtjb250cm9sVHlwZV0gPT09IENPTlRST0xfVFlQRVMuQ1VTVE9NID8gY29udHJvbC5zdGF0dXMgOiBTVEFUVVNFUy5QRU5ESU5HfSkpCgogIGNvbnNvbGUubG9nKHsgcHJvY2Vzc2luZ0NvbnRyb2xzIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwoKICAgIHRoaXMuc3RhdGUgPSB7fTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBrZXkgb2YgT2JqZWN0LmtleXMoY29udHJvbHMpLmZpbHRlcigKICAgIGtleSA9PiAha2V5LmluY2x1ZGVzKENPTlRST0xfVFlQRVMuQ1VTVE9NKQogICkpIHsKICAgIGNvbnRyb2xzW2tleV0uc3RhdHVzID0gU1RBVFVTRVMuUEVORElORzsKICB9Cg==</text>
+        <text encoding="base64">ICB1cGRhdGVEaW1lbnNpb25zKCkgewogICAgaWYgKHRoaXMucmVmcy5wbG90KSB7CiAgICAgIGxldCBwYXJlbnRXaWR0aCA9IHRoaXMucmVmcy5wbG90LnBhcmVudE5vZGUuY2xpZW50V2lkdGg7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGhlaWdodDogcGFyZW50V2lkdGggLyBhc3BlY3RSYXRpbywKICAgICAgICB3aWR0aDogcGFyZW50V2lkdGgKICAgICAgfSk7CiAgICB9CiAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7CiAgICBpZiAoY29udHJvbFtjb250cm9sVHlwZV0gPT09IENPTlRST0xfVFlQRVMuQ1VTVE9NKSB7CiAgICAgIHJldHVybiB7fQogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIHsgc3RhdHVzOiBTVEFUVVNFUy5QRU5ESU5HIH0KICAgIH0KICB9KQo=</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMudXBkYXRlRGltZW5zaW9ucygpOwogICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoInJlc2l6ZSIsIHRoaXMudXBkYXRlRGltZW5zaW9ucy5iaW5kKHRoaXMpKTsKICB9CgogIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogICAgd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoInJlc2l6ZSIsIHRoaXMudXBkYXRlRGltZW5zaW9ucy5iaW5kKHRoaXMpKTsKICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Rm9ybWF0dGVkTWVzc2FnZSBpZD0ib25lUXViaXRFdmFsdWF0aW9uLmZpbHRlckZ1bmN0aW9ucyI+CiAgICAgICAgICB7bG9jYWxlID0+ICgKICAgICAgICAgICAgPFNlY3Rpb24gdGl0bGU9e2xvY2FsZS50aXRsZX0gZG9jcz17bG9jYWxlLmRvY3N9IGRpdmlkZXI+CiAgICAgICAgICAgICAgPEZpbHRlckZ1bmN0aW9ucwogICAgICAgICAgICAgICAgZXZhbHVhdGlvblR5cGU9e0VWQUxVQVRJT05fVFlQRVMuT05FX1FVQklUfQogICAgICAgICAgICAgICAgb3BlcmF0aW9uVHlwZT17T05FX1FVQklUX09QRVJBVElPTl9UWVBFUy5QVUxTRX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L1NlY3Rpb24+CiAgICAgICAgICApfQogICAgICAgIDwvRm9ybWF0dGVkTWVzc2FnZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsgc3RhdHVzOiBTVEFUVVNFUy5QRU5ESU5HIH0K</text>
+        <text encoding="base64">CiAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9Im9uZVF1Yml0RXZhbHVhdGlvbi5maWx0ZXJGdW5jdGlvbnMiPgogICAgICAgICAge2xvY2FsZSA9PiAoCiAgICAgICAgICAgIDxTZWN0aW9uIHRpdGxlPXtsb2NhbGUudGl0bGV9IGRvY3M9e2xvY2FsZS5kb2NzfSBkaXZpZGVyPgogICAgICAgICAgICAgIDxGaWx0ZXJGdW5jdGlvbnMKICAgICAgICAgICAgICAgIGV2YWx1YXRpb25UeXBlPXtFVkFMVUFUSU9OX1RZUEVTLk9ORV9RVUJJVH0KICAgICAgICAgICAgICAgIG9wZXJhdGlvblR5cGU9e09ORV9RVUJJVF9PUEVSQVRJT05fVFlQRVMuUFVMU0V9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC9TZWN0aW9uPgogICAgICAgICAgKX0KICAgICAgICA8L0Zvcm1hdHRlZE1lc3NhZ2U+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICFrZXkuaW5jbHVkZXMoQ09OVFJPTF9UWVBFUy5DVVNUT00pCg==</text>
+        <text encoding="base64">ICAgICAgLSBpbWFnZTogY2lyY2xlY2kvbm9kZTo5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJiZWZvcmVBbGwiLCB7IHBhZ2U6IHR5cGVvZiBwYWdlLCBicm93c2VyOiB0eXBlb2YgYnJvd3NlciB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IF9tYXBWYWx1ZXMgZnJvbSAibG9kYXNoL21hcFZhbHVlcyI7Cg==</text>
+        <text encoding="base64">ICBhc3luYyBmdW5jdGlvbiBsb2dpbigKICAgIGVtYWlsID0gImludGVncmF0aW9uLnRlc3RAcS1jdHJsLmNvbSIsCiAgICBwYXNzd29yZCA9ICJwYXNzd29yZCIKICApIHsKICAgIGF3YWl0IHBhZ2Uud2FpdEZvcigiaW5wdXQjbW9kZWwtYXV0aC1lbWFpbCIpOwogICAgYXdhaXQgcGFnZS50eXBlKCIjbW9kZWwtYXV0aC1lbWFpbCIsIGVtYWlsKTsKICAgIGF3YWl0IHBhZ2UudHlwZSgiI21vZGVsLWF1dGgtcGFzc3dvcmQiLCBwYXNzd29yZCk7CiAgICBwYWdlLmNsaWNrKCIjbW9kZWwtYXV0aC1zdWJtaXQiKTsKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mapValues</last-search>
+      <last-search>plotly</last-search>
       <last-offset />
-      <last-pattern>mapValues</last-pattern>
+      <last-pattern>plotly</last-pattern>
       <last-replace>TIMEOUT_LIMIT</last-replace>
       <last-substitute>TIMEOUT</last-substitute>
       <last-dir>1</last-dir>
@@ -1207,11 +1231,7 @@
     </search>
     <history>
       <history-search>
-        <entry>1000</entry>
-        <entry>TIMEOUT</entry>
-        <entry>waitFor</entry>
         <entry>newBrow</entry>
-        <entry>console</entry>
         <entry>className</entry>
         <entry>test_build_deploy</entry>
         <entry>test</entry>
@@ -1227,6 +1247,10 @@
         <entry>PROCESSING</entry>
         <entry>PENDING</entry>
         <entry>mapValues</entry>
+        <entry>9.4</entry>
+        <entry>console</entry>
+        <entry>Filter</entry>
+        <entry>plotly</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
@@ -1236,18 +1260,18 @@
         <entry>57</entry>
         <entry>%s/animationProgress/progress/g</entry>
         <entry>%s/selectedCameraPreset/cameraPreset/g</entry>
-        <entry>qa</entry>
         <entry>%s/LoginTemplate/Login/g</entry>
         <entry>55</entry>
         <entry>24</entry>
         <entry>23</entry>
         <entry>%s/TIMEOUT/TIMEOUT_LIMIT/g</entry>
         <entry>44</entry>
-        <entry>q</entry>
         <entry>11</entry>
         <entry>32</entry>
         <entry>9</entry>
         <entry>red</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
