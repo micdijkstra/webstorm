@@ -130,11 +130,11 @@
         <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1537322105115">
-        <mark key="'" line="594" column="26" />
-        <mark key="[" line="500" column="16" />
-        <mark key="]" line="500" column="58" />
-        <mark key="." line="500" column="16" />
-        <mark key="^" line="500" column="24" />
+        <mark key="'" line="601" column="26" />
+        <mark key="[" line="507" column="16" />
+        <mark key="]" line="507" column="58" />
+        <mark key="." line="507" column="16" />
+        <mark key="^" line="507" column="24" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1536715426380">
         <mark key="'" line="5" column="0" />
@@ -320,6 +320,13 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="30" column="3" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" timestamp="1537919579552">
+        <mark key="'" line="55" column="14" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="44" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" timestamp="1536725084327">
         <mark key="'" line="44" column="3" />
         <mark key="[" line="107" column="0" />
@@ -394,6 +401,12 @@
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePassword/index.js" timestamp="1537150799914">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" timestamp="1536730785666">
         <mark key="'" line="64" column="0" />
@@ -757,6 +770,12 @@
         <mark key="^" line="81" column="11" />
         <mark key="." line="81" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/utils/download.js" timestamp="1537919426125">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="^" line="29" column="49" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Generating/index.js" timestamp="1536280246873">
         <mark key="'" line="17" column="34" />
         <mark key="[" line="17" column="27" />
@@ -1005,9 +1024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
-      <jump line="171" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="124" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="133" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="142" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
@@ -1105,55 +1121,58 @@
       <jump line="55" column="32" filename="$USER_HOME$/Code/frontend/src/components/templates/ForgotPassword/index.js" />
       <jump line="142" column="29" filename="$USER_HOME$/Code/frontend/src/components/templates/ForgotPassword/index.js" />
       <jump line="46" column="0" filename="$USER_HOME$/Code/firebase/scripts/README.md" />
+      <jump line="6" column="21" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="14" column="34" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="54" column="14" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>firebase database:set /static/parametricDrive/iSWAP/pulses db/parametricDrive/iSWAP/pulses.json</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3F1YXJlIA==</text>
+        <text>${style}</text>
       </register>
       <register name="/" type="4">
-        <text>Display</text>
+        <text>Blob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SW50ZWdyYXRpb24gdGVzdHMgY2FuIHRoZW4gYmUgcnVuIHdpdGggYHlhcm4gdGVzdCBJbnRlZ3JhdGlvbmAuCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhlYWRlcnMgPSBoZWFkZXJEYXRhLm1hcChrZXkgPT4KICAgICAgaW50bC5mb3JtYXRNZXNzYWdlKHsgaWQ6IGBwdWxzZS5jc3YuJHtkb3dubG9hZFB1bHNlRm9ybWF0fS4ke2tleX1gIH0pCiAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGZpcmViYXNlIGRhdGFiYXNlOnNldCAvc3RhdGljL3BhcmFtZXRyaWNEcml2ZS9pU1dBUC9wdWxzZXMvZ2F1c3NpYW4gZGIvcGFyYW1ldHJpY0RyaXZlL2lTV0FQL2dhdXNzaWFuL3B1bHNlcy5qc29uYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICJzdHlsZWQtY29tcG9uZW50cyI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgRGlzcGxheUVtYWlsID0gc3R5bGVkLmJgCiAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgd2hpdGUtc3BhY2U6IG5vd3JhcDsKYDsKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInJlaWNldmVkIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwdWxzZXMpOwo=</text>
+        <text encoding="base64">Ly8gSGVscGVyIHRvIHRyaWdnZXIgYSBmaWxlIGRvd25sb2FkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXRoKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkb3dubG9hZCBvcGVuIHB1bHNlIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">YGZpcmViYXNlIGRhdGFiYXNlOnNldCAvc3RhdGljL3BhcmFtZXRyaWNEcml2ZS9pU1dBUC9wdWxzZXMvZ2F1c3NpYW4gZGIvcGFyYW1ldHJpY0RyaXZlL2lTV0FQL2dhdXNzaWFuL3B1bHNlcy5qc29uYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cHM6Ly9jb25zb2xlLmZpcmViYXNlLmdvb2dsZS5jb20vcHJvamVjdC9xLWN0cmwtYXBpLXRlc3QvCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICJzdHlsZWQtY29tcG9uZW50cyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Display</last-search>
+      <last-search>Blob</last-search>
       <last-offset />
-      <last-pattern>Display</last-pattern>
+      <last-pattern>Blob</last-pattern>
       <last-replace>TIMEOUT_LIMIT</last-replace>
       <last-substitute>TIMEOUT</last-substitute>
       <last-dir>1</last-dir>
@@ -1161,8 +1180,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_build_deploy</entry>
-        <entry>test</entry>
         <entry>jest</entry>
         <entry>pupp</entry>
         <entry>status</entry>
@@ -1181,6 +1198,8 @@
         <entry>plotly</entry>
         <entry>email</entry>
         <entry>Display</entry>
+        <entry>download</entry>
+        <entry>Blob</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
