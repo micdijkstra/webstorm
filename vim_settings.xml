@@ -115,10 +115,10 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1537920470984">
-        <mark key="'" line="142" column="80" />
-        <mark key="[" line="340" column="56" />
-        <mark key="]" line="340" column="56" />
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1537936783711">
+        <mark key="'" line="340" column="0" />
+        <mark key="[" line="447" column="21" />
+        <mark key="]" line="447" column="35" />
         <mark key="." line="340" column="56" />
         <mark key="^" line="340" column="11" />
       </file>
@@ -327,10 +327,10 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1537928193668">
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1537936798623">
         <mark key="'" line="70" column="2" />
-        <mark key="[" line="183" column="17" />
-        <mark key="]" line="183" column="32" />
+        <mark key="[" line="325" column="4" />
+        <mark key="]" line="325" column="18" />
         <mark key="^" line="183" column="32" />
         <mark key="." line="183" column="32" />
       </file>
@@ -399,8 +399,8 @@
         <mark key="." line="108" column="46" />
         <mark key="^" line="108" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" timestamp="1537483039779">
-        <mark key="'" line="132" column="15" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" timestamp="1537936774564">
+        <mark key="'" line="324" column="62" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -981,27 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="255" column="2" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="40" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
-      <jump line="54" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
       <jump line="59" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/frontend/README.md" />
@@ -1081,19 +1060,40 @@
       <jump line="65" column="2" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="70" column="2" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/actions/OneQubit/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="179" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="190" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="217" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="251" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="282" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="293" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="300" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="369" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="343" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="311" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="324" column="62" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
+      <jump line="340" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7Wy4uLkFycmF5KE9iamVjdC5rZXlzKGRhdGEpWzBdLmxlbmd0aCldLm1hcCgoXywgaW5kZXgpID0+ICgK</text>
+      <register name="&quot;" type="4">
+        <text>detuningControl</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>Opt</text>
+        <text>fixedRabi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7Wy4uLkFycmF5KGRhdGFbT2JqZWN0LmtleXMoZGF0YSlbMF1dLmxlbmd0aCldLm1hcCgoXywgaW5kZXgpID0+ICgK</text>
+      <register name="0" type="4">
+        <text>detuningControl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7Wy4uLkFycmF5KE9iamVjdC5rZXlzKGRhdGEpWzBdLmxlbmd0aCldLm1hcCgoXywgaW5kZXgpID0+ICgK</text>
@@ -1127,9 +1127,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Opt</last-search>
+      <last-search>fixedRabi</last-search>
       <last-offset />
-      <last-pattern>Opt</last-pattern>
+      <last-pattern>fixedRabi</last-pattern>
       <last-replace>TIMEOUT_LIMIT</last-replace>
       <last-substitute>TIMEOUT</last-substitute>
       <last-dir>1</last-dir>
@@ -1137,8 +1137,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectedPulse</entry>
-        <entry>SelectedControl</entry>
         <entry>DONE</entry>
         <entry>plot</entry>
         <entry>PROCESSING</entry>
@@ -1157,6 +1155,8 @@
         <entry>OPTIMISED</entry>
         <entry>Optimised</entry>
         <entry>Opt</entry>
+        <entry>fiedRabi</entry>
+        <entry>fixedRabi</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
