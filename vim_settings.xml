@@ -26,12 +26,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/status/onWrite.function.js" timestamp="1537399133773">
-        <mark key="[" line="55" column="49" />
-        <mark key="]" line="56" column="3" />
-        <mark key="." line="56" column="3" />
-        <mark key="^" line="56" column="3" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/SelectedPulseTypes/index.js" timestamp="1535600998811">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -96,12 +90,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" timestamp="1538012112560">
-        <mark key="'" line="185" column="41" />
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="51" column="2" />
-        <mark key="^" line="51" column="2" />
-        <mark key="." line="51" column="2" />
+      <file name="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" timestamp="1538014052271">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="52" column="8" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/attributes/onWrite.function.js" timestamp="1537244828765">
         <mark key="'" line="83" column="15" />
@@ -109,12 +103,6 @@
         <mark key="]" line="47" column="19" />
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/.env.production" timestamp="1537248484910">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="64" />
-        <mark key="." line="12" column="64" />
-        <mark key="^" line="12" column="64" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Private/index.js" timestamp="1537246600975">
         <mark key="'" line="39" column="18" />
@@ -341,12 +329,6 @@
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/database.rules.json" timestamp="1537242101248">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="22" />
-        <mark key="." line="39" column="22" />
-        <mark key="^" line="39" column="22" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/Noise/index.js" timestamp="1538009181678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -412,12 +394,6 @@
         <mark key="]" line="16" column="21" />
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/.ops/tests/live.sh" timestamp="1537423802815">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/firebase/scripts/README.md" timestamp="1537917348390">
         <mark key="'" line="46" column="0" />
@@ -487,12 +463,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Sampled/index.js" timestamp="1538011373492">
-        <mark key="'" line="20" column="64" />
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="22" column="33" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Sampled/index.js" timestamp="1538013483085">
+        <mark key="'" line="19" column="64" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Plan/index.js" timestamp="1537254641415">
         <mark key="'" line="30" column="0" />
@@ -701,12 +677,12 @@
       <file name="$USER_HOME$/Code/frontend/src/components/modules/PlayBar/index.js" timestamp="1537401126997">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Analytical/index.js" timestamp="1538011370054">
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Analytical/index.js" timestamp="1538013471377">
         <mark key="'" line="25" column="21" />
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="30" />
-        <mark key="^" line="56" column="30" />
-        <mark key="." line="56" column="30" />
+        <mark key="[" line="55" column="29" />
+        <mark key="]" line="55" column="27" />
+        <mark key="^" line="55" column="27" />
+        <mark key="." line="55" column="27" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Attributes/index.js" timestamp="1536292378165">
         <mark key="'" line="132" column="12" />
@@ -714,12 +690,6 @@
         <mark key="]" line="18" column="29" />
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" timestamp="1538012076315">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Noise/index.js" timestamp="1536551812004">
         <mark key="'" line="144" column="0" />
@@ -870,12 +840,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/integrationTest.js" timestamp="1537502213608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Chart/index.js" timestamp="1537415343880">
         <mark key="'" line="18" column="2" />
         <mark key="[" line="79" column="52" />
@@ -917,18 +881,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/reducers/ParametricDrive/Pulses/index.js" timestamp="1537916639378">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/StripeCard/index.js" timestamp="1537311774707">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="1" column="79" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drives/index.js" timestamp="1536211997583">
         <mark key="'" line="54" column="50" />
@@ -1121,8 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="12" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
       <jump line="65" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
       <jump line="38" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" />
       <jump line="79" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
@@ -1221,46 +1171,48 @@
       <jump line="90" column="54" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="181" column="40" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="183" column="41" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="57" column="3" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXR1cm4gZm9ybWF0dGVkTm9pc2VzCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text encoding="base64">Zm9ybWF0dGVkTm9pc2VzID0g</text>
       </register>
       <register name="/" type="4">
         <text>Noise</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpdGVtLnBsb3QgJiYKICAgICAgICAgICAgICBpdGVtLnBsb3QubGluZWFyKAo=</text>
+        <text encoding="base64">aW1wb3J0IF9waWNrIGZyb20gImxvZGFzaC9waWNrIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXR1cm4gZm9ybWF0dGVkTm9pc2VzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJOb2lzZVBMb3QiLCB7IG5vaXNlLCBzb3VyY2UgfSk7Cg==</text>
+        <text encoding="base64">ICBmb3JtYXR0ZWROb2lzZXMgPSBfbWFwVmFsdWVzKG5vaXNlcywgbm9pc2UgPT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5vaXNlUmVmZXJlbmNlUGF0aCA9IHJvdXRlci5vbmVRdWJpdC5ub2lzZVBhdGgodXNlclVJRCwgbm9pc2VTb3VyY2UpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh7Zm9ybWF0dGVkTm9pc2VzfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Rm9ybWF0dGVkTm9pc2UgPSByZXF1aXJlKCIuLi8uLi8uLi8uLi8uLi91dGlscy9mb3JtYXR0ZWQtbm9pc2UiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IF9tYXBWYWx1ZXMgZnJvbSAibG9kYXNoL21hcFZhbHVlcyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBfcGljayhub2lzZXMsIFsKICAgICJleHBvbmVudHMiLAogICAgImZyZXF1ZW5jaWVzIiwKICAgICJtYXhpbXVtUmFiaVJhdGUiLAogICAgIm5vaXNlVHlwZSIsCiAgICAicmVsYXhhdGlvbiIsCiAgICAic291cmNlIiwKICAgICJzdGF0dXMiLAogICAgInBsb3QubG9nIiwKICAgICJwbG90LmxpbmVhciIKICBdKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2FtcGxlZE5vaXNlLnNvdXJjZSA9IG5vaXNlU291cmNlOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHNhbXBsZWROb2lzZSA9IHsKICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICJwbG90LmxvZyIsCiAgICAicGxvdC5saW5lYXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
