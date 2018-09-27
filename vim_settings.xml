@@ -411,12 +411,12 @@
         <mark key="." line="49" column="13" />
         <mark key="^" line="49" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" timestamp="1538011875612">
-        <mark key="'" line="166" column="12" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="168" column="27" />
+      <file name="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" timestamp="1538088621290">
+        <mark key="'" line="203" column="25" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="203" column="33" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" timestamp="1536731720461">
         <mark key="'" line="30" column="0" />
@@ -504,9 +504,6 @@
       <file name="$USER_HOME$/Code/firebase/.gitignore" timestamp="1538030802213">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="19" />
-        <mark key="]" line="35" column="18" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" timestamp="1537916689656">
         <mark key="'" line="61" column="0" />
@@ -905,11 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="16" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
-      <jump line="163" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
-      <jump line="24" column="30" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
-      <jump line="10" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/Drives/Drive/index.js" />
       <jump line="32" column="41" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/SelectedDrives/index.js" />
       <jump line="6" column="9" filename="$USER_HOME$/Code/frontend/src/containers/Evaluation/SelectedControls/index.js" />
       <jump line="54" column="12" filename="$USER_HOME$/Code/frontend/src/components/templates/Drives/Drive/index.js" />
@@ -1005,55 +997,60 @@
       <jump line="9" column="13" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="47" column="24" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="148" column="0" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="182" column="12" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="183" column="6" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="190" column="6" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="204" column="25" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7fSwK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>promises</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgZW1haWxJZCB9ID0gY29udGV4dC5wYXJhbXM7CiAgICBjb25zdCBkb2N1bWVudCA9IGNoYW5nZS5hZnRlci5leGlzdHMoKSA/IGNoYW5nZS5hZnRlci52YWwoKSA6IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICB7fSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ2YWwiLCBjaGFuZ2UuYWZ0ZXIudmFsKCkpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ2YWwiLCBjaGFuZ2UuYWZ0ZXIudmFsKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyUmVjb3JkLnVpZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyUmVjb3JkLnVpZCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyUmVjb3JkLnVpZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidXNlciIsIHVzZXJSZWNvcmQudG9KU09OKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyUmVjb3JkLnVpZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>promises</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
+      <last-pattern>promises</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1061,7 +1058,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fields</entry>
         <entry>fileds</entry>
         <entry>operationType</entry>
         <entry>Selected</entry>
@@ -1081,6 +1077,7 @@
         <entry>once</entry>
         <entry>credential</entry>
         <entry>router</entry>
+        <entry>promises</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
