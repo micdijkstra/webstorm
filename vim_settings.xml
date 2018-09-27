@@ -15,16 +15,6 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.circleci/config.yml" timestamp="1537770711311">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/SelectedPulseTypes/index.js" timestamp="1535600998811">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/index.js" timestamp="1537160467053">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="17" column="9" />
@@ -73,11 +63,6 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Drives/Drive/index.js" timestamp="1538024998737">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/.ops/tests/clean.sh" timestamp="1537483129667">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -99,11 +84,12 @@
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/firebase.js" timestamp="1538029550568">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/Code/firebase/functions/utils/firebase.js" timestamp="1538030779315">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/CustomPulse/index.js" timestamp="1536733314820">
         <mark key="'" line="69" column="22" />
@@ -144,11 +130,6 @@
         <mark key="'" line="22" column="2" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="32" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Pulse/index.js" timestamp="1537415254490">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" timestamp="1537398873083">
         <mark key="'" line="77" column="12" />
@@ -251,11 +232,6 @@
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/selectors/Noise/index.js" timestamp="1538009181678">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulses/index.js" timestamp="1536216472257">
         <mark key="'" line="32" column="11" />
         <mark key="[" line="35" column="0" />
@@ -329,11 +305,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.es6" timestamp="1536546252189">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/.ops/deployment/deploy-development.sh" timestamp="1537423774753">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -402,11 +373,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1536212324054">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Placeholder/index.js" timestamp="1535602534758">
         <mark key="'" line="15" column="68" />
         <mark key="[" line="13" column="29" />
@@ -420,11 +386,6 @@
         <mark key="]" line="33" column="57" />
         <mark key="." line="49" column="13" />
         <mark key="^" line="49" column="13" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1535603434168">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" timestamp="1538011875612">
         <mark key="'" line="166" column="12" />
@@ -460,6 +421,13 @@
         <mark key="]" line="17" column="14" />
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" timestamp="1538031001080">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="^" line="26" column="38" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Drive/Data/index.js" timestamp="1536024923205">
         <mark key="'" line="46" column="0" />
@@ -509,17 +477,19 @@
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/Chart/index.js" timestamp="1536716972463">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/SelectedPulseTypes/index.js" timestamp="1536190763404">
         <mark key="'" line="3" column="33" />
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="53" />
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/.gitignore" timestamp="1538030802213">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" timestamp="1537916689656">
         <mark key="'" line="61" column="0" />
@@ -567,11 +537,6 @@
         <mark key="]" line="118" column="22" />
         <mark key="." line="118" column="22" />
         <mark key="^" line="118" column="22" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" timestamp="1536545169407">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" timestamp="1538010515830">
         <mark key="'" line="49" column="0" />
@@ -699,11 +664,6 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.es6" timestamp="1537155666929">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drives/index.js" timestamp="1538026254667">
         <mark key="'" line="1" column="32" />
         <mark key="[" line="0" column="26" />
@@ -777,21 +737,16 @@
         <mark key="^" line="52" column="64" />
         <mark key="." line="52" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/characterization/configurations/updatedAt/onWrite.function.js" timestamp="1538028987157">
+      <file name="$USER_HOME$/Code/firebase/functions/db/characterization/configurations/updatedAt/onWrite.function.js" timestamp="1538030959833">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="51" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="50" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/index.js" timestamp="1538011255522">
         <mark key="'" line="34" column="17" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="40" column="4" />
         <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/Attributes/index.js" timestamp="1536044773729">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/OneQubit/Attributes/index.js" timestamp="1537762349279">
         <mark key="'" line="15" column="0" />
@@ -902,8 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="8" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/SelectedDrives/index.js" />
-      <jump line="159" column="16" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
       <jump line="25" column="30" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
       <jump line="181" column="16" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
       <jump line="192" column="16" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
@@ -984,7 +937,6 @@
       <jump line="23" column="17" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="14" column="4" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="22" column="1" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="5" column="6" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/firebase/functions/utils/firebase.js" />
@@ -1001,56 +953,59 @@
       <jump line="27" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/.gitignore" />
+      <jump line="22" column="24" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/firebase/functions/db/characterization/configurations/updatedAt/onWrite.function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/characterization/configurations/updatedAt/onWrite.function.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>adminConfig</text>
+        <text>/..</text>
       </register>
       <register name="-" type="4">
-        <text>adminConfig</text>
+        <text>/..</text>
       </register>
       <register name="/" type="4">
-        <text>credential</text>
+        <text>router</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkbWluLmluaXRpYWxpemVBcHAoYWRtaW5Db25maWcpOwo=</text>
+        <text encoding="base64">Y29uc3Qgcm91dGVyID0gcmVxdWlyZSgiLi4vLi4vLi4vLi4vdXRpbHMvcm91dGVyIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBhZG1pbi5pbml0aWFsaXplQXBwKGFkbWluQ29uZmlnKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBhZG1pbkNvbmZpZyA9IEpTT04ucGFyc2UocHJvY2Vzcy5lbnYuRklSRUJBU0VfQ09ORklHKTsKICBhZG1pbkNvbmZpZy5jcmVkZW50aWFsID0gYWRtaW4uY3JlZGVudGlhbC5jZXJ0KHNlcnZpY2VBY2NvdW50KTsKICBhZG1pbi5pbml0aWFsaXplQXBwKGFkbWluQ29uZmlnKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyUmVjb3JkLnVpZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyUmVjb3JkLnVpZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhZG1pbi5pbml0aWFsaXplQXBwKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidXNlciIsIHVzZXJSZWNvcmQudG9KU09OKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZXJ2aWNlQWNjb3VudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2VydmljZUFjY291bnQgPSByZXF1aXJlKCcuLi8uLi9zZXJ2aWNlQWNjb3VudC5qc29uJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>credential</last-search>
+      <last-search>router</last-search>
       <last-offset />
-      <last-pattern>credential</last-pattern>
+      <last-pattern>router</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1058,7 +1013,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Preview</entry>
         <entry>fields</entry>
         <entry>fileds</entry>
         <entry>operationType</entry>
@@ -1078,6 +1032,7 @@
         <entry>updateAllUsers</entry>
         <entry>once</entry>
         <entry>credential</entry>
+        <entry>router</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
