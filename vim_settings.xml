@@ -595,8 +595,8 @@
         <mark key="]" line="68" column="59" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" timestamp="1538010515830">
-        <mark key="'" line="49" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" timestamp="1538109324510">
+        <mark key="'" line="87" column="33" />
         <mark key="[" line="46" column="12" />
         <mark key="]" line="47" column="38" />
         <mark key="." line="47" column="38" />
@@ -939,21 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="5" column="26" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
@@ -1039,6 +1024,21 @@
       <jump line="19" column="29" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="71" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="79" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="87" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1048,7 +1048,7 @@
         <text>createPulse</text>
       </register>
       <register name="/" type="4">
-        <text>createP</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtdCg==</text>
@@ -1085,9 +1085,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createP</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>createP</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1095,7 +1095,6 @@
     </search>
     <history>
       <history-search>
-        <entry>listAllUsers</entry>
         <entry>updateAllUsers</entry>
         <entry>once</entry>
         <entry>credential</entry>
@@ -1115,6 +1114,7 @@
         <entry>Predef</entry>
         <entry>createPule</entry>
         <entry>createP</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
