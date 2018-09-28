@@ -224,6 +224,9 @@
       <file name="$USER_HOME$/Code/frontend/src/actions/Noise/index.js" timestamp="1537332199237">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/__tests__/Integration/Login.test.js" timestamp="1538113115358">
+        <mark key="'" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/performanceSummaries/onWrite.function.js" timestamp="1538095693749">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="48" />
@@ -939,9 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="34" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
@@ -1039,6 +1039,9 @@
       <jump line="79" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
       <jump line="87" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
       <jump line="52" column="36" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration/Login.test.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration/Login.test.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/frontend/src/__tests__/Integration/Login.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
