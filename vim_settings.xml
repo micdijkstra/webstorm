@@ -15,12 +15,6 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/status/onWrite.function.js" timestamp="1537399133773">
-        <mark key="[" line="55" column="49" />
-        <mark key="]" line="56" column="3" />
-        <mark key="." line="56" column="3" />
-        <mark key="^" line="56" column="3" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/index.js" timestamp="1537160467053">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="17" column="9" />
@@ -205,11 +199,12 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/attributes/updatedAt/onWrite.function.js" timestamp="1538027554599">
-        <mark key="'" line="9" column="23" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/attributes/updatedAt/onWrite.function.js" timestamp="1538104977221">
+        <mark key="'" line="79" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="54" column="9" />
+        <mark key="^" line="54" column="9" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Loading/index.js" timestamp="1535609908621">
         <mark key="'" line="14" column="0" />
@@ -269,12 +264,6 @@
         <mark key="]" line="10" column="51" />
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/firebase/database.rules.json" timestamp="1537242101248">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="22" />
-        <mark key="." line="39" column="22" />
-        <mark key="^" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulses/index.js" timestamp="1538097689465">
         <mark key="'" line="13" column="39" />
@@ -336,12 +325,6 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.ops/tests/live.sh" timestamp="1537423802815">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/firebase/scripts/README.md" timestamp="1537917348390">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="65" column="1" />
@@ -395,12 +378,12 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1538099294645">
+      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1538105668343">
         <mark key="'" line="16" column="15" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/__tests__/Login.test.js" timestamp="1537763614046">
         <mark key="'" line="30" column="2" />
@@ -454,8 +437,8 @@
         <mark key="^" line="32" column="26" />
         <mark key="." line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" timestamp="1538088621290">
-        <mark key="'" line="203" column="25" />
+      <file name="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" timestamp="1538105068666">
+        <mark key="'" line="28" column="66" />
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
@@ -519,10 +502,10 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="41" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" timestamp="1537399170423">
-        <mark key="'" line="95" column="31" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" timestamp="1538104999651">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="59" />
         <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Evaluation/Control/index.js" timestamp="1538025953392">
@@ -712,12 +695,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/integrationTest.js" timestamp="1537502213608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Chart/index.js" timestamp="1538026085977">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="131" column="17" />
@@ -748,18 +725,6 @@
         <mark key="]" line="0" column="77" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/reducers/ParametricDrive/Pulses/index.js" timestamp="1537916639378">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/StripeCard/index.js" timestamp="1537311774707">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="1" column="79" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drives/index.js" timestamp="1538026254667">
         <mark key="'" line="1" column="32" />
@@ -854,12 +819,12 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1538031904294">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1538106213037">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/OneQubit/Attributes/index.js" timestamp="1537762349279">
         <mark key="'" line="15" column="0" />
@@ -946,12 +911,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/migration/compactAndExpandedData.function.js" timestamp="1538031885095">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" timestamp="1537248831943">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="147" column="0" />
@@ -980,71 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Code/firebase/functions/utils/firebase.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/firebase/functions/utils/firebase.js" />
-      <jump line="16" column="46" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/firebase/serviceAccount.json" />
-      <jump line="0" column="2318" filename="$USER_HOME$/Code/firebase/serviceAccount.json" />
-      <jump line="12" column="50" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="17" column="39" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="31" column="17" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/.gitignore" />
-      <jump line="22" column="24" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/firebase/functions/db/characterization/configurations/updatedAt/onWrite.function.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/characterization/configurations/updatedAt/onWrite.function.js" />
-      <jump line="9" column="13" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="47" column="24" filename="$USER_HOME$/Code/firebase/functions/migration/compactAndExpandedData.function.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="148" column="0" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
-      <jump line="182" column="12" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
-      <jump line="183" column="6" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
-      <jump line="190" column="6" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
-      <jump line="204" column="25" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/firebase/README.md" />
-      <jump line="44" column="2" filename="$USER_HOME$/Code/firebase/functions/README.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/frontend/.env.development.local" />
-      <jump line="17" column="30" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" />
-      <jump line="9" column="41" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
-      <jump line="19" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
-      <jump line="30" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
-      <jump line="31" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
-      <jump line="42" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
-      <jump line="9" column="39" filename="$USER_HOME$/Code/frontend/.env.production" />
-      <jump line="12" column="10" filename="$USER_HOME$/Code/frontend/.env.development" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/frontend/.env.development.local" />
-      <jump line="18" column="10" filename="$USER_HOME$/Code/frontend/.env.development.local" />
-      <jump line="12" column="10" filename="$USER_HOME$/Code/frontend/.env.production" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulses/index.js" />
-      <jump line="13" column="39" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulses/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="25" column="2" filename="$USER_HOME$/Code/frontend/src/store/index.js" />
-      <jump line="13" column="41" filename="$USER_HOME$/Code/frontend/src/store/index.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/frontend/src/store/index.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/frontend/src/store/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/StripeCustomer/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/StripeCustomer/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/StripeCustomer/index.js" />
-      <jump line="185" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/StripeCustomer/index.js" />
-      <jump line="153" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/StripeCustomer/index.js" />
-      <jump line="101" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/StripeCustomer/index.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/StripeCustomer/index.js" />
-      <jump line="16" column="15" filename="$USER_HOME$/Code/frontend/.env.development.local" />
-      <jump line="84" column="1" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
@@ -1080,55 +974,120 @@
       <jump line="109" column="16" filename="$USER_HOME$/Code/frontend/src/components/modules/Card/index.js" />
       <jump line="118" column="28" filename="$USER_HOME$/Code/frontend/src/components/modules/Card/index.js" />
       <jump line="17" column="19" filename="$USER_HOME$/Code/firebase/functions/db/organisations/plan/onWrite.function.js" />
+      <jump line="60" column="10" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/attributes/updatedAt/onWrite.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/attributes/updatedAt/onWrite.function.js" />
+      <jump line="21" column="23" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="4" column="14" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="56" column="66" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="79" column="13" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/attributes/updatedAt/onWrite.function.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="61" column="13" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="74" column="11" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="62" column="16" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/pulses/pulse/updatedAt/onWrite.function.js" />
+      <jump line="2" column="10" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="166" column="8" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="25" column="8" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="26" column="25" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="28" column="66" filename="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="57" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="48" column="17" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="65" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="64" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="68" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="37" column="8" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="42" column="29" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="19" column="29" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="71" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stripeCustomer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIExpc3QgbmV4dCBiYXRjaCBvZiB1c2Vycy4K</text>
       </register>
       <register name="-" type="4">
-        <text>400</text>
+        <text>createPulse</text>
       </register>
       <register name="/" type="4">
-        <text>stripeCustomerId</text>
+        <text>createP</text>
       </register>
-      <register name="0" type="4">
-        <text>stripeCustomer</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXR1cywgbG9hZGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIExpc3QgbmV4dCBiYXRjaCBvZiB1c2Vycy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEVycm9yQm91bmRhcnk+Cg==</text>
+        <text encoding="base64">ZXhwb3J0cyA9IG1vZHVsZS5leHBvcnRzID0gZnVuY3Rpb25zLmRhdGFiYXNlCiAgLnJlZigibWlncmF0aW9ucy9jb21wYWN0QW5kRXhwYW5kZWREYXRhIikKICAub25Xcml0ZSgoKSA9PiB7CiAgICByZXR1cm4gdXBkYXRlQWxsVXNlcnMoKTsKICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCgo9PT09PT09Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNhdmluZyIsIHVzZXJVSUQsIHB1bHNlS2V5LCBwdWxzZUF0dHJpYnV0ZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UuYWxsKHByb21pc2VzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9ucy9kYi9vcmdhbmlzYXRpb25zL3N0cmlwZUN1c3RvbWVyL29uV3JpdGUuZnVuY3Rpb24uanMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7fSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHB1bHNlVHlwZSB9ID0gcHVsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ2YWwiLCBjaGFuZ2UuYWZ0ZXIudmFsKCkpCg==</text>
+        <text encoding="base64">CiAgICAgICAgc3dpdGNoIChwdWxzZVR5cGUpIHsKICAgICAgICAgIGNhc2UgQ09OVFJPTF9UWVBFUy5DVVNUT006CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCJjdXN0b20gcHVsc2UiKTsKICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgICAgY2FzZSBDT05UUk9MX1RZUEVTLk9QVElNSVNFRDoKICAgICAgICAgICAgY29uc29sZS5sb2coIm9wdGltaXNlZCBwdWxzZSIpOwogICAgICAgICAgICByZXR1cm4gW107CiAgICAgICAgICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVnZW5lcmF0ZUN1c3RvbUNvbnRyb2wgPSAodXNlclVJRCwgcHVsc2UpID0+IHsKCn0KCmNvbnN0IHJlZ2VuZXJhdGVPcHRpbWlzZWRDb250cm9sID0gKHVzZXJVSUQsIHB1bHNlKSA9PiB7Cgp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stripeCustomerId</last-search>
+      <last-search>createP</last-search>
       <last-offset />
-      <last-pattern>stripeCustomerId</last-pattern>
+      <last-pattern>createP</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1136,16 +1095,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SelectedDrives</entry>
-        <entry>renderPulse</entry>
-        <entry>Chart</entry>
-        <entry>Typ</entry>
-        <entry>Title</entry>
-        <entry>console</entry>
-        <entry>DATA</entry>
-        <entry>get</entry>
-        <entry>form</entry>
-        <entry>Drives</entry>
         <entry>listAllUsers</entry>
         <entry>updateAllUsers</entry>
         <entry>once</entry>
@@ -1156,6 +1105,16 @@
         <entry>Control</entry>
         <entry>title</entry>
         <entry>stripeCustomerId</entry>
+        <entry>CONTR</entry>
+        <entry>getForm</entry>
+        <entry>API</entry>
+        <entry>API_HOST</entry>
+        <entry>API_REQ</entry>
+        <entry>custom</entry>
+        <entry>console</entry>
+        <entry>Predef</entry>
+        <entry>createPule</entry>
+        <entry>createP</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
@@ -1175,8 +1134,8 @@
         <entry>%s/listAllUsers/updateAllUsers/g</entry>
         <entry>%s/updateAllUsers/runMigration/g</entry>
         <entry>q!</entry>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
