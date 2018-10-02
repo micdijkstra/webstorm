@@ -675,10 +675,10 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1538462218787">
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1538462980506">
         <mark key="'" line="17" column="53" />
-        <mark key="[" line="27" column="53" />
-        <mark key="]" line="27" column="60" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="64" />
         <mark key="." line="27" column="60" />
         <mark key="^" line="27" column="60" />
       </file>
@@ -993,8 +993,8 @@
       <jump line="17" column="53" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>compact</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZm9ybWF0dGVkUHVsc2Uuc2VnbWVudHMgPSBwdWxzZS5ldWNsaWRlYW4uZGF0YS5kaW1lbnNpb25hbDsK</text>
       </register>
       <register name="-" type="4">
         <text>compact</text>
@@ -1002,8 +1002,8 @@
       <register name="/" type="4">
         <text>dimensional</text>
       </register>
-      <register name="0" type="4">
-        <text>yAmplitudes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZm9ybWF0dGVkUHVsc2Uuc2VnbWVudHMgPSBwdWxzZS5ldWNsaWRlYW4uZGF0YS5kaW1lbnNpb25hbDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBjb25zdCBoZWFkZXJMYWJlbHMgPSBoZWFkZXJzLm1hcChrZXkgPT4KICAgICAgaW50bC5mb3JtYXRNZXNzYWdlKHsKICAgICAgICBpZDogYHB1bHNlLmNzdi4ke2Rvd25sb2FkUHVsc2VGb3JtYXR9LiR7aXRlbS5zaGFwZX0uJHtrZXl9YAogICAgICB9KQogICAgKTsK</text>
