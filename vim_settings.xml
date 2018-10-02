@@ -1011,7 +1011,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNhdmluZyIsIHVzZXJVSUQsIHB1bHNlS2V5LCBwdWxzZUF0dHJpYnV0ZXMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>14</text>
       </register>
     </registers>
     <search>
@@ -1047,7 +1047,6 @@
         <entry>pulseKey</entry>
       </history-search>
       <history-cmd>
-        <entry>24</entry>
         <entry>23</entry>
         <entry>%s/TIMEOUT/TIMEOUT_LIMIT/g</entry>
         <entry>44</entry>
@@ -1067,6 +1066,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>17</entry>
+        <entry>14</entry>
       </history-cmd>
       <history-expr />
       <history-input />
