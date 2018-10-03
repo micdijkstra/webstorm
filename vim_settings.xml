@@ -678,10 +678,10 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1538530038773">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="76" column="7" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1538536395723">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="108" column="4" />
         <mark key="." line="74" column="0" />
         <mark key="^" line="73" column="5" />
       </file>
@@ -783,6 +783,13 @@
         <mark key="]" line="11" column="45" />
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" timestamp="1538536469434">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="69" column="32" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Placeholder/index.js" timestamp="1535602534758">
         <mark key="'" line="15" column="68" />
@@ -894,14 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="15" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="21" column="46" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="300" column="9" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="109" column="32" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="518" column="38" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="32" column="22" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
-      <jump line="34" column="45" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
-      <jump line="46" column="38" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="384" column="38" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="74" column="3" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
@@ -970,7 +969,6 @@
       <jump line="15" column="60" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="27" column="60" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="102" column="19" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="17" column="53" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/utils/formatted-pulse.js" />
       <jump line="269" column="9" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
@@ -980,63 +978,72 @@
       <jump line="91" column="10" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
       <jump line="102" column="36" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
       <jump line="67" column="6" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
-      <jump line="23" column="23" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="84" column="28" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="82" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="3" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="89" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="103" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="108" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="83" column="29" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="23" column="23" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="79" column="40" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
+      <jump line="11" column="22" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
+      <jump line="62" column="15" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>unit_test</text>
+        <text>compactAndExpandedData</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgQVBJUmVxdWVzdCA9IHJlcXVpcmUoIi4uLy4uL3V0aWxzL3JlcXVlc3RzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlczoKICAgICAgICAtIHRlc3QK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIHVuaXRfdGVzdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIGludGVncmF0aW9uX3Rlc3QK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAtIGludGVncmF0aW9uX3Rlc3Q6CiAgICAgICAgZmlsdGVyczoKICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgIG9ubHk6IC8uKi8K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gUnVuIHdpdGggZmlyZWJhc2UgZnVuY3Rpb25zOnNoZWxsCi8vIGRiTWlncmF0aW9uc0NvbXBhY3RBbmRFeHBhbmRlZERhdGEodHJ1ZSkKLy8gWW91IHdpbGwgbmVlZCB0byBlbnN1cmUgeW91IGhhdmUgdGhlIHNlcnZpY2UgYWNjb3VudCBrZXkgc2V0Ci8vIGV4cG9ydCBGSVJFQkFTRV9DT05GSUc9InNlcnZpY2VBY2NvdW50Lmpzb24iCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgX3BpY2sgPSByZXF1aXJlKCJsb2Rhc2gvcGljayIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgZ2V0Rm9ybWF0dGVkUHVsc2UgPSBwdWxzZSA9PiB7CiAgaWYgKHB1bHNlLnB1bHNlVHlwZSA9PT0gImN1c3RvbSIpIHsKICAgIGZvcm1hdHRlZFB1bHNlID0gX3BpY2socHVsc2UsIFsicHVsc2VUeXBlIiwgInNoYXBlIiwgIm1heGltdW1SYWJpUmF0ZSJdKTsKICAgIGlmIChwdWxzZS5zZWdtZW50cykgewogICAgICBmb3JtYXR0ZWRQdWxzZS5zZWdtZW50cyA9IHB1bHNlLnNlZ21lbnRzOwogICAgfSBlbHNlIGlmIChwdWxzZS5ldWNsaWRlYW4gJiYgcHVsc2UuZXVjbGlkZWFuLmRhdGEpIHsKICAgICAgZm9ybWF0dGVkUHVsc2Uuc2VnbWVudHMgPSBwdWxzZS5ldWNsaWRlYW4uZGF0YS5kaW1lbnNpb25hbDsKICAgIH0KICAgIHJldHVybiBmb3JtYXR0ZWRQdWxzZTsKICB9IGVsc2UgaWYgKHB1bHNlLnB1bHNlVHlwZSA9PT0gIm9wdGltaXNlZCIpIHsKICAgIGZvcm1hdHRlZFB1bHNlID0gX3BpY2socHVsc2UsIFsKICAgICAgInB1bHNlVHlwZSIsCiAgICAgICJtYXhpbXVtUmFiaVJhdGUiLAogICAgICAibnVtYmVyT2ZTZWFyY2hlcyIKICAgIF0pOwogICAgaWYgKHB1bHNlLnNlZ21lbnRzKSB7CiAgICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2Uuc2VnbWVudHM7CiAgICB9IGVsc2UgaWYgKHB1bHNlLmV1Y2xpZGVhbiAmJiBwdWxzZS5ldWNsaWRlYW4uZGF0YSkgewogICAgICBmb3JtYXR0ZWRQdWxzZS5zZWdtZW50cyA9IHB1bHNlLmV1Y2xpZGVhbi5kYXRhLmRpbWVuc2lvbmFsOwogICAgfQogICAgcmV0dXJuIGZvcm1hdHRlZFB1bHNlOwogIH0gZWxzZSB7CiAgICByZXR1cm4gX3BpY2socHVsc2UsIFsKICAgICAgInB1bHNlVHlwZSIsCiAgICAgICJtYXhpbXVtUmFiaVJhdGUiLAogICAgICAicG9sYXJBbmdsZSIsCiAgICAgICJzaGFwZSIKICAgIF0pOwogIH0KfTsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlczoKICAgICAgICAtIHRlc3QK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBjb21tYW5kOiB5YXJuIHN0YXJ0OnRlc3QKICAgICAgICAgIGJhY2tncm91bmQ6IHRydWUKCiAgICAgIC0gcnVuOgogICAgICAgICAgc2hlbGw6IC9iaW4vc2gKICAgICAgICAgIGNvbW1hbmQ6IHwKICAgICAgICAgICAgd2dldCAtLXJldHJ5LWNvbm5yZWZ1c2VkIC0td2FpdHJldHJ5PTEgLS1yZWFkLXRpbWVvdXQ9MjAgLS10aW1lb3V0PTE1IC10IDEwIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwNwogICAgICAgICAgICA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHVuaXRfdGVzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLnhBbXBsaXR1ZGVzIjogImFtcGxpdHVkZV94IiwKICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLnlBbXBsaXR1ZGVzIjogImFtcGxpdHVkZV95IiwKICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLmRldHVuaW5ncyI6ICJkZXR1bmluZyIsCiAgICAicHVsc2UuY3N2LmNhcnRlc2lhbi5nYXVzc2lhbi5kdXJhdGlvbnMiOiAiZHVyYXRpb24iLAogICAgInB1bHNlLmNzdi5jYXJ0ZXNpYW4uZ2F1c3NpYW4ubWF4aW11bVJhYmlSYXRlIjogIm1heGltdW1fcmFiaV9yYXRlIiwK</text>
+        <text encoding="base64">ICAgICAgICAtIGludGVncmF0aW9uX3Rlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ueEFtcGxpdHVkZXMiOiAicmFiaV9yYXRlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ueUFtcGxpdHVkZXMiOiAiYXppbXV0aGFsX2FuZ2xlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4uZGV0dW5pbmdzIjogImRldHVuaW5nIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4uZHVyYXRpb25zIjogImR1cmF0aW9uIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ubWF4aW11bVJhYmlSYXRlIjogIm1heGltdW1fcmFiaV9yYXRlIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAtIGludGVncmF0aW9uX3Rlc3Q6CiAgICAgICAgZmlsdGVyczoKICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgIG9ubHk6IC8uKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIO+/vAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1090,8 +1097,8 @@
         <entry>14</entry>
         <entry>red</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
