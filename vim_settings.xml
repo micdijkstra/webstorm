@@ -50,10 +50,12 @@
         <mark key="]" line="11" column="59" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.circleci/config.yml" timestamp="1538117377355">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/frontend/.circleci/config.yml" timestamp="1538525591290">
+        <mark key="'" line="67" column="6" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="136" column="25" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Evaluation/Control/index.js" timestamp="1538025953392">
         <mark key="'" line="54" column="0" />
@@ -892,9 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="5" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="28" column="5" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="71" column="19" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
@@ -992,55 +991,58 @@
       <jump line="55" column="4" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="56" column="25" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="39" column="13" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="91" column="10" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
+      <jump line="102" column="36" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
+      <jump line="67" column="6" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.shape}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlczoKICAgICAgICAtIHRlc3QK</text>
       </register>
       <register name="-" type="4">
-        <text>.shape}</text>
+        <text>unit_test</text>
       </register>
       <register name="/" type="4">
-        <text>shape</text>
+        <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>yAmplitudes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAtIHVuaXRfdGVzdAogICAgICAgIC0gaW50ZWdyYXRpb25fdGVzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLnhBbXBsaXR1ZGVzIjogImFtcGxpdHVkZV94IiwKICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLnlBbXBsaXR1ZGVzIjogImFtcGxpdHVkZV95IiwKICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLmRldHVuaW5ncyI6ICJkZXR1bmluZyIsCiAgICAicHVsc2UuY3N2LmNhcnRlc2lhbi5nYXVzc2lhbi5kdXJhdGlvbnMiOiAiZHVyYXRpb24iLAogICAgInB1bHNlLmNzdi5jYXJ0ZXNpYW4uZ2F1c3NpYW4ubWF4aW11bVJhYmlSYXRlIjogIm1heGltdW1fcmFiaV9yYXRlIiwK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlczoKICAgICAgICAtIHRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ueEFtcGxpdHVkZXMiOiAicmFiaV9yYXRlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ueUFtcGxpdHVkZXMiOiAiYXppbXV0aGFsX2FuZ2xlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4uZGV0dW5pbmdzIjogImRldHVuaW5nIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4uZHVyYXRpb25zIjogImR1cmF0aW9uIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ubWF4aW11bVJhYmlSYXRlIjogIm1heGltdW1fcmFiaV9yYXRlIiwK</text>
+        <text encoding="base64">ICAgICAgICAtIHVuaXRfdGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIO+/vAo=</text>
+        <text encoding="base64">ICAgICAgICAtIGludGVncmF0aW9uX3Rlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2UuY2FydGVzaWFuLmRhdGEuZXhwYW5kZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAtIGludGVncmF0aW9uX3Rlc3Q6CiAgICAgICAgZmlsdGVyczoKICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgIG9ubHk6IC8uKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2UuY2FydGVzaWFuLmRhdGEuZXhwYW5kZWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBoZWFkZXJMYWJlbHMgPSBoZWFkZXJzLm1hcChrZXkgPT4KICAgICAgaW50bC5mb3JtYXRNZXNzYWdlKHsKICAgICAgICBpZDogYHB1bHNlLmNzdi4ke2Rvd25sb2FkUHVsc2VGb3JtYXR9LiR7aXRlbS5zaGFwZX0uJHtrZXl9YAogICAgICB9KQogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBjb21tYW5kOiB5YXJuIHN0YXJ0OnRlc3QKICAgICAgICAgIGJhY2tncm91bmQ6IHRydWUKCiAgICAgIC0gcnVuOgogICAgICAgICAgc2hlbGw6IC9iaW4vc2gKICAgICAgICAgIGNvbW1hbmQ6IHwKICAgICAgICAgICAgd2dldCAtLXJldHJ5LWNvbm5yZWZ1c2VkIC0td2FpdHJldHJ5PTEgLS1yZWFkLXRpbWVvdXQ9MjAgLS10aW1lb3V0PTE1IC10IDEwIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwNwogICAgICAgICAgICA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMucHVzaCgibWF4aW11bVJhYmlSYXRlIik7Cg==</text>
+        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLnhBbXBsaXR1ZGVzIjogImFtcGxpdHVkZV94IiwKICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLnlBbXBsaXR1ZGVzIjogImFtcGxpdHVkZV95IiwKICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLmRldHVuaW5ncyI6ICJkZXR1bmluZyIsCiAgICAicHVsc2UuY3N2LmNhcnRlc2lhbi5nYXVzc2lhbi5kdXJhdGlvbnMiOiAiZHVyYXRpb24iLAogICAgInB1bHNlLmNzdi5jYXJ0ZXNpYW4uZ2F1c3NpYW4ubWF4aW11bVJhYmlSYXRlIjogIm1heGltdW1fcmFiaV9yYXRlIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgY3N2RGF0YSB9KTsK</text>
+        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ueEFtcGxpdHVkZXMiOiAicmFiaV9yYXRlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ueUFtcGxpdHVkZXMiOiAiYXppbXV0aGFsX2FuZ2xlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4uZGV0dW5pbmdzIjogImRldHVuaW5nIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4uZHVyYXRpb25zIjogImR1cmF0aW9uIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ubWF4aW11bVJhYmlSYXRlIjogIm1heGltdW1fcmFiaV9yYXRlIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHsgZGF0YSwgYXR0cmlidXRlIH0pOwo=</text>
+        <text encoding="base64">ICAgIO+/vAo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>shape</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>shape</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1048,7 +1050,6 @@
     </search>
     <history>
       <history-search>
-        <entry>let data</entry>
         <entry>ONE_QUBIT_PULSE_DATA</entry>
         <entry>DATA</entry>
         <entry>downloadCSV</entry>
@@ -1068,6 +1069,7 @@
         <entry>dimensional</entry>
         <entry>detunings</entry>
         <entry>shape</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>23</entry>
