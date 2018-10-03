@@ -303,10 +303,6 @@
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" timestamp="1538537863403">
         <mark key="'" line="4" column="26" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="27" />
-        <mark key="." line="28" column="27" />
-        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" timestamp="1537398873083">
         <mark key="'" line="77" column="12" />
@@ -565,13 +561,6 @@
         <mark key="]" line="12" column="33" />
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1538537516933">
-        <mark key="'" line="128" column="17" />
-        <mark key="[" line="562" column="24" />
-        <mark key="]" line="563" column="14" />
-        <mark key="." line="563" column="14" />
-        <mark key="^" line="563" column="14" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/updatedAt/onWrite.test.js" timestamp="1537398695914">
         <mark key="'" line="10" column="34" />
@@ -875,8 +864,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="29" />
-        <mark key="." line="98" column="55" />
-        <mark key="^" line="98" column="55" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" timestamp="1537248831943">
         <mark key="'" line="75" column="0" />
