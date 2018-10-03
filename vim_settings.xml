@@ -202,12 +202,12 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1538523254141">
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1538523276709">
         <mark key="'" line="269" column="9" />
-        <mark key="[" line="280" column="49" />
-        <mark key="]" line="280" column="63" />
-        <mark key="." line="280" column="63" />
-        <mark key="^" line="280" column="63" />
+        <mark key="[" line="278" column="27" />
+        <mark key="]" line="278" column="27" />
+        <mark key="." line="278" column="27" />
+        <mark key="^" line="275" column="63" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1538025999179">
         <mark key="'" line="62" column="10" />
@@ -526,11 +526,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" timestamp="1538461079707">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="55" column="3" />
-        <mark key="]" line="59" column="6" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" timestamp="1538523296079">
+        <mark key="'" line="39" column="13" />
+        <mark key="[" line="57" column="45" />
+        <mark key="]" line="57" column="45" />
         <mark key="^" line="54" column="3" />
+        <mark key="." line="57" column="45" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" timestamp="1538458909277">
         <mark key="'" line="46" column="8" />
@@ -891,7 +892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="11" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="25" column="5" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
@@ -917,7 +917,6 @@
       <jump line="32" column="22" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="34" column="45" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="46" column="38" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
-      <jump line="56" column="21" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="384" column="38" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="74" column="3" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
@@ -978,7 +977,6 @@
       <jump line="61" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="42" column="7" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="45" column="42" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="128" column="17" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="75" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/firebase/functions/utils/formatted-pulse.js" />
@@ -991,55 +989,58 @@
       <jump line="17" column="53" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/utils/formatted-pulse.js" />
       <jump line="269" column="9" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="55" column="4" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="56" column="25" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
+      <jump line="39" column="13" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>amplitude_y</text>
+        <text>.shape}</text>
       </register>
       <register name="-" type="4">
-        <text>amplitude_y</text>
+        <text>.shape}</text>
       </register>
       <register name="/" type="4">
-        <text>detunings</text>
+        <text>shape</text>
       </register>
       <register name="0" type="4">
         <text>yAmplitudes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIO+/vAo=</text>
+        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLnhBbXBsaXR1ZGVzIjogImFtcGxpdHVkZV94IiwKICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLnlBbXBsaXR1ZGVzIjogImFtcGxpdHVkZV95IiwKICAgICJwdWxzZS5jc3YuY2FydGVzaWFuLmdhdXNzaWFuLmRldHVuaW5ncyI6ICJkZXR1bmluZyIsCiAgICAicHVsc2UuY3N2LmNhcnRlc2lhbi5nYXVzc2lhbi5kdXJhdGlvbnMiOiAiZHVyYXRpb24iLAogICAgInB1bHNlLmNzdi5jYXJ0ZXNpYW4uZ2F1c3NpYW4ubWF4aW11bVJhYmlSYXRlIjogIm1heGltdW1fcmFiaV9yYXRlIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2UuY2FydGVzaWFuLmRhdGEuZXhwYW5kZWQ7Cg==</text>
+        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ueEFtcGxpdHVkZXMiOiAicmFiaV9yYXRlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ueUFtcGxpdHVkZXMiOiAiYXppbXV0aGFsX2FuZ2xlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4uZGV0dW5pbmdzIjogImRldHVuaW5nIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4uZHVyYXRpb25zIjogImR1cmF0aW9uIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuZ2F1c3NpYW4ubWF4aW11bVJhYmlSYXRlIjogIm1heGltdW1fcmFiaV9yYXRlIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2UuY2FydGVzaWFuLmRhdGEuZXhwYW5kZWQ7Cg==</text>
+        <text encoding="base64">ICAgIO+/vAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBoZWFkZXJMYWJlbHMgPSBoZWFkZXJzLm1hcChrZXkgPT4KICAgICAgaW50bC5mb3JtYXRNZXNzYWdlKHsKICAgICAgICBpZDogYHB1bHNlLmNzdi4ke2Rvd25sb2FkUHVsc2VGb3JtYXR9LiR7aXRlbS5zaGFwZX0uJHtrZXl9YAogICAgICB9KQogICAgKTsK</text>
+        <text encoding="base64">ICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2UuY2FydGVzaWFuLmRhdGEuZXhwYW5kZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMucHVzaCgibWF4aW11bVJhYmlSYXRlIik7Cg==</text>
+        <text encoding="base64">ICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2UuY2FydGVzaWFuLmRhdGEuZXhwYW5kZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgY3N2RGF0YSB9KTsK</text>
+        <text encoding="base64">CiAgICBjb25zdCBoZWFkZXJMYWJlbHMgPSBoZWFkZXJzLm1hcChrZXkgPT4KICAgICAgaW50bC5mb3JtYXRNZXNzYWdlKHsKICAgICAgICBpZDogYHB1bHNlLmNzdi4ke2Rvd25sb2FkUHVsc2VGb3JtYXR9LiR7aXRlbS5zaGFwZX0uJHtrZXl9YAogICAgICB9KQogICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHsgZGF0YSwgYXR0cmlidXRlIH0pOwo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMucHVzaCgibWF4aW11bVJhYmlSYXRlIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuc3F1YXJlLmFtcGxpdHVkZXMiOiAicmFiaV9yYXRlIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuc3F1YXJlLmF6aW11dGhhbEFuZ2xlcyI6ICJhemltdXRoYWxfYW5nbGUiLAogICAgInB1bHNlLmNzdi5jeWxpbmRyaWNhbC5zcXVhcmUuZGV0dW5pbmdzIjogImRldHVuaW5nIiwKICAgICJwdWxzZS5jc3YuY3lsaW5kcmljYWwuc3F1YXJlLmR1cmF0aW9ucyI6ICJkdXJhdGlvbiIsCiAgICAicHVsc2UuY3N2LmN5bGluZHJpY2FsLnNxdWFyZS5tYXhpbXVtUmFiaVJhdGUiOiAibWF4aW11bV9yYWJpX3JhdGUiLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgY3N2RGF0YSB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHsgZGF0YSwgYXR0cmlidXRlIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>detunings</last-search>
+      <last-search>shape</last-search>
       <last-offset />
-      <last-pattern>detunings</last-pattern>
+      <last-pattern>shape</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1047,7 +1048,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getForm</entry>
         <entry>let data</entry>
         <entry>ONE_QUBIT_PULSE_DATA</entry>
         <entry>DATA</entry>
@@ -1067,6 +1067,7 @@
         <entry>compact</entry>
         <entry>dimensional</entry>
         <entry>detunings</entry>
+        <entry>shape</entry>
       </history-search>
       <history-cmd>
         <entry>23</entry>
@@ -1086,9 +1087,9 @@
         <entry>q</entry>
         <entry>17</entry>
         <entry>14</entry>
-        <entry>qa</entry>
         <entry>red</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
