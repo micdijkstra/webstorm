@@ -301,12 +301,12 @@
         <mark key="." line="15" column="89" />
         <mark key="^" line="15" column="89" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" timestamp="1537425150360">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" timestamp="1538537863403">
+        <mark key="'" line="4" column="26" />
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/status/onWrite.test.js" timestamp="1537398873083">
         <mark key="'" line="77" column="12" />
@@ -566,12 +566,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1538462106350">
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1538537516933">
         <mark key="'" line="128" column="17" />
-        <mark key="[" line="141" column="40" />
-        <mark key="]" line="141" column="51" />
-        <mark key="." line="141" column="40" />
-        <mark key="^" line="141" column="35" />
+        <mark key="[" line="562" column="24" />
+        <mark key="]" line="563" column="14" />
+        <mark key="." line="563" column="14" />
+        <mark key="^" line="563" column="14" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/updatedAt/onWrite.test.js" timestamp="1537398695914">
         <mark key="'" line="10" column="34" />
@@ -871,10 +871,10 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/package.json" timestamp="1537771183076">
+      <file name="$USER_HOME$/Code/frontend/package.json" timestamp="1538537251227">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="57" />
-        <mark key="]" line="98" column="55" />
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="29" />
         <mark key="." line="98" column="55" />
         <mark key="^" line="98" column="55" />
       </file>
@@ -901,12 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="384" column="38" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="74" column="3" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
-      <jump line="40" column="19" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
-      <jump line="73" column="20" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="67" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="78" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
@@ -1001,55 +995,61 @@
       <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
       <jump line="62" column="15" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/blochSphereXyz.function.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
+      <jump line="6" column="11" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
+      <jump line="48" column="5" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
+      <jump line="41" column="5" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
+      <jump line="25" column="26" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Coordinates</text>
       </register>
       <register name="-" type="4">
-        <text>compactAndExpandedData</text>
+        <text>Coordinates</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>BlochSphere</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgQVBJUmVxdWVzdCA9IHJlcXVpcmUoIi4uLy4uL3V0aWxzL3JlcXVlc3RzIik7Cg==</text>
+      <register name="0" type="4">
+        <text>BLOCH_SPHERE_DATA_TYPES</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gUnVuIHdpdGggZmlyZWJhc2UgZnVuY3Rpb25zOnNoZWxsCi8vIGRiTWlncmF0aW9uc0NvbXBhY3RBbmRFeHBhbmRlZERhdGEodHJ1ZSkKLy8gWW91IHdpbGwgbmVlZCB0byBlbnN1cmUgeW91IGhhdmUgdGhlIHNlcnZpY2UgYWNjb3VudCBrZXkgc2V0Ci8vIGV4cG9ydCBGSVJFQkFTRV9DT05GSUc9InNlcnZpY2VBY2NvdW50Lmpzb24iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgX3BpY2sgPSByZXF1aXJlKCJsb2Rhc2gvcGljayIpOwo=</text>
+        <text encoding="base64">Ly8gUnVuIHdpdGggZmlyZWJhc2UgZnVuY3Rpb25zOnNoZWxsCi8vIGRiTWlncmF0aW9uc0NvbXBhY3RBbmRFeHBhbmRlZERhdGEodHJ1ZSkKLy8gWW91IHdpbGwgbmVlZCB0byBlbnN1cmUgeW91IGhhdmUgdGhlIHNlcnZpY2UgYWNjb3VudCBrZXkgc2V0Ci8vIGV4cG9ydCBGSVJFQkFTRV9DT05GSUc9InNlcnZpY2VBY2NvdW50Lmpzb24iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Rm9ybWF0dGVkUHVsc2UgPSBwdWxzZSA9PiB7CiAgaWYgKHB1bHNlLnB1bHNlVHlwZSA9PT0gImN1c3RvbSIpIHsKICAgIGZvcm1hdHRlZFB1bHNlID0gX3BpY2socHVsc2UsIFsicHVsc2VUeXBlIiwgInNoYXBlIiwgIm1heGltdW1SYWJpUmF0ZSJdKTsKICAgIGlmIChwdWxzZS5zZWdtZW50cykgewogICAgICBmb3JtYXR0ZWRQdWxzZS5zZWdtZW50cyA9IHB1bHNlLnNlZ21lbnRzOwogICAgfSBlbHNlIGlmIChwdWxzZS5ldWNsaWRlYW4gJiYgcHVsc2UuZXVjbGlkZWFuLmRhdGEpIHsKICAgICAgZm9ybWF0dGVkUHVsc2Uuc2VnbWVudHMgPSBwdWxzZS5ldWNsaWRlYW4uZGF0YS5kaW1lbnNpb25hbDsKICAgIH0KICAgIHJldHVybiBmb3JtYXR0ZWRQdWxzZTsKICB9IGVsc2UgaWYgKHB1bHNlLnB1bHNlVHlwZSA9PT0gIm9wdGltaXNlZCIpIHsKICAgIGZvcm1hdHRlZFB1bHNlID0gX3BpY2socHVsc2UsIFsKICAgICAgInB1bHNlVHlwZSIsCiAgICAgICJtYXhpbXVtUmFiaVJhdGUiLAogICAgICAibnVtYmVyT2ZTZWFyY2hlcyIKICAgIF0pOwogICAgaWYgKHB1bHNlLnNlZ21lbnRzKSB7CiAgICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2Uuc2VnbWVudHM7CiAgICB9IGVsc2UgaWYgKHB1bHNlLmV1Y2xpZGVhbiAmJiBwdWxzZS5ldWNsaWRlYW4uZGF0YSkgewogICAgICBmb3JtYXR0ZWRQdWxzZS5zZWdtZW50cyA9IHB1bHNlLmV1Y2xpZGVhbi5kYXRhLmRpbWVuc2lvbmFsOwogICAgfQogICAgcmV0dXJuIGZvcm1hdHRlZFB1bHNlOwogIH0gZWxzZSB7CiAgICByZXR1cm4gX3BpY2socHVsc2UsIFsKICAgICAgInB1bHNlVHlwZSIsCiAgICAgICJtYXhpbXVtUmFiaVJhdGUiLAogICAgICAicG9sYXJBbmdsZSIsCiAgICAgICJzaGFwZSIKICAgIF0pOwogIH0KfTsKCg==</text>
+        <text encoding="base64">Y29uc3QgX3BpY2sgPSByZXF1aXJlKCJsb2Rhc2gvcGljayIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlczoKICAgICAgICAtIHRlc3QK</text>
+        <text encoding="base64">Y29uc3QgZ2V0Rm9ybWF0dGVkUHVsc2UgPSBwdWxzZSA9PiB7CiAgaWYgKHB1bHNlLnB1bHNlVHlwZSA9PT0gImN1c3RvbSIpIHsKICAgIGZvcm1hdHRlZFB1bHNlID0gX3BpY2socHVsc2UsIFsicHVsc2VUeXBlIiwgInNoYXBlIiwgIm1heGltdW1SYWJpUmF0ZSJdKTsKICAgIGlmIChwdWxzZS5zZWdtZW50cykgewogICAgICBmb3JtYXR0ZWRQdWxzZS5zZWdtZW50cyA9IHB1bHNlLnNlZ21lbnRzOwogICAgfSBlbHNlIGlmIChwdWxzZS5ldWNsaWRlYW4gJiYgcHVsc2UuZXVjbGlkZWFuLmRhdGEpIHsKICAgICAgZm9ybWF0dGVkUHVsc2Uuc2VnbWVudHMgPSBwdWxzZS5ldWNsaWRlYW4uZGF0YS5kaW1lbnNpb25hbDsKICAgIH0KICAgIHJldHVybiBmb3JtYXR0ZWRQdWxzZTsKICB9IGVsc2UgaWYgKHB1bHNlLnB1bHNlVHlwZSA9PT0gIm9wdGltaXNlZCIpIHsKICAgIGZvcm1hdHRlZFB1bHNlID0gX3BpY2socHVsc2UsIFsKICAgICAgInB1bHNlVHlwZSIsCiAgICAgICJtYXhpbXVtUmFiaVJhdGUiLAogICAgICAibnVtYmVyT2ZTZWFyY2hlcyIKICAgIF0pOwogICAgaWYgKHB1bHNlLnNlZ21lbnRzKSB7CiAgICAgIGZvcm1hdHRlZFB1bHNlLnNlZ21lbnRzID0gcHVsc2Uuc2VnbWVudHM7CiAgICB9IGVsc2UgaWYgKHB1bHNlLmV1Y2xpZGVhbiAmJiBwdWxzZS5ldWNsaWRlYW4uZGF0YSkgewogICAgICBmb3JtYXR0ZWRQdWxzZS5zZWdtZW50cyA9IHB1bHNlLmV1Y2xpZGVhbi5kYXRhLmRpbWVuc2lvbmFsOwogICAgfQogICAgcmV0dXJuIGZvcm1hdHRlZFB1bHNlOwogIH0gZWxzZSB7CiAgICByZXR1cm4gX3BpY2socHVsc2UsIFsKICAgICAgInB1bHNlVHlwZSIsCiAgICAgICJtYXhpbXVtUmFiaVJhdGUiLAogICAgICAicG9sYXJBbmdsZSIsCiAgICAgICJzaGFwZSIKICAgIF0pOwogIH0KfTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIHVuaXRfdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlczoKICAgICAgICAtIHRlc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIGludGVncmF0aW9uX3Rlc3QK</text>
+        <text encoding="base64">ICAgICAgICAtIHVuaXRfdGVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAtIGludGVncmF0aW9uX3Rlc3Q6CiAgICAgICAgZmlsdGVyczoKICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgIG9ubHk6IC8uKi8K</text>
+        <text encoding="base64">ICAgICAgICAtIGludGVncmF0aW9uX3Rlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAtIGludGVncmF0aW9uX3Rlc3Q6CiAgICAgICAgZmlsdGVyczoKICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgIG9ubHk6IC8uKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>BlochSphere</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>BlochSphere</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1057,7 +1057,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ONE_QUBIT_PULSE_DATA</entry>
         <entry>DATA</entry>
         <entry>downloadCSV</entry>
         <entry>format</entry>
@@ -1077,6 +1076,7 @@
         <entry>detunings</entry>
         <entry>shape</entry>
         <entry>test</entry>
+        <entry>BlochSphere</entry>
       </history-search>
       <history-cmd>
         <entry>23</entry>
