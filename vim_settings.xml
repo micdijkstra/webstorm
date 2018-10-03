@@ -678,12 +678,12 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1538464199223">
-        <mark key="'" line="17" column="53" />
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1538530038773">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="76" column="7" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="73" column="5" />
       </file>
       <file name="$USER_HOME$/Code/frontend/README.md" timestamp="1537914208623">
         <mark key="'" line="111" column="0" />
@@ -894,22 +894,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="28" column="5" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="71" column="19" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="3" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="13" column="46" filename="$USER_HOME$/Code/firebase/functions/utils/formatted-pulse.js" />
-      <jump line="16" column="23" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="7" column="46" filename="$USER_HOME$/Code/firebase/functions/utils/formatted-pulse.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/firebase/functions/utils/formatted-pulse.js" />
-      <jump line="38" column="41" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="31" column="4" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="51" column="15" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="12" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="48" column="15" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="21" column="46" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
-      <jump line="23" column="23" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
       <jump line="300" column="9" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="109" column="32" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="518" column="38" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
@@ -994,10 +980,24 @@
       <jump line="91" column="10" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
       <jump line="102" column="36" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
       <jump line="67" column="6" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
+      <jump line="23" column="23" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="84" column="28" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlczoKICAgICAgICAtIHRlc3QK</text>
+        <text encoding="base64">ICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsKICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>unit_test</text>
@@ -1006,7 +1006,7 @@
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIHVuaXRfdGVzdAogICAgICAgIC0gaW50ZWdyYXRpb25fdGVzdAo=</text>
+        <text encoding="base64">ICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXF1aXJlczoKICAgICAgICAtIHRlc3QK</text>
@@ -1036,7 +1036,7 @@
         <text encoding="base64">ICAgIO+/vAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1086,12 +1086,12 @@
         <entry>%s/listAllUsers/updateAllUsers/g</entry>
         <entry>%s/updateAllUsers/runMigration/g</entry>
         <entry>q!</entry>
-        <entry>q</entry>
         <entry>17</entry>
         <entry>14</entry>
         <entry>red</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
