@@ -128,6 +128,11 @@
         <mark key="." line="47" column="19" />
         <mark key="^" line="47" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/ErrorBoundary/index.js" timestamp="1538619534958">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" timestamp="1538616091030">
         <mark key="'" line="65" column="7" />
         <mark key="[" line="22" column="38" />
@@ -894,7 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="22" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="48" column="33" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="113" column="6" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
       <jump line="112" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/index.js" />
@@ -994,10 +998,11 @@
       <jump line="57" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
       <jump line="18" column="13" filename="$USER_HOME$/Code/frontend/src/selectors/User/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ErrorBoundary/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gc3RhdGUgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5jaGlsZHJlbgo=</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -1006,7 +1011,7 @@
         <text>total</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNpcmN1aXQ6IHsKICAgICAgY29udHJvbEV2YWx1YXRpb246IGZhbHNlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5jaGlsZHJlbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
