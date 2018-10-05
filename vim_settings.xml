@@ -109,12 +109,12 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1537318434551">
-        <mark key="'" line="175" column="37" />
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1538710722408">
+        <mark key="'" line="174" column="24" />
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="31" />
+        <mark key="^" line="58" column="36" />
+        <mark key="." line="59" column="31" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/organisations/plan/onWrite.function.js" timestamp="1538100153653">
         <mark key="'" line="17" column="19" />
@@ -218,13 +218,6 @@
         <mark key="]" line="7" column="13" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" timestamp="1538703509670">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="53" column="30" />
-        <mark key="]" line="53" column="45" />
-        <mark key="." line="53" column="45" />
-        <mark key="^" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1538703090750">
         <mark key="'" line="352" column="26" />
@@ -582,13 +575,6 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1538703082299">
-        <mark key="'" line="527" column="21" />
-        <mark key="[" line="534" column="8" />
-        <mark key="]" line="534" column="7" />
-        <mark key="^" line="534" column="7" />
-        <mark key="." line="534" column="7" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" timestamp="1538608326014">
         <mark key="'" line="45" column="0" />
       </file>
@@ -932,8 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="285" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="281" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="276" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="271" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
@@ -1032,19 +1016,21 @@
       <jump line="92" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
+      <jump line="174" column="24" filename="$USER_HOME$/Code/firebase/functions/utils/constants.js" />
+      <jump line="444" column="13" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2hhcGVRdWJpdDFYeSA=</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2hhcGVRdWJpdDFYeSA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>pulses</text>
+        <text>FIELDS</text>
       </register>
       <register name="0" type="4">
-        <text>PARAMETRIC_DRIVE_DEFAULT_STATES</text>
+        <text>1000</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1078,9 +1064,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pulses</last-search>
+      <last-search>FIELDS</last-search>
       <last-offset />
-      <last-pattern>pulses</last-pattern>
+      <last-pattern>FIELDS</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1088,11 +1074,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>parametricDrive</entry>
-        <entry>TYPES</entry>
-        <entry>FIXED</entry>
-        <entry>cmpmg</entry>
         <entry>cpmg</entry>
         <entry>PARAMETRIC</entry>
         <entry>PARAMETRIC_DRIVE</entry>
@@ -1108,6 +1089,11 @@
         <entry>PLOT</entry>
         <entry>shape</entry>
         <entry>pulses</entry>
+        <entry>frequencies</entry>
+        <entry>CHARACTERIZATION_CONTROL_PLOT_FIELDS</entry>
+        <entry>CONTROL_PLOT_FIELDS</entry>
+        <entry>PLOT_FIELDS</entry>
+        <entry>FIELDS</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TIMEOUT/TIMEOUT_LIMIT/g</entry>
@@ -1126,9 +1112,9 @@
         <entry>17</entry>
         <entry>14</entry>
         <entry>41</entry>
-        <entry>q</entry>
         <entry>red</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
