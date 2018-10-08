@@ -82,10 +82,11 @@
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" timestamp="1538967562370">
-        <mark key="'" line="37" column="30" />
-        <mark key="[" line="199" column="15" />
-        <mark key="]" line="199" column="16" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" timestamp="1538972128325">
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="71" column="24" />
+        <mark key="." line="71" column="24" />
+        <mark key="^" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Warning/index.js" timestamp="1536199813467">
         <mark key="'" line="3" column="53" />
@@ -187,8 +188,8 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" timestamp="1538967579911">
-        <mark key="'" line="124" column="22" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" timestamp="1538971389358">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="55" column="48" />
         <mark key="]" line="55" column="58" />
       </file>
@@ -934,12 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="49" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
-      <jump line="149" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
-      <jump line="146" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
-      <jump line="157" column="32" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
-      <jump line="48" column="47" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
-      <jump line="42" column="44" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="153" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="40" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="152" column="32" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
@@ -1034,55 +1029,61 @@
       <jump line="160" column="40" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="166" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="176" column="30" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="53" column="44" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" />
+      <jump line="202" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="75" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="77" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1hcmtlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
-        <text>learnMoreUrl</text>
+        <text>mode</text>
       </register>
-      <register name="0" type="4">
-        <text>learnMoreUrl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IGl0ZW0uY29sb3JzWzBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dHJpYnV0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmtlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChhdHRyaWJ1dGUgPT09ICJhemltdXRoYWxBbmdsZXMiKSB7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFya2VyID0ge307Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbW9kZSA9ICJsaW5lcyI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGltaXQgPSAzLjE0OwogICAgICB0aWNrID0gIs+AIjsK</text>
+        <text encoding="base64">ICAgICAgICAgIG1vZGUgPSAibGluZXMrbWFya2VycyI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGF0dXMgPT09IFNUQVRVU0VTLlBFTkRJTkcgfHwgc3RhdHVzID09PSBTVEFUVVNFUy5QUk9DRVNTSU5HKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICBtYXJrZXIgPSB7CiAgICAgICAgICAgIGNvbG9yOiBpdGVtLmNvbG9yc1swXSwKICAgICAgICAgICAgc2l6ZTogNQogICAgICAgICAgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICBtYXJrZXIgPSB7CiAgICAgICAgICAgIGNvbG9yOiBpdGVtLmNvbG9yc1swXSwKICAgICAgICAgICAgc2l6ZTogNTAKICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb2JqW2NvbnRyb2xUeXBlXSA9IChvYmpbY29udHJvbFR5cGVdIHx8IDApICsgMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyID0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>learnMoreUrl</last-search>
+      <last-search>mode</last-search>
       <last-offset />
-      <last-pattern>learnMoreUrl</last-pattern>
+      <last-pattern>mode</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1090,10 +1091,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PLOT</entry>
-        <entry>shape</entry>
-        <entry>pulses</entry>
-        <entry>frequencies</entry>
         <entry>CHARACTERIZATION_CONTROL_PLOT_FIELDS</entry>
         <entry>CONTROL_PLOT_FIELDS</entry>
         <entry>PLOT_FIELDS</entry>
@@ -1110,6 +1107,10 @@
         <entry>type</entry>
         <entry>oneQubitEvaluation.type</entry>
         <entry>learnMoreUrl</entry>
+        <entry>Plot</entry>
+        <entry>error</entry>
+        <entry>error_y</entry>
+        <entry>mode</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TIMEOUT/TIMEOUT_LIMIT/g</entry>
@@ -1129,9 +1130,9 @@
         <entry>14</entry>
         <entry>41</entry>
         <entry>red</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
