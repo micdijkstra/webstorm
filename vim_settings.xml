@@ -123,11 +123,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/ErrorBoundary/index.js" timestamp="1538619534958">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="24" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" timestamp="1538616091030">
         <mark key="'" line="65" column="7" />
         <mark key="[" line="22" column="38" />
@@ -218,8 +213,8 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" timestamp="1539036683505">
-        <mark key="'" line="161" column="52" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" timestamp="1539038147651">
+        <mark key="'" line="149" column="0" />
         <mark key="[" line="150" column="24" />
         <mark key="]" line="150" column="25" />
         <mark key="." line="150" column="25" />
@@ -244,11 +239,6 @@
         <mark key="]" line="50" column="37" />
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/selectors/User/index.js" timestamp="1538631591883">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="1" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" timestamp="1539034500927">
         <mark key="'" line="47" column="51" />
@@ -549,11 +539,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" timestamp="1538458909277">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="54" column="10" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" timestamp="1539036425948">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="110" column="0" />
@@ -574,6 +559,9 @@
         <mark key="]" line="12" column="33" />
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1539038206544">
+        <mark key="'" line="120" column="10" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" timestamp="1538608326014">
         <mark key="'" line="45" column="0" />
@@ -710,10 +698,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" timestamp="1538702735538">
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" timestamp="1539038193067">
         <mark key="'" line="7" column="12" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="130" column="20" />
+        <mark key="[" line="115" column="35" />
+        <mark key="]" line="115" column="62" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Plan/index.js" timestamp="1537254641415">
         <mark key="'" line="30" column="0" />
@@ -852,11 +840,6 @@
         <mark key="^" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/HeaderNav/index.js" timestamp="1538618222561">
-        <mark key="'" line="63" column="14" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="33" />
-      </file>
       <file name="$USER_HOME$/Code/firebase/functions/utils/formatted-pulse.js" timestamp="1538463862326">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -882,11 +865,6 @@
         <mark key="]" line="60" column="43" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/package.json" timestamp="1538537251227">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="29" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" timestamp="1537248831943">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="147" column="0" />
@@ -910,11 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="7" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
-      <jump line="75" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
-      <jump line="48" column="40" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
-      <jump line="59" column="25" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
       <jump line="66" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
       <jump line="80" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
       <jump line="47" column="51" filename="$USER_HOME$/Code/frontend/src/components/templates/Noise/Plot/index.js" />
@@ -973,7 +946,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" />
       <jump line="5" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" />
-      <jump line="149" column="34" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="110" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" />
       <jump line="16" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/Chart/index.js" />
       <jump line="79" column="3" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
@@ -995,8 +967,6 @@
       <jump line="150" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/index.js" />
       <jump line="27" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="217" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="221" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
       <jump line="233" column="26" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
@@ -1010,19 +980,27 @@
       <jump line="847" column="43" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="863" column="40" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="850" column="46" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="34" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
+      <jump line="89" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" />
+      <jump line="120" column="10" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmFiaSA=</text>
+        <text>ONE_QUBIT_OPTIMISATION_TYPES</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">UmFiaSA=</text>
       </register>
       <register name="/" type="4">
-        <text>shapeQubit</text>
+        <text>ENABLED</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCb3ggbXg9ImF1dG8iPgo=</text>
+      <register name="0" type="4">
+        <text>ONE_QUBIT_OPTIMISATION_TYPES</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxCb3ggbXg9ImF1dG8iPgo=</text>
@@ -1056,9 +1034,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shapeQubit</last-search>
+      <last-search>ENABLED</last-search>
       <last-offset />
-      <last-pattern>shapeQubit</last-pattern>
+      <last-pattern>ENABLED</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1066,7 +1044,6 @@
     </search>
     <history>
       <history-search>
-        <entry>error_y</entry>
         <entry>lines</entry>
         <entry>mode</entry>
         <entry>color</entry>
@@ -1086,6 +1063,7 @@
         <entry>Coupling</entry>
         <entry>Rabi Rate</entry>
         <entry>shapeQubit</entry>
+        <entry>ENABLED</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TIMEOUT/TIMEOUT_LIMIT/g</entry>
