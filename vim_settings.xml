@@ -845,11 +845,11 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="203" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" timestamp="1538633225845">
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" timestamp="1538964554432">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomPulse/index.js" timestamp="1538702717966">
         <mark key="'" line="23" column="0" />
@@ -1023,44 +1023,44 @@
       <jump line="26" column="26" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Plot/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChzdGF0dXMgPT09IFNUQVRVU0VTLlBFTkRJTkcgfHwgc3RhdHVzID09PSBTVEFUVVNFUy5QUk9DRVNTSU5HKSB7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>PROCESSING</text>
       </register>
       <register name="/" type="4">
         <text>front</text>
       </register>
-      <register name="0" type="4">
-        <text>1000</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBTVEFUVVNFUy5QUk9DRVNTSU5HOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0dXMgPT09IFNUQVRVU0VTLlBFTkRJTkcgfHwgc3RhdHVzID09PSBTVEFUVVNFUy5QUk9DRVNTSU5HKSB7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2l0ZW0udHlwZSAhPT0KICAgICAgICAgICAgICBQQVJBTUVUUklDX0RSSVZFX0NVU1RPTV9DT05UUk9MX1RZUEVTLkNPTlNUQU5UX0FNUExJVFVERSAmJgogICAgICAgICAgICAgIFNoYXBlRmllbGRzZXQoInNoYXBlSXN3YXBYeSIpfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgPEZsZXg+CiAgICAgICAgICAgICAgICA8Qm94PlBMT1QgR09FUyBIRVJFPC9Cb3g+CiAgICAgICAgICAgICAgPC9GbGV4Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IGl0ZW0gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgb2JqW2NvbnRyb2xUeXBlXSA9IChvYmpbY29udHJvbFR5cGVdIHx8IDApICsgMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge2l0ZW0udHlwZSAhPT0KICAgICAgICAgICAgICBQQVJBTUVUUklDX0RSSVZFX0NVU1RPTV9DT05UUk9MX1RZUEVTLkNPTlNUQU5UX0FNUExJVFVERSAmJgogICAgICAgICAgICAgIFNoYXBlRmllbGRzZXQoInNoYXBlSXN3YXBYeSIpfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgPEZsZXg+CiAgICAgICAgICAgICAgICA8Qm94PlBMT1QgR09FUyBIRVJFPC9Cb3g+CiAgICAgICAgICAgICAgPC9GbGV4Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge30K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IGl0ZW0gfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
