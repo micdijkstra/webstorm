@@ -82,6 +82,11 @@
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="10" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" timestamp="1538967562370">
+        <mark key="'" line="37" column="30" />
+        <mark key="[" line="199" column="15" />
+        <mark key="]" line="199" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Warning/index.js" timestamp="1536199813467">
         <mark key="'" line="3" column="53" />
         <mark key="[" line="4" column="69" />
@@ -181,6 +186,11 @@
         <mark key="]" line="18" column="29" />
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" timestamp="1538967579911">
+        <mark key="'" line="124" column="22" />
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="55" column="58" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/evaluation.js" timestamp="1536645331171">
         <mark key="'" line="0" column="0" />
@@ -924,17 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="500" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="495" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="493" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="478" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="459" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="310" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="315" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="330" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="458" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="338" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="345" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="484" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="597" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="477" column="15" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
@@ -1024,19 +1023,30 @@
       <jump line="54" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Plot/index.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Plot/index.js" />
       <jump line="64" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Plot/index.js" />
+      <jump line="74" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="198" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="199" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="33" column="12" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="37" column="30" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="28" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" />
+      <jump line="40" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" />
+      <jump line="55" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" />
+      <jump line="124" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3.379310345</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>PI</text>
+        <text>aspect</text>
       </register>
       <register name="0" type="4">
-        <text>detunings</text>
+        <text>1.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dHJpYnV0ZSkK</text>
@@ -1070,9 +1080,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PI</last-search>
+      <last-search>aspect</last-search>
       <last-offset />
-      <last-pattern>PI</last-pattern>
+      <last-pattern>aspect</last-pattern>
       <last-replace>runMigration</last-replace>
       <last-substitute>updateAllUsers</last-substitute>
       <last-dir>1</last-dir>
@@ -1080,7 +1090,6 @@
     </search>
     <history>
       <history-search>
-        <entry>optimisation</entry>
         <entry>pulse.optimised.type</entry>
         <entry>pulse</entry>
         <entry>CONTROL_TYPES</entry>
@@ -1096,10 +1105,11 @@
         <entry>FIELDS</entry>
         <entry>Chart</entry>
         <entry>ratio</entry>
-        <entry>aspect</entry>
         <entry>compact</entry>
         <entry>front</entry>
         <entry>PI</entry>
+        <entry>aspectRatio</entry>
+        <entry>aspect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TIMEOUT/TIMEOUT_LIMIT/g</entry>
