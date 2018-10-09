@@ -584,6 +584,9 @@
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/index.js" timestamp="1538608326014">
         <mark key="'" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/scripts/db/parametricDrive/iSWAP/pulses.json" timestamp="1539043268693">
+        <mark key="'" line="0" column="28238" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/db/oneQubit/pulses/pulse/updatedAt/onWrite.test.js" timestamp="1537398695914">
         <mark key="'" line="10" column="34" />
         <mark key="[" line="26" column="0" />
@@ -909,7 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" />
       <jump line="4" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/Chart/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" />
       <jump line="5" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" />
@@ -1009,6 +1011,7 @@
       <jump line="449" column="3" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="452" column="1" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="443" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="0" column="28238" filename="$USER_HOME$/Code/firebase/scripts/db/parametricDrive/iSWAP/pulses.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1018,7 +1021,7 @@
         <text>ECHO_IN_WAMF</text>
       </register>
       <register name="/" type="4">
-        <text>TYPES</text>
+        <text>duration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtQQVJBTUVUUklDX0RSSVZFX0NVU1RPTV9DT05UUk9MX1RZUEVTLkVDSE9fSU5fV0FNRl06IHt9Cg==</text>
@@ -1055,9 +1058,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TYPES</last-search>
+      <last-search>duration</last-search>
       <last-offset />
-      <last-pattern>TYPES</last-pattern>
+      <last-pattern>duration</last-pattern>
       <last-replace>Drives</last-replace>
       <last-substitute>Pulses</last-substitute>
       <last-dir>1</last-dir>
@@ -1065,7 +1068,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>Drive</entry>
         <entry>tab</entry>
         <entry>Custom</entry>
@@ -1085,6 +1087,7 @@
         <entry>pulses</entry>
         <entry>DRIVES</entry>
         <entry>TYPES</entry>
+        <entry>duration</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
