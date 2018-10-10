@@ -145,10 +145,10 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.env.production" timestamp="1538096608907">
+      <file name="$USER_HOME$/Code/frontend/.env.production" timestamp="1539214325506">
         <mark key="'" line="12" column="10" />
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="11" column="0" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="57" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
@@ -723,12 +723,12 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1539211153197">
+      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1539214328361">
         <mark key="'" line="9" column="28" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="7" column="0" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/noises/noise/updatedAt/onWrite.function.js" timestamp="1538011917354">
         <mark key="'" line="65" column="2" />
@@ -1008,17 +1008,17 @@
       <jump line="331" column="41" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAiYW5nbGVzUXViaXQxWHkiOgo=</text>
+      <register name="&quot;" type="4">
+        <text>Atc5aJAtC639l5qI8w1S3ZzPGElmBMSa</text>
       </register>
       <register name="-" type="4">
-        <text>IswapXy</text>
+        <text>Atc5aJAtC639l5qI8w1S3ZzPGElmBMSa</text>
       </register>
       <register name="/" type="4">
         <text>Azimuthal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAiYW5nbGVzSXN3YXBYeSI6CiAgICAgIGNhc2UgImFuZ2xlc1F1Yml0MVh5IjoKICAgICAgY2FzZSAiYW5nbGVzUXViaXQxWHkiOgogICAgICBjYXNlICJhbmdsZXNJc3dhcFh5IjoK</text>
+      <register name="0" type="4">
+        <text>Iy29Ev7iYRAMjLqwcxAR0XhrUrNAWLHE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY2FzZSAiYW5nbGVzUXViaXQxWHkiOgo=</text>
@@ -1111,8 +1111,8 @@
         <entry>%s/Pulses/Drives/g</entry>
         <entry>%s/570/710/g</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>red</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
