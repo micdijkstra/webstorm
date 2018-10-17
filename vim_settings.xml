@@ -592,12 +592,12 @@
         <mark key="." line="118" column="22" />
         <mark key="^" line="118" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/User/index.js" timestamp="1539733742713">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="6" />
-        <mark key="." line="82" column="6" />
-        <mark key="^" line="82" column="6" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/User/index.js" timestamp="1539745740635">
+        <mark key="'" line="54" column="13" />
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="88" column="7" />
+        <mark key="." line="88" column="7" />
+        <mark key="^" line="88" column="7" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" timestamp="1539321744460">
         <mark key="'" line="137" column="39" />
@@ -605,6 +605,13 @@
         <mark key="]" line="136" column="34" />
         <mark key="." line="136" column="34" />
         <mark key="^" line="136" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/users/inviteTokens/onCreate.function.js" timestamp="1539745804500">
+        <mark key="'" line="17" column="41" />
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Login/index.js" timestamp="1539739244690">
         <mark key="'" line="26" column="0" />
@@ -639,12 +646,12 @@
         <mark key="." line="65" column="17" />
         <mark key="^" line="65" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" timestamp="1539740134651">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-        <mark key="^" line="35" column="39" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" timestamp="1539745730690">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="36" />
+        <mark key="." line="40" column="36" />
+        <mark key="^" line="40" column="36" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/FilterFunctions/index.js" timestamp="1536551235770">
         <mark key="'" line="15" column="23" />
@@ -1012,16 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="73" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="68" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="109" column="26" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="151" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="152" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="22" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="38" column="18" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="48" column="52" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
-      <jump line="53" column="40" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
       <jump line="77" column="48" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
       <jump line="52" column="26" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
       <jump line="50" column="26" filename="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Signup/index.js" />
@@ -1112,55 +1109,65 @@
       <jump line="96" column="15" filename="$USER_HOME$/Code/frontend/src/actions/Auth/index.js" />
       <jump line="22" column="34" filename="$USER_HOME$/Code/frontend/src/actions/Auth/index.js" />
       <jump line="49" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Auth/index.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="89" column="1" filename="$USER_HOME$/Code/frontend/src/actions/User/index.js" />
+      <jump line="54" column="13" filename="$USER_HOME$/Code/frontend/src/actions/User/index.js" />
+      <jump line="17" column="41" filename="$USER_HOME$/Code/firebase/functions/db/users/inviteTokens/onCreate.function.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">b3JnYW5pc2F0aW9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">b3JnYW5pc2F0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>bootstrap</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oYXV0aCA9PiB7CiAgICAgICAgY29uc3QgdWlkID0gYXV0aC51c2VyLnVpZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+Cg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhdXRoCiAgICAgIC5jcmVhdGVVc2VyV2l0aEVtYWlsQW5kUGFzc3dvcmQoaXRlbS5lbWFpbCwgaXRlbS5wYXNzd29yZCkKICAgICAgLnRoZW4oYXV0aCA9PiB7CiAgICAgICAgY29uc3QgdWlkID0gYXV0aC51c2VyLnVpZDsKICAgICAgICByZXR1cm4gZGF0YWJhc2UKICAgICAgICAgIC5yZWYoYHVzZXJzLyR7dWlkfWApCiAgICAgICAgICAuc2V0KHsKICAgICAgICAgICAgYXR0cmlidXRlczogewogICAgICAgICAgICAgIG5hbWU6IGl0ZW0udXNlck5hbWUsCiAgICAgICAgICAgICAgcm9sZTogaXRlbS51c2VyUm9sZSB8fCAiIgogICAgICAgICAgICB9CiAgICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICFhdXRoLmVycm9yICYmICgK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtlcnJvciAmJiA8QWxlcnQgdHlwZT0iZGFuZ2VyIiBtZXNzYWdlPXtlcnJvcn0gLz59Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBzaWdudXAgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoYW5kbGVTaWdudXAiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICFhdXRoLmVycm9yICYmICgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsKICAgICAgcmV0dXJuIGRpc3BhdGNoKGNyZWF0ZVVzZXJPcmdhbmlzYXRpb24odWlkLCBpdGVtLm9yZ2FuaXNhdGlvbk5hbWUpKTsKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtlcnJvciAmJiA8QWxlcnQgdHlwZT0iZGFuZ2VyIiBtZXNzYWdlPXtlcnJvcn0gLz59Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICBjb25zdCBzaWdudXAgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoYW5kbGVTaWdudXAiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bootstrap</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>bootstrap</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>joinOrganisation</last-replace>
       <last-substitute>choosePlan\.invite</last-substitute>
       <last-dir>1</last-dir>
@@ -1168,7 +1175,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Loading</entry>
         <entry>Login</entry>
         <entry>Box</entry>
         <entry>focus</entry>
@@ -1188,6 +1194,7 @@
         <entry>error</entry>
         <entry>isAppReady</entry>
         <entry>bootstrap</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
