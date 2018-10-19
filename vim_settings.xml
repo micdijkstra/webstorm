@@ -583,8 +583,8 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/stripe.js" timestamp="1539908779043">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/Code/firebase/functions/utils/stripe.js" timestamp="1539909771648">
+        <mark key="'" line="13" column="5" />
         <mark key="[" line="21" column="16" />
         <mark key="]" line="21" column="24" />
         <mark key="." line="21" column="24" />
@@ -1107,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Auth/index.js" />
       <jump line="50" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Auth/index.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Auth/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Auth/index.js" />
@@ -1207,6 +1206,7 @@
       <jump line="94" column="11" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
       <jump line="14" column="31" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Plan/index.js" />
       <jump line="136" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Plan/index.js" />
+      <jump line="13" column="5" filename="$USER_HOME$/Code/firebase/functions/utils/stripe.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1249,7 +1249,7 @@
         <text encoding="base64">aW1wb3J0IHsgY3VycmVudEFwcFVybCB9IGZyb20gIi4uLyI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1300,11 +1300,11 @@
         <entry>%s/choosePlan\.invite/joinOrganisation/g</entry>
         <entry>W</entry>
         <entry>92</entry>
-        <entry>qa</entry>
         <entry>%s/Login/Verify/g</entry>
         <entry>red</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
