@@ -97,10 +97,10 @@
         <mark key="." line="41" column="24" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Private/index.js" timestamp="1540175425186">
+      <file name="$USER_HOME$/Code/frontend/src/containers/Private/index.js" timestamp="1540185425162">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="107" column="10" />
-        <mark key="]" line="107" column="9" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="67" column="4" />
         <mark key="^" line="107" column="9" />
         <mark key="." line="107" column="9" />
       </file>
@@ -441,8 +441,8 @@
         <mark key="^" line="79" column="75" />
         <mark key="." line="79" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1540179984686">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1540185018341">
+        <mark key="'" line="12" column="49" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -461,6 +461,9 @@
         <mark key="]" line="6" column="24" />
         <mark key="^" line="25" column="41" />
         <mark key="." line="36" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/actions/index.js" timestamp="1539907952969">
+        <mark key="'" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/SelectedPulses/index.js" timestamp="1536207657961">
         <mark key="'" line="51" column="40" />
@@ -499,6 +502,9 @@
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
         <mark key="^" line="71" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/App/index.js" timestamp="1540187431910">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" timestamp="1538451614572">
         <mark key="'" line="93" column="5" />
@@ -914,13 +920,6 @@
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Verification/index.js" timestamp="1539920471317">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" timestamp="1540184329971">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="54" column="71" />
-        <mark key="]" line="54" column="81" />
-        <mark key="^" line="54" column="81" />
-        <mark key="." line="54" column="81" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Login/index.js" timestamp="1539739141573">
         <mark key="'" line="40" column="15" />
         <mark key="[" line="31" column="55" />
@@ -1200,22 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/Code/frontend/src/store/index.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/Code/frontend/src/store/index.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/index.js" />
-      <jump line="136" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="136" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/index.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="6" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="12" column="25" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="16" column="11" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="17" column="3" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="23" column="7" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="36" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="37" column="7" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
       <jump line="47" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
       <jump line="51" column="7" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
       <jump line="53" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
@@ -1300,10 +1283,26 @@
       <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
       <jump line="53" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="12" column="49" filename="$USER_HOME$/Code/frontend/.env.development.local" />
+      <jump line="25" column="32" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="83" column="47" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/containers/App/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgV3JhcHBlciA9IHN0eWxlZC5kaXZgCiAgaGVpZ2h0OiBhdXRvOwogIG1heC1oZWlnaHQ6IDEwMCU7CmA7Cgo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzVXNlck9uYm9hcmRpbmcpIHsKICAgICAgcmV0dXJuIDxSb3V0ZSBleGFjdCBwYXRoPSIqIiBjb21wb25lbnQ9e1VzZXJPbmJvYXJkaW5nfSAvPjsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>Wrapper</text>
@@ -1311,8 +1310,8 @@
       <register name="/" type="4">
         <text>WRa</text>
       </register>
-      <register name="0" type="4">
-        <text>width, height</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzVXNlck9uYm9hcmRpbmcpIHsKICAgICAgcmV0dXJuIDxSb3V0ZSBleGFjdCBwYXRoPSIqIiBjb21wb25lbnQ9e1VzZXJPbmJvYXJkaW5nfSAvPjsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgV3JhcHBlciA9IHN0eWxlZC5kaXZgCiAgaGVpZ2h0OiBhdXRvOwogIG1heC1oZWlnaHQ6IDEwMCU7CmA7Cgo=</text>
