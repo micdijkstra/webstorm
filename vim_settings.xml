@@ -51,8 +51,8 @@
       <file name="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" timestamp="1539923748763">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1540167698192">
-        <mark key="'" line="2" column="24" />
+      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1540168396632">
+        <mark key="'" line="137" column="15" />
         <mark key="[" line="131" column="17" />
         <mark key="]" line="131" column="19" />
         <mark key="." line="131" column="19" />
@@ -1209,7 +1209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Code/firebase/functions/README.md" />
       <jump line="42" column="48" filename="$USER_HOME$/Code/firebase/functions/README.md" />
       <jump line="4" column="18" filename="$USER_HOME$/Code/firebase/functions/utils/constants.js" />
       <jump line="5" column="2" filename="$USER_HOME$/Code/firebase/functions/utils/constants.js" />
@@ -1309,6 +1308,7 @@
       <jump line="106" column="24" filename="$USER_HOME$/Code/firebase/functions/utils/emails.js" />
       <jump line="28" column="10" filename="$USER_HOME$/Code/frontend/src/containers/AcademicVerification/index.js" />
       <jump line="2" column="24" filename="$USER_HOME$/Code/firebase/functions/utils/constants.js" />
+      <jump line="137" column="15" filename="$USER_HOME$/Code/firebase/functions/utils/constants.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1318,7 +1318,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>PLAN_TYPES</text>
+        <text>mandrill.key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgeyBzZW5kQWRtaW5FbWFpbCB9ID0gcmVxdWlyZSgiLi4vLi4vLi4vdXRpbHMvZW1haWxzIik7Cg==</text>
@@ -1355,9 +1355,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PLAN_TYPES</last-search>
+      <last-search>mandrill.key</last-search>
       <last-offset />
-      <last-pattern>PLAN_TYPES</last-pattern>
+      <last-pattern>mandrill.key</last-pattern>
       <last-replace>mapProps</last-replace>
       <last-substitute>mapPropsTouched</last-substitute>
       <last-dir>1</last-dir>
@@ -1365,7 +1365,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EMAILS</entry>
         <entry>}</entry>
         <entry>formattedMessage</entry>
         <entry>userUID</entry>
@@ -1385,6 +1384,7 @@
         <entry>config</entry>
         <entry>subject</entry>
         <entry>PLAN_TYPES</entry>
+        <entry>mandrill.key</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ParametricDrive/MolmerSorensen</entry>
