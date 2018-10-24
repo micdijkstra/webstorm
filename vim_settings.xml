@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" timestamp="1540338625686">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="53" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" timestamp="1540351795624">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="176" column="30" />
       </file>
       <file name="$USER_HOME$/Downloads/measurements_sample.json" timestamp="1539057903893" />
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ParametricDrive/Attributes/index.js" timestamp="1540350023495">
@@ -31,11 +31,11 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/BlochSphere/index.js" timestamp="1540255982754">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/BlochSphere/index.js" timestamp="1540352024533">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="19" column="5" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Warning/index.js" timestamp="1536199813467">
@@ -146,12 +146,11 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1540349991791">
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1540352275011">
         <mark key="'" line="1035" column="44" />
-        <mark key="[" line="1383" column="43" />
-        <mark key="]" line="1383" column="43" />
-        <mark key="." line="1383" column="43" />
-        <mark key="^" line="1383" column="49" />
+        <mark key="[" line="1369" column="0" />
+        <mark key="]" line="1369" column="66" />
+        <mark key="." line="1369" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1539321918048">
         <mark key="'" line="13" column="36" />
@@ -174,12 +173,12 @@
         <mark key="." line="49" column="28" />
         <mark key="^" line="49" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" timestamp="1540350179330">
-        <mark key="'" line="219" column="0" />
-        <mark key="[" line="208" column="44" />
-        <mark key="]" line="208" column="53" />
-        <mark key="." line="208" column="53" />
-        <mark key="^" line="208" column="53" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" timestamp="1540352660859">
+        <mark key="'" line="95" column="20" />
+        <mark key="[" line="63" column="47" />
+        <mark key="]" line="63" column="65" />
+        <mark key="." line="63" column="65" />
+        <mark key="^" line="63" column="65" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" timestamp="1540265301112">
         <mark key="'" line="109" column="64" />
@@ -266,11 +265,6 @@
         <mark key="]" line="44" column="40" />
         <mark key="." line="44" column="40" />
         <mark key="^" line="44" column="40" />
-      </file>
-      <file name="$USER_HOME$/Code/firebase/scripts/db/parametricDrive/iSWAP/pulses-gaussian.json" timestamp="1539051105732">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/TwoQubit/Attributes/index.js" timestamp="1540350018029">
         <mark key="'" line="21" column="2" />
@@ -400,12 +394,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1540350377261">
-        <mark key="'" line="528" column="18" />
-        <mark key="[" line="538" column="6" />
-        <mark key="]" line="538" column="23" />
-        <mark key="^" line="540" column="9" />
-        <mark key="." line="540" column="12" />
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1540352084003">
+        <mark key="'" line="463" column="30" />
+        <mark key="[" line="551" column="2" />
+        <mark key="]" line="551" column="13" />
+        <mark key="^" line="551" column="13" />
+        <mark key="." line="551" column="13" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/StripeCard/Form/index.js" timestamp="1537311227776">
         <mark key="'" line="0" column="41" />
@@ -648,12 +642,12 @@
       <file name="$USER_HOME$/Code/frontend/src/containers/Verification/index.js" timestamp="1539920468726">
         <mark key="'" line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" timestamp="1540350078199">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="29" />
-        <mark key="." line="54" column="29" />
-        <mark key="^" line="54" column="29" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" timestamp="1540351837014">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="65" />
+        <mark key="." line="71" column="36" />
+        <mark key="^" line="71" column="36" />
         <mark key="o" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Code/frontend/.env.development" timestamp="1540342345366">
@@ -785,10 +779,12 @@
         <mark key="." line="15" column="89" />
         <mark key="^" line="15" column="89" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" timestamp="1540348276991">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="37" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" timestamp="1540352745403">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/PlayBar/index.js" timestamp="1537425244269">
         <mark key="'" line="15" column="31" />
@@ -881,6 +877,13 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/actions/Visualize/index.js" timestamp="1540352734092">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/firebase.js" timestamp="1537487520144">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -905,12 +908,12 @@
       <file name="$USER_HOME$/Code/frontend/public/index.html" timestamp="1537743453481">
         <mark key="'" line="19" column="1026" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" timestamp="1540348860560">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="11" />
-        <mark key="^" line="40" column="11" />
-        <mark key="." line="40" column="11" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" timestamp="1540351829372">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="36" column="77" />
+        <mark key="]" line="45" column="104" />
+        <mark key="^" line="45" column="104" />
+        <mark key="." line="36" column="97" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/utils/validateAcademicEmailAddress.js" timestamp="1540178722636">
         <mark key="'" line="0" column="0" />
@@ -1071,12 +1074,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/selectors/Visualize/index.js" timestamp="1540342644062">
+      <file name="$USER_HOME$/Code/frontend/src/selectors/Visualize/index.js" timestamp="1540352753301">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="57" />
-        <mark key="]" line="7" column="64" />
-        <mark key="." line="7" column="64" />
-        <mark key="^" line="7" column="64" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Downloads/blochSphere.json" timestamp="1540181341586" />
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/index.js" timestamp="1538542551720">
@@ -1256,72 +1259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Characterization/MeasurementDetails/index.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Characterization/MeasurementDetails/index.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Characterization/MeasurementDetails/index.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Characterization/MeasurementDetails/index.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Characterization/MeasurementDetails/index.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Characterization/MeasurementDetails/index.js" />
-      <jump line="505" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="506" column="18" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="511" column="19" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="517" column="18" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="522" column="19" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="528" column="18" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="187" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="186" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="175" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="160" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="134" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="122" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="184" column="31" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="1342" column="19" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1384" column="36" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1385" column="25" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1386" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1387" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1383" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1356" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1353" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1345" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1337" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1327" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1319" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1311" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1301" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1277" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1273" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1270" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1264" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1256" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1250" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1242" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1230" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1219" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1213" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1205" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1200" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1197" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1189" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1179" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1174" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1155" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1152" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1144" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1137" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1130" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1121" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1118" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1111" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1104" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1095" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="1093" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="1091" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="1069" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
@@ -1354,57 +1291,123 @@
       <jump line="29" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/ParametricDrive/Attributes/index.js" />
       <jump line="206" column="72" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
-      <jump line="24" column="54" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
       <jump line="219" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="46" column="11" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="65" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="75" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="99" column="45" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="112" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Visualize/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Visualize/index.js" />
+      <jump line="43" column="35" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="73" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="74" column="50" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="77" column="50" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="86" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="97" column="50" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="98" column="52" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="101" column="52" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="110" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="115" column="63" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="118" column="30" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="127" column="63" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="130" column="30" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="139" column="63" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="142" column="30" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
+      <jump line="24" column="13" filename="$USER_HOME$/Code/frontend/src/actions/Visualize/index.js" />
+      <jump line="33" column="11" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="61" column="25" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
+      <jump line="153" column="63" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="174" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
+      <jump line="71" column="36" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="19" column="30" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="24" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="205" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="25" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="464" column="10" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="756" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="746" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="731" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="724" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="720" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="707" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="552" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/index.js" />
+      <jump line="34" column="16" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulse/BlochSphere/index.js" />
+      <jump line="710" column="14" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="360" column="23" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="463" column="30" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="46" column="37" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="143" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="182" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="193" column="60" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
+      <jump line="88" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Math.PI, 0, 0, 1],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>onChange</text>
+        <text>onSubmit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ2aXN1YWxpemUub25lUXViaXQub3BlcmF0aW9uLmRlZmluZWQuVF9EQUciOiAiJFReXFxkYWckIiwK</text>
+        <text encoding="base64">ICAgICJ2aXN1YWxpemUub25lUXViaXQub3BlcmF0aW9uLmRlZmluZWQuWCI6ICIkWCQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2xpY2s9e29uU3VibWl0fQo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEtcWE9InN1Ym1pdC1vcHRpbWlzZWQtcHVsc2UiCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTX0RBRzogW10sCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ0ZW1wbGF0ZSByZW5kZXIiLCBpbnB1dFN0YXRlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cGRhdGVkSXRlbSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cGRhdGVkSXRlbSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFJlbW92ZSAqIDczIHdoZW4gQmxvY2hTcGhlcmUgbGlicmFyeSBpcyB1cGRhdGVkCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cGRhdGVkSXRlbSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onChange</last-search>
+      <last-search>onSubmit</last-search>
       <last-offset />
-      <last-pattern>onChange</last-pattern>
+      <last-pattern>onSubmit</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1412,14 +1415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>length</entry>
-        <entry>form</entry>
-        <entry>MODEL</entry>
-        <entry>visualize</entry>
-        <entry>onUpdate</entry>
-        <entry>cotrol</entry>
-        <entry>contrl</entry>
-        <entry>model</entry>
         <entry>control</entry>
         <entry>console</entry>
         <entry>Form</entry>
@@ -1432,6 +1427,14 @@
         <entry>$</entry>
         <entry>hasChanged</entry>
         <entry>onChange</entry>
+        <entry>item.inputState</entry>
+        <entry>inputState</entry>
+        <entry>Update</entry>
+        <entry>blochSphere</entry>
+        <entry>DEFAULT_STATES</entry>
+        <entry>theta</entry>
+        <entry>defined</entry>
+        <entry>onSubmit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/choosePlan\.invite/joinOrganisation/g</entry>
