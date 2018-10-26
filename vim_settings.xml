@@ -128,9 +128,6 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/utils/evaluation.js" timestamp="1536645331171">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/OneQubit/BlochSphere/index.js" timestamp="1540334184411">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -144,9 +141,6 @@
         <mark key="]" line="21" column="15" />
         <mark key="^" line="12" column="67" />
         <mark key="." line="21" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Notifier/index.js" timestamp="1537243063058">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/.ops/tests/clean.sh" timestamp="1537483129667">
         <mark key="'" line="0" column="0" />
@@ -162,12 +156,12 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1540511897155">
-        <mark key="'" line="49" column="41" />
-        <mark key="[" line="109" column="57" />
-        <mark key="]" line="109" column="57" />
-        <mark key="." line="109" column="57" />
-        <mark key="^" line="109" column="56" />
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1540533568385">
+        <mark key="'" line="233" column="18" />
+        <mark key="[" line="211" column="15" />
+        <mark key="]" line="211" column="29" />
+        <mark key="." line="211" column="29" />
+        <mark key="^" line="211" column="29" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1539321918048">
         <mark key="'" line="13" column="36" />
@@ -225,9 +219,6 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" timestamp="1540175102355">
-        <mark key="'" line="83" column="4" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/TwoQubit/index.js" timestamp="1539304701289">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="21" column="0" />
@@ -249,18 +240,12 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="77" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Pulse/index.js" timestamp="1539053063498">
-        <mark key="'" line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/.ops/tests/data/organisations.json" timestamp="1537423203969">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="53" />
-      </file>
-      <file name="$USER_HOME$/Code/firebase/README.md" timestamp="1538096059492">
-        <mark key="'" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/Preview/index.js" timestamp="1538615498690">
         <mark key="'" line="87" column="0" />
@@ -303,9 +288,6 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/oneQubit/noises/noise/plot/updatedAt/onWrite.function.js" timestamp="1538011722960">
-        <mark key="'" line="17" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.es6" timestamp="1539917989357">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
@@ -318,9 +300,6 @@
         <mark key="[" line="772" column="0" />
         <mark key="]" line="772" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Noise/index.js" timestamp="1537332199237">
-        <mark key="'" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" timestamp="1540358190186">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="58" column="0" />
@@ -328,15 +307,11 @@
         <mark key="^" line="61" column="40" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/utils/form.js" timestamp="1540529232606">
-        <mark key="'" line="45" column="18" />
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Characterization/ConfigurationsLibrary/index.js" timestamp="1540348098364">
-        <mark key="'" line="92" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/utils/form.js" timestamp="1540533137158">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/index.js" timestamp="1537150456035">
         <mark key="'" line="43" column="22" />
@@ -387,8 +362,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" timestamp="1540437840046">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" timestamp="1540533145331">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -447,11 +421,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/scripts/README.md" timestamp="1540166515572">
-        <mark key="'" line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" timestamp="1540507305174">
-        <mark key="'" line="150" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" timestamp="1540533486753">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="122" column="20" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" timestamp="1538095914279">
         <mark key="'" line="11" column="12" />
@@ -526,9 +501,6 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/HeaderNav/index.js" timestamp="1540247204477">
-        <mark key="'" line="269" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/__tests__/Login.test.js" timestamp="1537763614046">
         <mark key="'" line="30" column="2" />
         <mark key="[" line="6" column="0" />
@@ -549,9 +521,6 @@
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/Attributes.test.js" timestamp="1537418334801">
-        <mark key="'" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/Code/frontend/.env.test" timestamp="1537743940150">
         <mark key="'" line="7" column="0" />
@@ -588,9 +557,6 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="203" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomPulse/index.js" timestamp="1538702717966">
-        <mark key="'" line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" timestamp="1538096449127">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="5" column="0" />
@@ -604,9 +570,6 @@
         <mark key="]" line="52" column="21" />
         <mark key="." line="52" column="21" />
         <mark key="^" line="52" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/reducers/Characterization/index.js" timestamp="1539915460134">
-        <mark key="'" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/index.js" timestamp="1539318865456">
         <mark key="'" line="116" column="0" />
@@ -629,18 +592,12 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Editor/index.js" timestamp="1537162175204">
-        <mark key="'" line="10" column="44" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/__tests__/integrationTest.js" timestamp="1537505633470">
         <mark key="'" line="38" column="11" />
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="41" />
         <mark key="." line="31" column="41" />
         <mark key="^" line="31" column="41" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/ForgotPassword/index.js" timestamp="1539907587472">
-        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/index.css" timestamp="1539738695421">
         <mark key="'" line="45" column="0" />
@@ -660,9 +617,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="59" />
         <mark key="." line="118" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/organisations/onCreate.function.js" timestamp="1539921966385">
-        <mark key="'" line="2" column="58" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/organisations/owner/onWrite.function.js" timestamp="1537240323003">
         <mark key="'" line="11" column="13" />
@@ -685,9 +639,6 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Verification/index.js" timestamp="1539920468726">
-        <mark key="'" line="35" column="2" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" timestamp="1540447275766">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="33" column="0" />
@@ -703,9 +654,6 @@
         <mark key="'" line="0" column="18" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/Analytical/index.js" timestamp="1539298031454">
-        <mark key="'" line="55" column="17" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Attributes/index.js" timestamp="1540342460353">
         <mark key="'" line="97" column="0" />
@@ -860,12 +808,12 @@
         <mark key="." line="10" column="84" />
         <mark key="^" line="10" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" timestamp="1540527982212">
-        <mark key="'" line="328" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="161" column="32" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" timestamp="1540533118890">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="148" column="25" />
+        <mark key="]" line="148" column="26" />
+        <mark key="^" line="148" column="29" />
+        <mark key="." line="148" column="26" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/OneQubit/Evaluation/index.js" timestamp="1535498662265">
         <mark key="'" line="45" column="0" />
@@ -936,9 +884,6 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="34" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/public/index.html" timestamp="1537743453481">
-        <mark key="'" line="19" column="1026" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" timestamp="1540436616090">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="54" column="41" />
@@ -946,10 +891,11 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" timestamp="1540529305420">
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" timestamp="1540533033250">
+        <mark key="[" line="211" column="12" />
+        <mark key="]" line="211" column="21" />
+        <mark key="." line="211" column="21" />
+        <mark key="^" line="211" column="21" />
       </file>
       <file name="$USER_HOME$/Code/frontend/node_modules/antd/lib/checkbox/style/index.css" timestamp="1540520952337">
         <mark key="'" line="215" column="0" />
@@ -988,9 +934,6 @@
         <mark key="]" line="50" column="28" />
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Verification/index.js" timestamp="1539920471317">
-        <mark key="'" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Login/index.js" timestamp="1539739141573">
         <mark key="'" line="40" column="15" />
@@ -1057,18 +1000,12 @@
         <mark key="^" line="23" column="27" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/BlochSphere/Controls/Positions/index.js" timestamp="1540439691847">
-        <mark key="'" line="24" column="30" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/StripeCard/index.js" timestamp="1537311081144">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/node_modules/antd/lib/slider/index.d.ts" timestamp="1536724010913">
-        <mark key="'" line="39" column="42" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Product/index.js" timestamp="1537245513833">
         <mark key="'" line="11" column="6" />
@@ -1091,9 +1028,6 @@
         <mark key="." line="81" column="19" />
         <mark key="^" line="81" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/node_modules/firebase-functions-test/lib/main.js" timestamp="1537398287019">
-        <mark key="'" line="52" column="29" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Opalize/index.js" timestamp="1540245618739">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="1" column="16" />
@@ -1107,9 +1041,6 @@
         <mark key="]" line="61" column="13" />
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/characterization/configurations/updatedAt/onWrite.function.js" timestamp="1539039042888">
-        <mark key="'" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Code/firebase/scripts/db/parametricDrive/iSWAP/drives.json" timestamp="1539215802315">
         <mark key="'" line="381" column="4" />
@@ -1165,18 +1096,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="46" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/BarChart/index.js" timestamp="1539211551042">
-        <mark key="'" line="148" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/testData.js" timestamp="1540251857707">
         <mark key="'" line="1017" column="2" />
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/BlackOpal/index.js" timestamp="1540245278898">
-        <mark key="'" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Redeem/index.js" timestamp="1539663219205">
         <mark key="'" line="6" column="0" />
@@ -1253,18 +1178,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="4" column="84" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Modal/Actions/index.js" timestamp="1538457701584">
-        <mark key="'" line="44" column="9" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/constants/actionTypes.js" timestamp="1540440136656">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="97" column="58" />
         <mark key="]" line="97" column="58" />
         <mark key="." line="97" column="58" />
         <mark key="^" line="97" column="58" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Evaluation/Noise/index.js" timestamp="1538542524348">
-        <mark key="'" line="175" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Invite/index.js" timestamp="1539665050160">
         <mark key="'" line="0" column="0" />
@@ -1301,44 +1220,8 @@
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/SelectedDrives/index.js" timestamp="1540248217666">
-        <mark key="'" line="48" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="802" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="757" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="752" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="152" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="9" column="24" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
-      <jump line="88" column="36" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="217" column="65" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="24" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="322" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="187" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="243" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="326" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="320" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="293" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="220" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="150" column="35" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
-      <jump line="49" column="8" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
-      <jump line="53" column="8" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
-      <jump line="17" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="56" column="34" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="63" column="57" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="164" column="51" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="41" column="58" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
-      <jump line="8" column="42" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
-      <jump line="33" column="10" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
-      <jump line="241" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="14" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="155" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
@@ -1371,7 +1254,6 @@
       <jump line="299" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="266" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="216" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="166" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="145" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="37" column="13" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
@@ -1406,55 +1288,89 @@
       <jump line="58" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="327" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="770" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="160" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="150" column="37" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="28" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="176" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="317" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="316" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="310" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="262" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="132" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="109" column="57" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="233" column="18" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Continue</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Continue</text>
       </register>
       <register name="/" type="4">
-        <text>touched</text>
+        <text>Confirm your</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXtOdW1iZXIoZGVmYXVsdFZhbHVlKX0K</text>
+      <register name="0" type="4">
+        <text>Continue to Payment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYW4pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0ZSA9IHsgY2hlY2tlZDogMCB9Owo=</text>
+        <text encoding="base64">ICAgIGlmIChzdHJpcGVDdXN0b21lciAmJiBzdHJpcGVDdXN0b21lci5zdHJpcGVUb2tlbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbWFwUHJvcHMgPSB7fSB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnN0IHsgY2hlY2tlZCB9ID0gdGhpcy5zdGF0ZTsKCg==</text>
+        <text encoding="base64">ICAgIGlmIChzdHJpcGVDdXN0b21lciAmJiBzdHJpcGVDdXN0b21lci5zdHJpcGVUb2tlbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IHsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgY2hlY2tlZDogZS50YXJnZXQuY2hlY2tlZCA/IDAgOiAxCiAgICAgICAgICAgIH0pOwogICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIHJldHVybiA8U3RyaXBlQ3VzdG9tZXIgaXRlbT17c3RyaXBlQ3VzdG9tZXJ9IG9uU3VibWl0PXt0aGlzLnNhdmVPd25lcn0gLz47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcFByb3BzPXt7CiAgICAgICAgICAgIC4uLm1hcFByb3BzLAogICAgICAgICAgICB2YWx1ZTogKCkgPT4gYCR7Y2hlY2tlZH1gCiAgICAgICAgICB9fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoYW5kbGVTaWdudXAiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoYW5kbGVMb2dpbiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh7YWNjZXB0ZWQ6IHZhbH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coeyBlIH0pOwo=</text>
+        <text encoding="base64">ICBtYXBQcm9wcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHRWYWx1ZT17Y2hlY2tlZH0K</text>
+        <text encoding="base64">ICBhY2NlcHRlZCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>touched</last-search>
+      <last-search>Confirm your</last-search>
       <last-offset />
-      <last-pattern>touched</last-pattern>
+      <last-pattern>Confirm your</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1462,7 +1378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onUpdate</entry>
         <entry>onAcceptTerms</entry>
         <entry>required</entry>
         <entry>Checkbox</entry>
@@ -1472,8 +1387,6 @@
         <entry>ChekcboxIn</entry>
         <entry>onChange</entry>
         <entry>val</entry>
-        <entry>Errors</entry>
-        <entry>accepted</entry>
         <entry>handle</entry>
         <entry>Form</entry>
         <entry>YES</entry>
@@ -1482,6 +1395,9 @@
         <entry>mapProps</entry>
         <entry>default</entry>
         <entry>touched</entry>
+        <entry>accepted</entry>
+        <entry>Errors</entry>
+        <entry>Confirm your</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
@@ -1497,12 +1413,12 @@
         <entry>%s/Two/One/g</entry>
         <entry>11</entry>
         <entry>Q</entry>
-        <entry>W</entry>
         <entry>q!</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>&quot;w</entry>
         <entry>red</entry>
+        <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
