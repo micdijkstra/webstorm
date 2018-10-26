@@ -313,8 +313,8 @@
         <mark key="." line="17" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" timestamp="1540520811030">
-        <mark key="'" line="725" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" timestamp="1540522938453">
+        <mark key="'" line="752" column="0" />
         <mark key="[" line="766" column="0" />
         <mark key="]" line="768" column="32" />
       </file>
@@ -328,10 +328,11 @@
         <mark key="^" line="61" column="40" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/utils/form.js" timestamp="1540508886081">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="51" column="53" />
+      <file name="$USER_HOME$/Code/frontend/src/utils/form.js" timestamp="1540523380799">
+        <mark key="'" line="9" column="24" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Characterization/ConfigurationsLibrary/index.js" timestamp="1540348098364">
         <mark key="'" line="92" column="0" />
@@ -858,12 +859,12 @@
         <mark key="." line="10" column="84" />
         <mark key="^" line="10" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" timestamp="1540520006107">
-        <mark key="'" line="13" column="15" />
-        <mark key="[" line="149" column="23" />
-        <mark key="]" line="149" column="41" />
-        <mark key="^" line="149" column="41" />
-        <mark key="." line="149" column="41" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" timestamp="1540523099312">
+        <mark key="'" line="152" column="16" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="46" />
+        <mark key="^" line="157" column="21" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/OneQubit/Evaluation/index.js" timestamp="1535498662265">
         <mark key="'" line="45" column="0" />
@@ -992,8 +993,8 @@
         <mark key="." line="31" column="59" />
         <mark key="^" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" timestamp="1540520984181">
-        <mark key="'" line="96" column="4" />
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" timestamp="1540522799188">
+        <mark key="'" line="300" column="0" />
         <mark key="[" line="298" column="50" />
         <mark key="]" line="299" column="19" />
         <mark key="^" line="299" column="19" />
@@ -1299,15 +1300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="11" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="142" column="12" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="171" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="185" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="187" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="194" column="27" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="211" column="32" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="256" column="71" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="233" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="199" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="183" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
       <jump line="165" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
@@ -1382,72 +1374,81 @@
       <jump line="4" column="20" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
       <jump line="3" column="7" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
       <jump line="766" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="757" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="752" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="732" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="717" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
       <jump line="95" column="35" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
       <jump line="79" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
       <jump line="0" column="23" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
       <jump line="82" column="16" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
       <jump line="30" column="13" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/index.js" />
       <jump line="65" column="1" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
-      <jump line="725" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
       <jump line="28" column="14" filename="$USER_HOME$/Code/frontend/node_modules/antd/lib/checkbox/style/index.css" />
       <jump line="215" column="0" filename="$USER_HOME$/Code/frontend/node_modules/antd/lib/checkbox/style/index.css" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
       <jump line="96" column="4" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
+      <jump line="273" column="19" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
+      <jump line="295" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
+      <jump line="300" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Input/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="717" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="725" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="732" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="827" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="813" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="802" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="757" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="752" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="152" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
+      <jump line="9" column="24" filename="$USER_HOME$/Code/frontend/src/utils/form.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2YWx1ZTogcHJvcHMgPT4gewogICAgY29uc29sZS5sb2coIm1hcFByb3BzIiwgcHJvcHMpOwogICAgcmV0dXJuIDEKICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IGFsaWduSXRlbXM9ImNlbnRlciI=</text>
       </register>
       <register name="/" type="4">
-        <text>AntSlider</text>
+        <text>required</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmFudC1jaGVja2JveCB7CiAgZm9udC1mYW1pbHk6ICJDaGluZXNlIFF1b3RlIiwgLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAiU2Vnb2UgVUkiLCAiUGluZ0ZhbmcgU0MiLCAiSGlyYWdpbm8gU2FucyBHQiIsICJNaWNyb3NvZnQgWWFIZWkiLCAiSGVsdmV0aWNhIE5ldWUiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmLCAiQXBwbGUgQ29sb3IgRW1vamkiLCAiU2Vnb2UgVUkgRW1vamkiLCAiU2Vnb2UgVUkgU3ltYm9sIjsKICBmb250LXNpemU6IDE0cHg7CiAgZm9udC12YXJpYW50OiB0YWJ1bGFyLW51bXM7CiAgbGluZS1oZWlnaHQ6IDEuNTsKICBjb2xvcjogcmdiYSgwLCAwLCAwLCAwLjY1KTsKICAtd2Via2l0LWJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgICAgICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIGxpc3Qtc3R5bGU6IG5vbmU7CiAgd2hpdGUtc3BhY2U6IG5vd3JhcDsKICBjdXJzb3I6IHBvaW50ZXI7CiAgb3V0bGluZTogbm9uZTsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgbGluZS1oZWlnaHQ6IDE7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgdG9wOiAtMC4wOWVtOwp9Ci5hbnQtY2hlY2tib3gtd3JhcHBlcjpob3ZlciAuYW50LWNoZWNrYm94LWlubmVyLAouYW50LWNoZWNrYm94OmhvdmVyIC5hbnQtY2hlY2tib3gtaW5uZXIsCi5hbnQtY2hlY2tib3gtaW5wdXQ6Zm9jdXMgKyAuYW50LWNoZWNrYm94LWlubmVyIHsKICBib3JkZXItY29sb3I6ICMxODkwZmY7Cn0KLmFudC1jaGVja2JveC1jaGVja2VkOmFmdGVyIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiAwOwogIGxlZnQ6IDA7CiAgd2lkdGg6IDEwMCU7CiAgaGVpZ2h0OiAxMDAlOwogIGJvcmRlci1yYWRpdXM6IDJweDsKICBib3JkZXI6IDFweCBzb2xpZCAjMTg5MGZmOwogIGNvbnRlbnQ6ICcnOwogIC13ZWJraXQtYW5pbWF0aW9uOiBhbnRDaGVja2JveEVmZmVjdCAwLjM2cyBlYXNlLWluLW91dDsKICAgICAgICAgIGFuaW1hdGlvbjogYW50Q2hlY2tib3hFZmZlY3QgMC4zNnMgZWFzZS1pbi1vdXQ7CiAgLXdlYmtpdC1hbmltYXRpb24tZmlsbC1tb2RlOiBib3RoOwogICAgICAgICAgYW5pbWF0aW9uLWZpbGwtbW9kZTogYm90aDsKICB2aXNpYmlsaXR5OiBoaWRkZW47Cn0KLmFudC1jaGVja2JveDpob3ZlcjphZnRlciwKLmFudC1jaGVja2JveC13cmFwcGVyOmhvdmVyIC5hbnQtY2hlY2tib3g6YWZ0ZXIgewogIHZpc2liaWxpdHk6IHZpc2libGU7Cn0KLmFudC1jaGVja2JveC1pbm5lciB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIHRvcDogMDsKICBsZWZ0OiAwOwogIGRpc3BsYXk6IGJsb2NrOwogIHdpZHRoOiAxNnB4OwogIGhlaWdodDogMTZweDsKICBib3JkZXI6IDFweCBzb2xpZCAjZDlkOWQ5OwogIGJvcmRlci1yYWRpdXM6IDJweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmOwogIC13ZWJraXQtdHJhbnNpdGlvbjogYWxsIC4zczsKICB0cmFuc2l0aW9uOiBhbGwgLjNzOwp9Ci5hbnQtY2hlY2tib3gtaW5uZXI6YWZ0ZXIgewogIC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpIHNjYWxlKDApOwogICAgICAtbXMtdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpIHNjYWxlKDApOwogICAgICAgICAgdHJhbnNmb3JtOiByb3RhdGUoNDVkZWcpIHNjYWxlKDApOwogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICBsZWZ0OiA0LjU3MTQyODU3cHg7CiAgdG9wOiAxLjE0Mjg1NzE0cHg7CiAgZGlzcGxheTogdGFibGU7CiAgd2lkdGg6IDUuNzE0Mjg1NzFweDsKICBoZWlnaHQ6IDkuMTQyODU3MTRweDsKICBib3JkZXI6IDJweCBzb2xpZCAjZmZmOwogIGJvcmRlci10b3A6IDA7CiAgYm9yZGVyLWxlZnQ6IDA7CiAgY29udGVudDogJyAnOwogIC13ZWJraXQtdHJhbnNpdGlvbjogYWxsIDAuMXMgY3ViaWMtYmV6aWVyKDAuNzEsIC0wLjQ2LCAwLjg4LCAwLjYpOwogIHRyYW5zaXRpb246IGFsbCAwLjFzIGN1YmljLWJlemllcigwLjcxLCAtMC40NiwgMC44OCwgMC42KTsKfQouYW50LWNoZWNrYm94LWlucHV0IHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgbGVmdDogMDsKICB6LWluZGV4OiAxOwogIGN1cnNvcjogcG9pbnRlcjsKICBvcGFjaXR5OiAwOwogIHRvcDogMDsKICBib3R0b206IDA7CiAgcmlnaHQ6IDA7CiAgd2lkdGg6IDEwMCU7CiAgaGVpZ2h0OiAxMDAlOwp9Ci5hbnQtY2hlY2tib3gtaW5kZXRlcm1pbmF0ZSAuYW50LWNoZWNrYm94LWlubmVyOmFmdGVyIHsKICBjb250ZW50OiAnICc7CiAgLXdlYmtpdC10cmFuc2Zvcm06IHNjYWxlKDEpOwogICAgICAtbXMtdHJhbnNmb3JtOiBzY2FsZSgxKTsKICAgICAgICAgIHRyYW5zZm9ybTogc2NhbGUoMSk7CiAgcG9zaXRpb246IGFic29sdXRlOwogIGxlZnQ6IDIuNDI4NTcxNDNweDsKICB0b3A6IDUuOTI4NTcxNDNweDsKICB3aWR0aDogOS4xNDI4NTcxNHB4OwogIGhlaWdodDogMS4xNDI4NTcxNHB4Owp9Ci5hbnQtY2hlY2tib3gtaW5kZXRlcm1pbmF0ZS5hbnQtY2hlY2tib3gtZGlzYWJsZWQgLmFudC1jaGVja2JveC1pbm5lcjphZnRlciB7CiAgYm9yZGVyLWNvbG9yOiByZ2JhKDAsIDAsIDAsIDAuMjUpOwp9Ci5hbnQtY2hlY2tib3gtY2hlY2tlZCAuYW50LWNoZWNrYm94LWlubmVyOmFmdGVyIHsKICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDQ1ZGVnKSBzY2FsZSgxKTsKICAgICAgLW1zLXRyYW5zZm9ybTogcm90YXRlKDQ1ZGVnKSBzY2FsZSgxKTsKICAgICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDQ1ZGVnKSBzY2FsZSgxKTsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgZGlzcGxheTogdGFibGU7CiAgYm9yZGVyOiAycHggc29saWQgI2ZmZjsKICBib3JkZXItdG9wOiAwOwogIGJvcmRlci1sZWZ0OiAwOwogIGNvbnRlbnQ6ICcgJzsKICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCAwLjJzIGN1YmljLWJlemllcigwLjEyLCAwLjQsIDAuMjksIDEuNDYpIDAuMXM7CiAgdHJhbnNpdGlvbjogYWxsIDAuMnMgY3ViaWMtYmV6aWVyKDAuMTIsIDAuNCwgMC4yOSwgMS40NikgMC4xczsKfQouYW50LWNoZWNrYm94LWNoZWNrZWQgLmFudC1jaGVja2JveC1pbm5lciwKLmFudC1jaGVja2JveC1pbmRldGVybWluYXRlIC5hbnQtY2hlY2tib3gtaW5uZXIgewogIGJhY2tncm91bmQtY29sb3I6ICMxODkwZmY7CiAgYm9yZGVyLWNvbG9yOiAjMTg5MGZmOwp9Ci5hbnQtY2hlY2tib3gtZGlzYWJsZWQgewogIGN1cnNvcjogbm90LWFsbG93ZWQ7Cn0KLmFudC1jaGVja2JveC1kaXNhYmxlZC5hbnQtY2hlY2tib3gtY2hlY2tlZCAuYW50LWNoZWNrYm94LWlubmVyOmFmdGVyIHsKICAtd2Via2l0LWFuaW1hdGlvbi1uYW1lOiBub25lOwogICAgICAgICAgYW5pbWF0aW9uLW5hbWU6IG5vbmU7CiAgYm9yZGVyLWNvbG9yOiByZ2JhKDAsIDAsIDAsIDAuMjUpOwp9Ci5hbnQtY2hlY2tib3gtZGlzYWJsZWQgLmFudC1jaGVja2JveC1pbnB1dCB7CiAgY3Vyc29yOiBub3QtYWxsb3dlZDsKfQouYW50LWNoZWNrYm94LWRpc2FibGVkIC5hbnQtY2hlY2tib3gtaW5uZXIgewogIGJvcmRlci1jb2xvcjogI2Q5ZDlkOSAhaW1wb3J0YW50OwogIGJhY2tncm91bmQtY29sb3I6ICNmNWY1ZjU7Cn0KLmFudC1jaGVja2JveC1kaXNhYmxlZCAuYW50LWNoZWNrYm94LWlubmVyOmFmdGVyIHsKICAtd2Via2l0LWFuaW1hdGlvbi1uYW1lOiBub25lOwogICAgICAgICAgYW5pbWF0aW9uLW5hbWU6IG5vbmU7CiAgYm9yZGVyLWNvbG9yOiAjZjVmNWY1Owp9Ci5hbnQtY2hlY2tib3gtZGlzYWJsZWQgKyBzcGFuIHsKICBjb2xvcjogcmdiYSgwLCAwLCAwLCAwLjI1KTsKICBjdXJzb3I6IG5vdC1hbGxvd2VkOwp9Ci5hbnQtY2hlY2tib3gtd3JhcHBlciB7CiAgZm9udC1mYW1pbHk6ICJDaGluZXNlIFF1b3RlIiwgLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAiU2Vnb2UgVUkiLCAiUGluZ0ZhbmcgU0MiLCAiSGlyYWdpbm8gU2FucyBHQiIsICJNaWNyb3NvZnQgWWFIZWkiLCAiSGVsdmV0aWNhIE5ldWUiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmLCAiQXBwbGUgQ29sb3IgRW1vamkiLCAiU2Vnb2UgVUkgRW1vamkiLCAiU2Vnb2UgVUkgU3ltYm9sIjsKICBmb250LXNpemU6IDE0cHg7CiAgZm9udC12YXJpYW50OiB0YWJ1bGFyLW51bXM7CiAgbGluZS1oZWlnaHQ6IDEuNTsKICBjb2xvcjogcmdiYSgwLCAwLCAwLCAwLjY1KTsKICAtd2Via2l0LWJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgICAgICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIGxpc3Qtc3R5bGU6IG5vbmU7CiAgbGluZS1oZWlnaHQ6IHVuc2V0OwogIGN1cnNvcjogcG9pbnRlcjsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cn0KLmFudC1jaGVja2JveC13cmFwcGVyICsgLmFudC1jaGVja2JveC13cmFwcGVyIHsKICBtYXJnaW4tbGVmdDogOHB4Owp9Ci5hbnQtY2hlY2tib3gtd3JhcHBlciArIHNwYW4sCi5hbnQtY2hlY2tib3ggKyBzcGFuIHsKICBwYWRkaW5nLWxlZnQ6IDhweDsKICBwYWRkaW5nLXJpZ2h0OiA4cHg7Cn0KLmFudC1jaGVja2JveC1ncm91cCB7CiAgZm9udC1mYW1pbHk6ICJDaGluZXNlIFF1b3RlIiwgLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAiU2Vnb2UgVUkiLCAiUGluZ0ZhbmcgU0MiLCAiSGlyYWdpbm8gU2FucyBHQiIsICJNaWNyb3NvZnQgWWFIZWkiLCAiSGVsdmV0aWNhIE5ldWUiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmLCAiQXBwbGUgQ29sb3IgRW1vamkiLCAiU2Vnb2UgVUkgRW1vamkiLCAiU2Vnb2UgVUkgU3ltYm9sIjsKICBmb250LXNpemU6IDE0cHg7CiAgZm9udC12YXJpYW50OiB0YWJ1bGFyLW51bXM7CiAgbGluZS1oZWlnaHQ6IDEuNTsKICBjb2xvcjogcmdiYSgwLCAwLCAwLCAwLjY1KTsKICAtd2Via2l0LWJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgICAgICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAwOwogIGxpc3Qtc3R5bGU6IG5vbmU7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwp9Ci5hbnQtY2hlY2tib3gtZ3JvdXAtaXRlbSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbi1yaWdodDogOHB4Owp9Ci5hbnQtY2hlY2tib3gtZ3JvdXAtaXRlbTpsYXN0LWNoaWxkIHsKICBtYXJnaW4tcmlnaHQ6IDA7Cn0KLmFudC1jaGVja2JveC1ncm91cC1pdGVtICsgLmFudC1jaGVja2JveC1ncm91cC1pdGVtIHsKICBtYXJnaW4tbGVmdDogMDsKfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtYXBQcm9wcyIsIHByb3BzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsPXttb2RlbH0K</text>
+        <text encoding="base64">ICB2YWx1ZTogcHJvcHMgPT4gewogICAgY29uc29sZS5sb2coIm1hcFByb3BzIiwgcHJvcHMpOwogICAgcmV0dXJuIDEKICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDb250cm9sIGFzIFJlZHV4Q29udHJvbCwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtYXBQcm9wcyIsIHByb3BzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdENoZWNrZWQ9e2FjY2VwdFRlcm1zfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e29uVXBkYXRlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBQcm9wcz17bWFwUHJvcHNUb3VjaGVkfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTd2l0Y2gsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9GbGV4PgogICAgICAgICAgICAgICAgPC9Cb3g+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Qm94IGZsZXg9IjEiPgogICAgICAgICAgICAgICAgICAgICAgPExhYmVsIGZvcj0ic2lnbnVwLWFjY2VwdFRlcm1zIj4KICAgICAgICAgICAgICAgICAgICAgIDwvTGFiZWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFRleHRBcmVhID0gc3R5bGVkKFJlZHV4Q29udHJvbC50ZXh0YXJlYSlgYDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0JveD4KICAgICAgICAgICAgICAgICAgPC9GbGV4Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEZsZXg+CiAgICAgICAgICAgICAgICAgICAgPEJveCBwcj17MX0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AntSlider</last-search>
+      <last-search>required</last-search>
       <last-offset />
-      <last-pattern>AntSlider</last-pattern>
+      <last-pattern>required</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1455,7 +1456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>container</entry>
         <entry>pick</entry>
         <entry>attach</entry>
         <entry>reset</entry>
@@ -1475,6 +1475,7 @@
         <entry>module</entry>
         <entry>Checkbox</entry>
         <entry>AntSlider</entry>
+        <entry>required</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
