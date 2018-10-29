@@ -912,6 +912,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1349" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/functions/utils/dbHelper.js" timestamp="1540780539252">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Login/index.js" timestamp="1539739141573">
         <mark key="'" line="40" column="15" />
         <mark key="[" line="31" column="55" />
@@ -1203,7 +1206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="7" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="13" column="9" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="163" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
@@ -1303,6 +1305,7 @@
       <jump line="31" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" />
       <jump line="40" column="16" filename="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/utils/dbHelper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1312,7 +1315,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>StripeCustomerRef</text>
+        <text>updateStatus</text>
       </register>
       <register name="0" type="4">
         <text>stripeCustomerPath</text>
@@ -1349,9 +1352,9 @@
       </register>
     </registers>
     <search>
-      <last-search>StripeCustomerRef</last-search>
+      <last-search>updateStatus</last-search>
       <last-offset />
-      <last-pattern>StripeCustomerRef</last-pattern>
+      <last-pattern>updateStatus</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1359,7 +1362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>number</entry>
         <entry>title</entry>
         <entry>Wrapper</entry>
         <entry>Flex</entry>
@@ -1379,6 +1381,7 @@
         <entry>gsub</entry>
         <entry>HEAD</entry>
         <entry>StripeCustomerRef</entry>
+        <entry>updateStatus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Login/Verify/g</entry>
