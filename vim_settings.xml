@@ -566,12 +566,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" timestamp="1540774633684">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="117" column="36" />
-        <mark key="]" line="117" column="41" />
-        <mark key="." line="117" column="41" />
-        <mark key="^" line="117" column="41" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" timestamp="1540774785350">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="93" column="45" />
+        <mark key="]" line="93" column="52" />
+        <mark key="." line="93" column="52" />
+        <mark key="^" line="93" column="52" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/form.js" timestamp="1540533137158">
         <mark key="'" line="5" column="0" />
@@ -1283,7 +1283,6 @@
       <jump line="181" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="160" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="115" column="34" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="92" column="23" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="41" column="36" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="71" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="93" column="57" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
@@ -1293,16 +1292,17 @@
       <jump line="117" column="41" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="68" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Card must be {size} digits.</text>
+        <text>include</text>
       </register>
       <register name="-" type="4">
-        <text>Card must be {size} digits.</text>
+        <text>include</text>
       </register>
       <register name="/" type="4">
-        <text>Errors</text>
+        <text>include</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAibGVuZ3RoIjogIkNhcmQgbXVzdCBiZSB7c2l6ZX0gZGlnaXRzLiIK</text>
@@ -1339,9 +1339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Errors</last-search>
+      <last-search>include</last-search>
       <last-offset />
-      <last-pattern>Errors</last-pattern>
+      <last-pattern>include</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,7 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cre</entry>
         <entry>creditCard</entry>
         <entry>ocale</entry>
         <entry>cardNum</entry>
@@ -1369,6 +1368,7 @@
         <entry>cardLengths</entry>
         <entry>length</entry>
         <entry>Errors</entry>
+        <entry>include</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Login/Verify/g</entry>
