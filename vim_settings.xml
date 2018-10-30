@@ -64,12 +64,12 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1540791875542">
-        <mark key="'" line="59" column="22" />
-        <mark key="[" line="215" column="6" />
-        <mark key="]" line="215" column="16" />
-        <mark key="." line="163" column="15" />
-        <mark key="^" line="163" column="15" />
+      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1540854643879">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="214" column="53" />
+        <mark key="]" line="214" column="53" />
+        <mark key="." line="214" column="53" />
+        <mark key="^" line="214" column="53" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/organisations/plan/onWrite.function.js" timestamp="1540782090580">
         <mark key="'" line="13" column="25" />
@@ -292,18 +292,18 @@
         <mark key="]" line="3" column="53" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" timestamp="1540852614225">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="200" column="15" />
-        <mark key="]" line="200" column="27" />
-        <mark key="^" line="200" column="27" />
-        <mark key="." line="200" column="27" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" timestamp="1540856333360">
+        <mark key="'" line="144" column="10" />
+        <mark key="[" line="201" column="29" />
+        <mark key="]" line="201" column="29" />
+        <mark key="^" line="201" column="28" />
+        <mark key="." line="201" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" timestamp="1540850893533">
-        <mark key="'" line="28" column="2" />
-        <mark key="[" line="98" column="34" />
-        <mark key="]" line="98" column="34" />
-        <mark key="." line="98" column="34" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" timestamp="1540854818771">
+        <mark key="'" line="15" column="42" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/form.js" timestamp="1540533137158">
         <mark key="'" line="5" column="0" />
@@ -411,8 +411,8 @@
         <mark key="^" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" timestamp="1540852831190">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" timestamp="1540854373774">
+        <mark key="'" line="49" column="37" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="66" column="4" />
         <mark key="." line="51" column="14" />
@@ -664,6 +664,11 @@
         <mark key="]" line="33" column="38" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Icon/Circle/index.js" timestamp="1540770835933">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Attributes/index.js" timestamp="1540342460353">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="18" column="29" />
@@ -867,12 +872,17 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Table/index.js" timestamp="1540181254302">
-        <mark key="'" line="8" column="13" />
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Table/index.js" timestamp="1540860164488">
+        <mark key="'" line="37" column="11" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="48" />
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Plot/index.js" timestamp="1540855457601">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="34" column="3" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Signup/index.js" timestamp="1540784505925">
         <mark key="[" line="13" column="0" />
@@ -927,11 +937,12 @@
       <file name="$USER_HOME$/Code/firebase/functions/utils/dbHelper.js" timestamp="1540780539252">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" timestamp="1540852356873">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" timestamp="1540860538366">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="94" column="24" />
+        <mark key="]" line="94" column="24" />
+        <mark key="." line="94" column="24" />
+        <mark key="^" line="94" column="5" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Login/index.js" timestamp="1539739141573">
         <mark key="'" line="40" column="15" />
@@ -1040,6 +1051,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/node_modules/credit-card-type/index.js" timestamp="1540768475519">
+        <mark key="'" line="374" column="0" />
+        <mark key="[" line="294" column="9" />
+        <mark key="]" line="294" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Icon/CreditCard/index.js" timestamp="1540784786866">
         <mark key="'" line="43" column="50" />
         <mark key="[" line="48" column="47" />
@@ -1061,8 +1077,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1540343389929">
-        <mark key="'" line="80" column="0" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1540854338062">
+        <mark key="'" line="61" column="0" />
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="9" />
@@ -1227,155 +1243,155 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="45" filename="$USER_HOME$/Code/firebase/functions/auth/onCreate.function.js" />
-      <jump line="23" column="4" filename="$USER_HOME$/Code/firebase/functions/auth/onCreate.function.js" />
-      <jump line="4" column="2" filename="$USER_HOME$/Code/firebase/functions/auth/onCreate.function.js" />
-      <jump line="101" column="24" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="99" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="87" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="486" column="13" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="491" column="13" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="497" column="5" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="498" column="5" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="206" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="70" column="12" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="86" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="1" column="32" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="212" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="19" column="53" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="28" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="72" column="4" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="191" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="196" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="214" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="230" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="264" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="297" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="316" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="324" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="330" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="331" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/index.js" />
-      <jump line="21" column="28" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="156" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="153" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="137" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="122" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="117" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="101" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/Code/frontend/src/containers/OneQubit/OptimisedPulse/index.js" />
-      <jump line="525" column="27" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="672" column="41" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="737" column="26" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="739" column="26" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="741" column="33" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="824" column="21" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="858" column="16" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="193" column="24" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="194" column="23" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="670" column="33" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="322" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
-      <jump line="68" column="2" filename="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/CustomDrive/index.js" />
-      <jump line="327" column="76" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
-      <jump line="74" column="52" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
-      <jump line="183" column="80" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
-      <jump line="30" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="58" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="34" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="63" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Plot/index.js" />
+      <jump line="201" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="116" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="183" column="9" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="144" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="98" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
       <jump line="50" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="68" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="36" column="39" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="23" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="11" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Table/index.js" />
+      <jump line="18" column="34" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="94" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="42" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="43" column="44" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="36" column="26" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="75" column="25" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" />
-      <jump line="23" column="29" filename="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/stripeCustomer/onWrite.function.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="112" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="59" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="100" column="31" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="17" column="14" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="99" column="14" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="54" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="129" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Table/index.js" />
+      <jump line="18" column="11" filename="$USER_HOME$/Code/frontend/src/components/modules/Table/index.js" />
+      <jump line="37" column="11" filename="$USER_HOME$/Code/frontend/src/components/modules/Table/index.js" />
+      <jump line="52" column="29" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="97" column="31" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="27" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="137" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="127" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="6" column="7" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="48" column="3" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgeyBTVEFUVVNFUywgT1JHQU5JU0FUSU9OX1NUQVRVU0VTIH0gPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9jb25zdGFudHMiKTsKY29uc3QgeyBhZG1pbiwgZnVuY3Rpb25zIH0gPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9maXJlYmFzZSIpOwpjb25zdCByb3V0ZXIgPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9yb3V0ZXIiKTsKY29uc3QgewogIGNyZWF0ZVN0cmlwZUN1c3RvbWVyLAogIHVwZGF0ZVN0cmlwZUN1c3RvbWVyQ2FyZAp9ID0gcmVxdWlyZSgiLi4vLi4vLi4vdXRpbHMvc3RyaXBlIik7Cgpjb25zdCBTdHJpcGVDdXN0b21lclJlZiA9IG9yZ1VJRCA9PgogIGFkbWluCiAgICAuZGF0YWJhc2UoKQogICAgLnJlZihgJHtyb3V0ZXIub3JnYW5pc2F0aW9ucy5yb290UGF0aChvcmdVSUQpfS9zdHJpcGVDdXN0b21lcmApOwoKY29uc3Qgc3RyaXBlQ3VzdG9tZXJFcnJvciA9IChvcmdVSUQsIGVycm9yKSA9PgogIFN0cmlwZUN1c3RvbWVyUmVmKG9yZ1VJRCkudXBkYXRlKHsKICAgIHN0YXR1czogU1RBVFVTRVMuRVJST1IsCiAgICBlcnJvck1lc3NhZ2U6IGVycm9yLm1lc3NhZ2UKICB9KTsKCmNvbnN0IHN0cmlwZUN1c3RvbWVyU3VjY2VzcyA9IChvcmdVSUQsIHN0cmlwZUN1c3RvbWVyKSA9PgogIGFkbWluCiAgICAuZGF0YWJhc2UoKQogICAgLnJlZigpCiAgICAudXBkYXRlKHsKICAgICAgW2Ake3JvdXRlci5vcmdhbmlzYXRpb25zLnJvb3RQYXRoKAogICAgICAgIG9yZ1VJRAogICAgICApfS9zdHJpcGVDdXN0b21lci9zdGF0dXNgXTogU1RBVFVTRVMuRE9ORSwKICAgICAgW3JvdXRlci5vcmdhbmlzYXRpb25zLnN0YXR1c1BhdGgob3JnVUlEKV06IE9SR0FOSVNBVElPTl9TVEFUVVNFUy5CRVRBLAogICAgICBbYCR7cm91dGVyLm9yZ2FuaXNhdGlvbnMuc3RyaXBlQ3VzdG9tZXJQYXRoKAogICAgICAgIG9yZ1VJRAogICAgICApfS9zdHJpcGVDdXN0b21lcklkYF06IHN0cmlwZUN1c3RvbWVyLmlkCiAgICB9KTsKCmV4cG9ydHMgPSBtb2R1bGUuZXhwb3J0cyA9IGZ1bmN0aW9ucy5kYXRhYmFzZQogIC5yZWYoIi9vcmdhbmlzYXRpb25zL3tvcmdVSUR9L3N0cmlwZUN1c3RvbWVyL3VwZGF0ZWRBdCIpCiAgLm9uV3JpdGUoKGNoYW5nZSwgY29udGV4dCkgPT4gewogICAgaWYgKGNoYW5nZS5hZnRlci52YWwoKSA9PT0gbnVsbCkgcmV0dXJuIHRydWU7CgogICAgY29uc3QgeyBvcmdVSUQgfSA9IGNvbnRleHQucGFyYW1zOwogICAgcmV0dXJuIFN0cmlwZUN1c3RvbWVyUmVmKG9yZ1VJRCkKICAgICAgLm9uY2UoInZhbHVlIikKICAgICAgLnRoZW4oc3RyaXBlQ3VzdG9tZXJTbmFwc2hvdCA9PiB7CiAgICAgICAgY29uc3Qgc3RyaXBlQ3VzdG9tZXIgPSBzdHJpcGVDdXN0b21lclNuYXBzaG90LnZhbCgpOwoKICAgICAgICBpZiAoIXN0cmlwZUN1c3RvbWVyIHx8IHN0cmlwZUN1c3RvbWVyLnN0YXR1cyA9PT0gU1RBVFVTRVMuRE9ORSkgcmV0dXJuOwoKICAgICAgICBpZiAoc3RyaXBlQ3VzdG9tZXIuc3RyaXBlQ3VzdG9tZXJJZCkgewogICAgICAgICAgcmV0dXJuIHVwZGF0ZVN0cmlwZUN1c3RvbWVyQ2FyZCgKICAgICAgICAgICAgc3RyaXBlQ3VzdG9tZXIuc3RyaXBlQ3VzdG9tZXJJZCwKICAgICAgICAgICAgc3RyaXBlQ3VzdG9tZXIuc3RyaXBlVG9rZW4KICAgICAgICAgICkKICAgICAgICAgICAgLnRoZW4oc3RyaXBlQ3VzdG9tZXIgPT4KICAgICAgICAgICAgICBzdHJpcGVDdXN0b21lclN1Y2Nlc3Mob3JnVUlELCBzdHJpcGVDdXN0b21lcikKICAgICAgICAgICAgKQogICAgICAgICAgICAuY2F0Y2goZXJyb3IgPT4gc3RyaXBlQ3VzdG9tZXJFcnJvcihvcmdVSUQsIGVycm9yKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJldHVybiBjcmVhdGVTdHJpcGVDdXN0b21lcigKICAgICAgICAgICAgc3RyaXBlQ3VzdG9tZXIuZW1haWwsCiAgICAgICAgICAgIHN0cmlwZUN1c3RvbWVyLnN0cmlwZVRva2VuCiAgICAgICAgICApCiAgICAgICAgICAgIC50aGVuKHN0cmlwZUN1c3RvbWVyID0+CiAgICAgICAgICAgICAgc3RyaXBlQ3VzdG9tZXJTdWNjZXNzKG9yZ1VJRCwgc3RyaXBlQ3VzdG9tZXIpCiAgICAgICAgICAgICkKICAgICAgICAgICAgLmNhdGNoKGVycm9yID0+IHN0cmlwZUN1c3RvbWVyRXJyb3Iob3JnVUlELCBlcnJvcikpOwogICAgICAgIH0KICAgICAgfSk7CiAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHN0eWxlPXt7IGhlaWdodDogIjEwMCUiLCBvdmVyZmxvdzogImhpZGRlbiIgfX0=</text>
       </register>
       <register name="-" type="4">
-        <text>Row</text>
+        <text encoding="base64">IHN0eWxlPXt7IGhlaWdodDogIjEwMCUiLCBvdmVyZmxvdzogImhpZGRlbiIgfX0=</text>
       </register>
       <register name="/" type="4">
-        <text>Data</text>
+        <text>3o</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBTVEFUVVNFUywgT1JHQU5JU0FUSU9OX1NUQVRVU0VTIH0gPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9jb25zdGFudHMiKTsKY29uc3QgeyBhZG1pbiwgZnVuY3Rpb25zIH0gPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9maXJlYmFzZSIpOwpjb25zdCByb3V0ZXIgPSByZXF1aXJlKCIuLi8uLi8uLi91dGlscy9yb3V0ZXIiKTsKY29uc3QgewogIGNyZWF0ZVN0cmlwZUN1c3RvbWVyLAogIHVwZGF0ZVN0cmlwZUN1c3RvbWVyQ2FyZAp9ID0gcmVxdWlyZSgiLi4vLi4vLi4vdXRpbHMvc3RyaXBlIik7Cgpjb25zdCBTdHJpcGVDdXN0b21lclJlZiA9IG9yZ1VJRCA9PgogIGFkbWluCiAgICAuZGF0YWJhc2UoKQogICAgLnJlZihgJHtyb3V0ZXIub3JnYW5pc2F0aW9ucy5yb290UGF0aChvcmdVSUQpfS9zdHJpcGVDdXN0b21lcmApOwoKY29uc3Qgc3RyaXBlQ3VzdG9tZXJFcnJvciA9IChvcmdVSUQsIGVycm9yKSA9PgogIFN0cmlwZUN1c3RvbWVyUmVmKG9yZ1VJRCkudXBkYXRlKHsKICAgIHN0YXR1czogU1RBVFVTRVMuRVJST1IsCiAgICBlcnJvck1lc3NhZ2U6IGVycm9yLm1lc3NhZ2UKICB9KTsKCmNvbnN0IHN0cmlwZUN1c3RvbWVyU3VjY2VzcyA9IChvcmdVSUQsIHN0cmlwZUN1c3RvbWVyKSA9PgogIGFkbWluCiAgICAuZGF0YWJhc2UoKQogICAgLnJlZigpCiAgICAudXBkYXRlKHsKICAgICAgW2Ake3JvdXRlci5vcmdhbmlzYXRpb25zLnJvb3RQYXRoKAogICAgICAgIG9yZ1VJRAogICAgICApfS9zdHJpcGVDdXN0b21lci9zdGF0dXNgXTogU1RBVFVTRVMuRE9ORSwKICAgICAgW3JvdXRlci5vcmdhbmlzYXRpb25zLnN0YXR1c1BhdGgob3JnVUlEKV06IE9SR0FOSVNBVElPTl9TVEFUVVNFUy5CRVRBLAogICAgICBbYCR7cm91dGVyLm9yZ2FuaXNhdGlvbnMuc3RyaXBlQ3VzdG9tZXJQYXRoKAogICAgICAgIG9yZ1VJRAogICAgICApfS9zdHJpcGVDdXN0b21lcklkYF06IHN0cmlwZUN1c3RvbWVyLmlkCiAgICB9KTsKCmV4cG9ydHMgPSBtb2R1bGUuZXhwb3J0cyA9IGZ1bmN0aW9ucy5kYXRhYmFzZQogIC5yZWYoIi9vcmdhbmlzYXRpb25zL3tvcmdVSUR9L3N0cmlwZUN1c3RvbWVyL3VwZGF0ZWRBdCIpCiAgLm9uV3JpdGUoKGNoYW5nZSwgY29udGV4dCkgPT4gewogICAgaWYgKGNoYW5nZS5hZnRlci52YWwoKSA9PT0gbnVsbCkgcmV0dXJuIHRydWU7CgogICAgY29uc3QgeyBvcmdVSUQgfSA9IGNvbnRleHQucGFyYW1zOwogICAgcmV0dXJuIFN0cmlwZUN1c3RvbWVyUmVmKG9yZ1VJRCkKICAgICAgLm9uY2UoInZhbHVlIikKICAgICAgLnRoZW4oc3RyaXBlQ3VzdG9tZXJTbmFwc2hvdCA9PiB7CiAgICAgICAgY29uc3Qgc3RyaXBlQ3VzdG9tZXIgPSBzdHJpcGVDdXN0b21lclNuYXBzaG90LnZhbCgpOwoKICAgICAgICBpZiAoIXN0cmlwZUN1c3RvbWVyIHx8IHN0cmlwZUN1c3RvbWVyLnN0YXR1cyA9PT0gU1RBVFVTRVMuRE9ORSkgcmV0dXJuOwoKICAgICAgICBpZiAoc3RyaXBlQ3VzdG9tZXIuc3RyaXBlQ3VzdG9tZXJJZCkgewogICAgICAgICAgcmV0dXJuIHVwZGF0ZVN0cmlwZUN1c3RvbWVyQ2FyZCgKICAgICAgICAgICAgc3RyaXBlQ3VzdG9tZXIuc3RyaXBlQ3VzdG9tZXJJZCwKICAgICAgICAgICAgc3RyaXBlQ3VzdG9tZXIuc3RyaXBlVG9rZW4KICAgICAgICAgICkKICAgICAgICAgICAgLnRoZW4oc3RyaXBlQ3VzdG9tZXIgPT4KICAgICAgICAgICAgICBzdHJpcGVDdXN0b21lclN1Y2Nlc3Mob3JnVUlELCBzdHJpcGVDdXN0b21lcikKICAgICAgICAgICAgKQogICAgICAgICAgICAuY2F0Y2goZXJyb3IgPT4gc3RyaXBlQ3VzdG9tZXJFcnJvcihvcmdVSUQsIGVycm9yKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJldHVybiBjcmVhdGVTdHJpcGVDdXN0b21lcigKICAgICAgICAgICAgc3RyaXBlQ3VzdG9tZXIuZW1haWwsCiAgICAgICAgICAgIHN0cmlwZUN1c3RvbWVyLnN0cmlwZVRva2VuCiAgICAgICAgICApCiAgICAgICAgICAgIC50aGVuKHN0cmlwZUN1c3RvbWVyID0+CiAgICAgICAgICAgICAgc3RyaXBlQ3VzdG9tZXJTdWNjZXNzKG9yZ1VJRCwgc3RyaXBlQ3VzdG9tZXIpCiAgICAgICAgICAgICkKICAgICAgICAgICAgLmNhdGNoKGVycm9yID0+IHN0cmlwZUN1c3RvbWVyRXJyb3Iob3JnVUlELCBlcnJvcikpOwogICAgICAgIH0KICAgICAgfSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsKYDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExpc3QgZnJvbSAicmVhY3QtdmlydHVhbGl6ZWQvZGlzdC9jb21tb25qcy9MaXN0IjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdHJpcGVDdXN0b21lclN1Y2Nlc3Mob3JnVUlELCBzdHJpcGVDdXN0b21lcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmbGV4PXsxfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBrZXk9e2tleX0+CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW5kZXgsIGtleSwgaGVpZ2h0IH0gPSBwcm9wcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7cm93Lm5hbWV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbGlzdCB9ID0gdGhpcy5jb250ZXh0OwogICAgY29uc3Qgcm93ID0gbGlzdC5nZXQoaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCIgLS0gcm93IiwgeyBpbmRleCwgYXR0cmlidXRlLCB2YWx1ZSB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgZGF0YSwKICAgICAgZXZhbHVhdGlvblR5cGUsCiAgICAgIGZvcm1hdCwKICAgICAgbG9jYWxlSWQsCiAgICAgIG9wZXJhdGlvblR5cGUsCiAgICAgIHNoYXBlLAogICAgICB0eXBlCiAgICB9ID0gdGhpcy5wcm9wczsKCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyb3dSZW5kZXJlciIsIHsgaW5kZXgsIGlzU2Nyb2xsaW5nLCBrZXkgfSk7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyb3dSZW5kZXJlciIsIHsgaW5kZXgsIGlzU2Nyb2xsaW5nLCBrZXkgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Data</last-search>
+      <last-search>3o</last-search>
       <last-offset />
-      <last-pattern>Data</last-pattern>
+      <last-pattern>3o</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1383,26 +1399,26 @@
     </search>
     <history>
       <history-search>
-        <entry>showPulseType</entry>
-        <entry>rabiRot</entry>
-        <entry>onShow</entry>
-        <entry>onShowPulse</entry>
-        <entry>interleaved</entry>
-        <entry>duration</entry>
-        <entry>&quot;duration&quot;</entry>
-        <entry>Warning</entry>
-        <entry>inter</entry>
-        <entry>PARA</entry>
-        <entry>PARAMETRIC</entry>
-        <entry>con</entry>
-        <entry>color</entry>
-        <entry>level</entry>
-        <entry>pi</entry>
         <entry>relative to</entry>
         <entry>description</entry>
         <entry>relativeTo</entry>
         <entry>Auto</entry>
         <entry>Data</entry>
+        <entry>100%</entry>
+        <entry>height</entry>
+        <entry>Flex</entry>
+        <entry>row</entry>
+        <entry>fields</entry>
+        <entry>Box</entry>
+        <entry>div</entry>
+        <entry>key</entry>
+        <entry>List</entry>
+        <entry>isScroll</entry>
+        <entry>flex</entry>
+        <entry>Header</entry>
+        <entry>table-cell</entry>
+        <entry>10px</entry>
+        <entry>3o</entry>
       </history-search>
       <history-cmd>
         <entry>tabnew</entry>
@@ -1420,11 +1436,11 @@
         <entry>W</entry>
         <entry>27</entry>
         <entry>Red</entry>
-        <entry>red</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>red</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
