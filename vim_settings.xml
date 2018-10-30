@@ -64,12 +64,12 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1540854643879">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="214" column="53" />
-        <mark key="]" line="214" column="53" />
-        <mark key="." line="214" column="53" />
-        <mark key="^" line="214" column="53" />
+      <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1540938097546">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="262" column="9" />
+        <mark key="]" line="262" column="10" />
+        <mark key="." line="262" column="10" />
+        <mark key="^" line="262" column="10" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/organisations/plan/onWrite.function.js" timestamp="1540782090580">
         <mark key="'" line="13" column="25" />
@@ -77,6 +77,11 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/resetParametricDriveControls.function.js" timestamp="1540937233008">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="58" column="4" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/validateAcademicEmailAddress.js" timestamp="1540178756837">
         <mark key="'" line="20" column="35" />
@@ -526,12 +531,18 @@
         <mark key="." line="73" column="16" />
         <mark key="^" line="73" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/App/index.js" timestamp="1540782612201">
+        <mark key="'" line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" timestamp="1538451614572">
         <mark key="'" line="93" column="5" />
         <mark key="[" line="180" column="0" />
         <mark key="]" line="180" column="20" />
         <mark key="." line="166" column="0" />
         <mark key="^" line="203" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/node_modules/antd/lib/checkbox/Checkbox.d.ts" timestamp="1540786319952">
+        <mark key="'" line="26" column="25" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" timestamp="1538096449127">
         <mark key="'" line="48" column="0" />
@@ -644,6 +655,11 @@
         <mark key="^" line="64" column="3" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Icon/Circle/index.js" timestamp="1540770835933">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Attributes/index.js" timestamp="1540342460353">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="18" column="29" />
@@ -692,6 +708,9 @@
         <mark key="]" line="115" column="14" />
         <mark key="^" line="112" column="10" />
         <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/auth/onCreate.function.js" timestamp="1540791870446">
+        <mark key="'" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomDrive/index.js" timestamp="1540789831830">
         <mark key="'" line="84" column="0" />
@@ -839,11 +858,10 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Visualize/index.js" timestamp="1540879241710">
-        <mark key="'" line="34" column="2" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/Visualize/index.js" timestamp="1540937070657">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/firebase.js" timestamp="1537487520144">
         <mark key="'" line="3" column="0" />
@@ -858,6 +876,11 @@
         <mark key="]" line="1" column="48" />
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Plot/index.js" timestamp="1540855457601">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="34" column="3" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/visualize/oneQubit/updatedAt/onWrite.function.js" timestamp="1540876794740">
         <mark key="'" line="3" column="0" />
@@ -883,6 +906,9 @@
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="4" />
         <mark key="." line="32" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" timestamp="1540787859724">
+        <mark key="'" line="232" column="15" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/Controls/index.js" timestamp="1536296569345">
         <mark key="'" line="0" column="0" />
@@ -911,6 +937,9 @@
         <mark key="]" line="50" column="28" />
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/utils/dbHelper.js" timestamp="1540780539252">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Data/index.js" timestamp="1540860538366">
         <mark key="'" line="12" column="2" />
@@ -1032,6 +1061,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/node_modules/credit-card-type/index.js" timestamp="1540768475519">
+        <mark key="'" line="374" column="0" />
+        <mark key="[" line="294" column="9" />
+        <mark key="]" line="294" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Icon/CreditCard/index.js" timestamp="1540784786866">
         <mark key="'" line="43" column="50" />
         <mark key="[" line="48" column="47" />
@@ -1053,8 +1087,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1540854338062">
-        <mark key="'" line="61" column="0" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" timestamp="1540937297997">
+        <mark key="'" line="41" column="0" />
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="9" />
@@ -1195,12 +1229,18 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/WeightedComparisonOptions/index.js" timestamp="1540772860726">
+        <mark key="'" line="69" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/plot.js" timestamp="1538010888478">
         <mark key="'" line="128" column="0" />
         <mark key="[" line="98" column="22" />
         <mark key="]" line="98" column="29" />
         <mark key="." line="98" column="29" />
         <mark key="^" line="98" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/resetVisualizeWorkspace.function.js" timestamp="1540937556537">
+        <mark key="'" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Organisation/index.js" timestamp="1539666761775">
         <mark key="'" line="3" column="24" />
@@ -1211,13 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Plan/index.js" />
-      <jump line="42" column="12" filename="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/StripeCustomer/index.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
@@ -1311,55 +1344,62 @@
       <jump line="34" column="2" filename="$USER_HOME$/Code/frontend/src/actions/Visualize/index.js" />
       <jump line="47" column="34" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
       <jump line="74" column="4" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
+      <jump line="12" column="46" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetParametricDriveControls.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetParametricDriveControls.function.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/compactAndExpandedData.function.js" />
+      <jump line="10" column="37" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetVisualizeWorkspace.function.js" />
+      <jump line="18" column="12" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetVisualizeWorkspace.function.js" />
+      <jump line="14" column="9" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetVisualizeWorkspace.function.js" />
+      <jump line="22" column="22" filename="$USER_HOME$/Code/firebase/functions/utils/constants.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BASIC_PLAN_PERMISSIONS</text>
+        <text>OneQubit</text>
       </register>
       <register name="-" type="4">
-        <text>BASIC_PLAN_PERMISSIONS</text>
+        <text>OneQubit</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>VIS</text>
       </register>
-      <register name="0" type="4">
-        <text>PREMIUM_PLAN_PERMISSIONS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJFcnJvciBsaXN0aW5nIHVzZXJzOiIsIGVycm9yKTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlY29uc3RydWN0aW9uOiB0cnVlLAo=</text>
+        <text encoding="base64">Y29uc3QgQVBJUmVxdWVzdCA9IHJlcXVpcmUoIi4uLy4uL3V0aWxzL3JlcXVlc3RzIik7CmNvbnN0IF9waWNrID0gcmVxdWlyZSgibG9kYXNoL3BpY2siKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+CiAgICAgIGFkbWluCiAgICAgICAgLmRhdGFiYXNlKCkKICAgICAgICAucmVmKCkKICAgICAgICAudXBkYXRlKHsgdXBkYXRlZEF0OiBEYXRlLm5vdygpIH0pCiAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjb21wb25lbnREaWRVcGRhdGUiLCB7IGlucHV0U3RhdGUgfSk7Cg==</text>
+        <text encoding="base64">ICBTVEFUVVNFUwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T2JqZWN0LmtleXMob2JqZWN0KS5tYXAoa2V5ID0+IG9iamVjdFtrZXldKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IHVwZGF0ZWRJdGVtIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgIHJlY29uc3RydWN0aW9uOiB0cnVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpdmF0ZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IGl0ZW0gfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjb21wb25lbnREaWRVcGRhdGUiLCB7IGlucHV0U3RhdGUgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMb2FkaW5nV3JhcHBlcj4KICAgICAgICAgICAgICAgIDwvTG9hZGluZ1dyYXBwZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>VIS</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>VIS</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1367,8 +1407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>acceptTerms</entry>
-        <entry>agreeTerms</entry>
         <entry>Terms</entry>
         <entry>Label</entry>
         <entry>link</entry>
@@ -1387,6 +1425,8 @@
         <entry>doUpdateBloch</entry>
         <entry>duration</entry>
         <entry>console</entry>
+        <entry>migration</entry>
+        <entry>VIS</entry>
       </history-search>
       <history-cmd>
         <entry>tabnew</entry>
@@ -1407,8 +1447,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>red</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
