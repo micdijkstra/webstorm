@@ -51,8 +51,8 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" timestamp="1540511285841">
-        <mark key="'" line="68" column="18" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" timestamp="1540875115702">
+        <mark key="'" line="56" column="0" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -397,6 +397,13 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" timestamp="1540875097005">
+        <mark key="'" line="92" column="17" />
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="12" />
+        <mark key="^" line="83" column="81" />
+        <mark key="." line="92" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Attributes/index.js" timestamp="1539658129677">
         <mark key="'" line="15" column="14" />
         <mark key="[" line="211" column="24" />
@@ -430,10 +437,6 @@
         <mark key="]" line="144" column="28" />
         <mark key="." line="144" column="28" />
         <mark key="^" line="144" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Section/index.js" timestamp="1540861355204">
-        <mark key="'" line="47" column="0" />
-        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" timestamp="1540851357030">
         <mark key="'" line="183" column="80" />
@@ -1191,17 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/index.js" />
-      <jump line="77" column="20" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
-      <jump line="68" column="11" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
       <jump line="74" column="49" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
       <jump line="73" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
@@ -1291,55 +1283,66 @@
       <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
       <jump line="84" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
       <jump line="81" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Controls/index.js" />
+      <jump line="62" column="19" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="88" column="5" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="87" column="17" filename="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLnN0YXR1cyA9PT0gU1RBVFVTRVMuUFJPQ0VTU0lORwo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>attributes</text>
       </register>
       <register name="0" type="4">
         <text>item.status === STATUSES.PENDING</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLnN0YXR1cyA9PT0gU1RBVFVTRVMuUFJPQ0VTU0lORwo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goZG9TZW5kRW1haWxWZXJpZmljYXRpb24oKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVpZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLnN0YXR1cyA9PT0gU1RBVFVTRVMuUFJPQ0VTU0lORwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8RmxleCB3PXsxfT4KICAgICAgICAgICAgICAgIDxCb3ggbT0iYXV0byIgdz17WyIxMDAlIiwgMzAwXX0+CiAgICAgICAgICAgICAgICAgIDxCb2R5IGFsaWduPSJjZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJuYXYudGVybXMiPgogICAgICAgICAgICAgICAgICAgICAge2xvY2FsZSA9PiAoCiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9e2xvY2FsZS51cmx9IHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAgICAgICAgICAgICB7bG9jYWxlLnRleHR9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgPC9Gb3JtYXR0ZWRNZXNzYWdlPgogICAgICAgICAgICAgICAgICA8L0JvZHk+CiAgICAgICAgICAgICAgICA8L0JveD4KICAgICAgICAgICAgICA8L0ZsZXg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZsZXggdz17MX0+CiAgICAgICAgICAgICAgPEJveCBtPSJhdXRvIiB3PXtbIjEwMCUiLCAzMDBdfT4KICAgICAgICAgICAgICAgIDxCb2R5IGFsaWduPSJjZW50ZXIiPgogICAgICAgICAgICAgICAgICA8Rm9ybWF0dGVkTWVzc2FnZSBpZD0ibmF2LnRlcm1zIj4KICAgICAgICAgICAgICAgICAgICB7bG9jYWxlID0+ICgKICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9e2xvY2FsZS51cmx9IHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAgICAgICAgICAge2xvY2FsZS50ZXh0fQogICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgIDwvRm9ybWF0dGVkTWVzc2FnZT4KICAgICAgICAgICAgICAgIDwvQm9keT4KICAgICAgICAgICAgICA8L0JveD4KICAgICAgICAgICAgPC9GbGV4Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8RmxleCB3PXsxfT4KICAgICAgICAgICAgICAgIDxCb3ggbT0iYXV0byIgdz17WyIxMDAlIiwgMzAwXX0+CiAgICAgICAgICAgICAgICAgIDxCb2R5IGFsaWduPSJjZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJuYXYudGVybXMiPgogICAgICAgICAgICAgICAgICAgICAge2xvY2FsZSA9PiAoCiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9e2xvY2FsZS51cmx9IHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAgICAgICAgICAgICB7bG9jYWxlLnRleHR9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgPC9Gb3JtYXR0ZWRNZXNzYWdlPgogICAgICAgICAgICAgICAgICA8L0JvZHk+CiAgICAgICAgICAgICAgICA8L0JveD4KICAgICAgICAgICAgICA8L0ZsZXg+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAke3NwYWNlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbGlua1N0eWxlcyB9IGZyb20gIi4uLy4uLy4uL3V0aWxzL3R5cG9ncmFwaHkiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZsZXggdz17MX0+CiAgICAgICAgICAgICAgPEJveCBtPSJhdXRvIiB3PXtbIjEwMCUiLCAzMDBdfT4KICAgICAgICAgICAgICAgIDxCb2R5IGFsaWduPSJjZW50ZXIiPgogICAgICAgICAgICAgICAgICA8Rm9ybWF0dGVkTWVzc2FnZSBpZD0ibmF2LnRlcm1zIj4KICAgICAgICAgICAgICAgICAgICB7bG9jYWxlID0+ICgKICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9e2xvY2FsZS51cmx9IHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAgICAgICAgICAge2xvY2FsZS50ZXh0fQogICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgIDwvRm9ybWF0dGVkTWVzc2FnZT4KICAgICAgICAgICAgICAgIDwvQm9keT4KICAgICAgICAgICAgICA8L0JveD4KICAgICAgICAgICAgPC9GbGV4Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>attributes</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>attributes</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1347,7 +1350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onSubmit</entry>
         <entry>BlochSphere</entry>
         <entry>duration</entry>
         <entry>POLAR</entry>
@@ -1367,6 +1369,7 @@
         <entry>ley</entry>
         <entry>key</entry>
         <entry>status</entry>
+        <entry>attributes</entry>
       </history-search>
       <history-cmd>
         <entry>tabnew</entry>
