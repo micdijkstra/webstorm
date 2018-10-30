@@ -397,6 +397,12 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/scripts/README.md" timestamp="1540790428544">
+        <mark key="[" line="69" column="1" />
+        <mark key="]" line="69" column="95" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" timestamp="1540875097005">
         <mark key="'" line="92" column="17" />
         <mark key="[" line="92" column="12" />
@@ -612,6 +618,12 @@
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/constants/authorisation.js" timestamp="1540936856615">
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="45" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/TwoQubit/EvaluationType/index.js" timestamp="1535936707320">
         <mark key="'" line="113" column="0" />
         <mark key="[" line="23" column="11" />
@@ -715,6 +727,12 @@
         <mark key="]" line="94" column="12" />
         <mark key="." line="14" column="59" />
         <mark key="^" line="14" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/utils/router.js" timestamp="1540779854459">
+        <mark key="[" line="168" column="4" />
+        <mark key="]" line="168" column="21" />
+        <mark key="." line="168" column="21" />
+        <mark key="^" line="168" column="21" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/Evaluation.test.js" timestamp="1535596286093">
         <mark key="'" line="44" column="17" />
@@ -1295,47 +1313,47 @@
       <jump line="74" column="4" filename="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BASIC_PLAN_PERMISSIONS</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>BASIC_PLAN_PERMISSIONS</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJsb2NoU3BoZXJlID0gewogICAgICBwcm9ncmVzczogMCwKICAgICAgaW5wdXRTdGF0ZTogewogICAgICAgIHg6IGlucHV0U3RhdGUueENvb3JkaW5hdGUsCiAgICAgICAgeTogaW5wdXRTdGF0ZS55Q29vcmRpbmF0ZSwKICAgICAgICB6OiBpbnB1dFN0YXRlLnpDb29yZGluYXRlCiAgICAgIH0KICAgIH07CiAgICBkaXNwYXRjaChkb1VwZGF0ZUJsb2NoU3BoZXJlKGJsb2NoU3BoZXJlKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>PREMIUM_PLAN_PERMISSIONS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlY29uc3RydWN0aW9uOiB0cnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjb21wb25lbnREaWRVcGRhdGUiLCB7IGlucHV0U3RhdGUgfSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjb21wb25lbnREaWRVcGRhdGUiLCB7IGlucHV0U3RhdGUgfSk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">T2JqZWN0LmtleXMob2JqZWN0KS5tYXAoa2V5ID0+IG9iamVjdFtrZXldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b2JqZWN0Cg==</text>
+        <text encoding="base64">T2JqZWN0LmtleXMob2JqZWN0KS5tYXAoa2V5ID0+IG9iamVjdFtrZXldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpdmF0ZSAK</text>
+        <text encoding="base64">b2JqZWN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IGl0ZW0gfSk7Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMb2FkaW5nV3JhcHBlcj4KICAgICAgICAgICAgICAgIDwvTG9hZGluZ1dyYXBwZXI+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IGl0ZW0gfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFNpemVyPgogICAgICAgICAgICAgICAgICAgIDxTcXVhcmUgLz4KICAgICAgICAgICAgICAgICAgPC9TaXplcj4KICAgICAgICAgICAgICAgICAgPExvYWRpbmdDb250YWluZXI+CiAgICAgICAgICAgICAgICAgICAgPExvYWRpbmcgaGVpZ2h0PSIxMDAlIiAvPgogICAgICAgICAgICAgICAgICA8L0xvYWRpbmdDb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMb2FkaW5nV3JhcHBlcj4KICAgICAgICAgICAgICAgIDwvTG9hZGluZ1dyYXBwZXI+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1389,8 +1407,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>red</entry>
-        <entry>qa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
