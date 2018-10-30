@@ -378,9 +378,6 @@
         <mark key="." line="36" column="13" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" timestamp="1540867389010">
-        <mark key="'" line="51" column="19" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Alert/index.js" timestamp="1540782443297">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="33" column="0" />
@@ -654,6 +651,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="^" line="64" column="3" />
         <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/visualizer/src/lib/threeJs/elementObjectsGenerator/index.js" timestamp="1540938791935">
+        <mark key="'" line="27" column="28" />
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Icon/Circle/index.js" timestamp="1540770835933">
         <mark key="'" line="0" column="0" />
@@ -1251,9 +1253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="207" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="187" column="26" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
@@ -1351,19 +1350,22 @@
       <jump line="18" column="12" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetVisualizeWorkspace.function.js" />
       <jump line="14" column="9" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetVisualizeWorkspace.function.js" />
       <jump line="22" column="22" filename="$USER_HOME$/Code/firebase/functions/utils/constants.js" />
+      <jump line="12" column="9" filename="$USER_HOME$/Code/visualizer/src/lib/threeJs/elementObjectsGenerator/index.js" />
+      <jump line="16" column="13" filename="$USER_HOME$/Code/visualizer/src/lib/threeJs/elementObjectsGenerator/index.js" />
+      <jump line="27" column="28" filename="$USER_HOME$/Code/visualizer/src/lib/threeJs/elementObjectsGenerator/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OneQubit</text>
+        <text>RADIUS</text>
       </register>
       <register name="-" type="4">
         <text>OneQubit</text>
       </register>
       <register name="/" type="4">
-        <text>VIS</text>
+        <text>CONSTANTS</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJFcnJvciBsaXN0aW5nIHVzZXJzOiIsIGVycm9yKTsKICAgIH0pOwo=</text>
+      <register name="0" type="4">
+        <text>ELEMENT_TYPES</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgQVBJUmVxdWVzdCA9IHJlcXVpcmUoIi4uLy4uL3V0aWxzL3JlcXVlc3RzIik7CmNvbnN0IF9waWNrID0gcmVxdWlyZSgibG9kYXNoL3BpY2siKTsK</text>
@@ -1397,9 +1399,9 @@
       </register>
     </registers>
     <search>
-      <last-search>VIS</last-search>
+      <last-search>CONSTANTS</last-search>
       <last-offset />
-      <last-pattern>VIS</last-pattern>
+      <last-pattern>CONSTANTS</last-pattern>
       <last-replace>One</last-replace>
       <last-substitute>Two</last-substitute>
       <last-dir>1</last-dir>
@@ -1407,7 +1409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Terms</entry>
         <entry>Label</entry>
         <entry>link</entry>
         <entry>terms</entry>
@@ -1427,6 +1428,7 @@
         <entry>console</entry>
         <entry>migration</entry>
         <entry>VIS</entry>
+        <entry>CONSTANTS</entry>
       </history-search>
       <history-cmd>
         <entry>tabnew</entry>
