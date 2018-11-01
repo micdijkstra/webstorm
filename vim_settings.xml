@@ -141,12 +141,12 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541035112298">
-        <mark key="'" line="243" column="24" />
-        <mark key="[" line="243" column="49" />
-        <mark key="]" line="243" column="61" />
-        <mark key="." line="243" column="61" />
-        <mark key="^" line="243" column="61" />
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541035893632">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="139" column="19" />
+        <mark key="]" line="139" column="25" />
+        <mark key="." line="139" column="25" />
+        <mark key="^" line="139" column="25" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1540944967878">
         <mark key="'" line="15" column="2" />
@@ -446,12 +446,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541033113176">
-        <mark key="'" line="35" column="18" />
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="9" />
-        <mark key="." line="49" column="9" />
-        <mark key="^" line="49" column="5" />
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541035855538">
+        <mark key="'" line="41" column="29" />
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="12" />
+        <mark key="." line="50" column="12" />
+        <mark key="^" line="50" column="12" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/StripeCard/Form/index.js" timestamp="1537311227776">
         <mark key="'" line="0" column="41" />
@@ -893,12 +893,12 @@
         <mark key="." line="65" column="17" />
         <mark key="^" line="65" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" timestamp="1540964970461">
-        <mark key="'" line="84" column="8" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="6" />
-        <mark key="." line="33" column="6" />
-        <mark key="^" line="31" column="14" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" timestamp="1541036052505">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/FilterFunctions/index.js" timestamp="1536551235770">
         <mark key="'" line="15" column="23" />
@@ -1457,8 +1457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Public/index.js" />
-      <jump line="41" column="25" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
       <jump line="4" column="47" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
       <jump line="5" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
@@ -1489,7 +1487,6 @@
       <jump line="68" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Private/index.js" />
       <jump line="48" column="8" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="1" column="9" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="35" column="18" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Account/Organisation/index.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Account/Organisation/index.js" />
@@ -1557,55 +1554,58 @@
       <jump line="214" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="216" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="243" column="24" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1" column="9" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="41" column="29" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>organisation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgb3JnYW5pc2F0aW9uVHlwZSwK</text>
       </register>
       <register name="-" type="4">
         <text>organisation</text>
       </register>
       <register name="/" type="4">
-        <text>account.org</text>
+        <text>stage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJjaG9vc2VQbGFuLnByb2R1Y3QucmVndWxhci5wbGFuVHlwZXMuYmV0YUJhc2ljLmRlc2NyaXB0aW9uIjoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGFiZWwgfSBmcm9tICIuLi8uLi8uLi9tb2R1bGVzL0Zvcm0iOwo=</text>
+        <text encoding="base64">ICAgICAgb3JnYW5pc2F0aW9uVHlwZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTGFiZWwgfSBmcm9tICIuLi8uLi8uLi9tb2R1bGVzL0Zvcm0iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJtb2RlbC5vcmdhbmlzYXRpb24ucGxhblR5cGUubGFiZWwiOiAiUGxhbiIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9Im1vZGVsLm9yZ2FuaXNhdGlvbi5wbGFuVHlwZS5sYWJlbCIgLz4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UKICAgICAgICAgICAgICBpZD17YGNob29zZVBsYW4ucHJvZHVjdC4ke29yZ2FuaXNhdGlvblR5cGV9LnBsYW5UeXBlcy4ke3R5cGV9LmxhYmVsYH0KICAgICAgICAgICAgLz4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9e2BwbGFuVHlwZXMuJHtwbGFuVHlwZX0ubGFiZWxgfSAvPgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJtb2RlbC5vcmdhbmlzYXRpb24ucGxhblR5cGUubGFiZWwiOiAiUGxhbiIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9Im1vZGVsLm9yZ2FuaXNhdGlvbi5wbGFuVHlwZS5sYWJlbCIgLz4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UKICAgICAgICAgICAgICBpZD17YGNob29zZVBsYW4ucHJvZHVjdC4ke29yZ2FuaXNhdGlvblR5cGV9LnBsYW5UeXBlcy4ke3R5cGV9LmxhYmVsYH0KICAgICAgICAgICAgLz4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9e2BwbGFuVHlwZXMuJHtwbGFuVHlwZX0ubGFiZWxgfSAvPgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvRm9ybWF0dGVkTWVzc2FnZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvRm9ybWF0dGVkTWVzc2FnZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>account.org</last-search>
+      <last-search>stage</last-search>
       <last-offset />
-      <last-pattern>account.org</last-pattern>
+      <last-pattern>stage</last-pattern>
       <last-replace>session</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -1613,8 +1613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>number</entry>
-        <entry>href</entry>
         <entry>to</entry>
         <entry>onReset</entry>
         <entry>Local</entry>
@@ -1633,6 +1631,8 @@
         <entry>choosePlan</entry>
         <entry>account.page.org</entry>
         <entry>account.org</entry>
+        <entry>STAGES</entry>
+        <entry>stage</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mapPropsTouched/mapProps/g</entry>
