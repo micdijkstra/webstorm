@@ -78,6 +78,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/resetParametricDriveControls.function.js" timestamp="1541112938592">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="47" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/validateAcademicEmailAddress.js" timestamp="1540178756837">
         <mark key="'" line="20" column="35" />
         <mark key="[" line="22" column="29" />
@@ -229,18 +234,18 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="77" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/Account/Plan/index.js" timestamp="1541038517460">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/.ops/tests/data/organisations.json" timestamp="1537423203969">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="53" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Account/index.js" timestamp="1541034813683">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ParametricDrive/Drives/Drive/index.js" timestamp="1540952089550">
         <mark key="'" line="57" column="0" />
@@ -355,6 +360,12 @@
         <mark key="." line="39" column="48" />
         <mark key="^" line="39" column="48" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/HeaderLogo/index.js" timestamp="1541023305231">
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="20" column="63" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/index.js" timestamp="1537150456035">
         <mark key="'" line="43" column="22" />
         <mark key="[" line="7" column="0" />
@@ -410,8 +421,8 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" timestamp="1541044159972">
-        <mark key="'" line="15" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" timestamp="1541112992063">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -429,6 +440,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Drive/index.js" timestamp="1540953202710">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="30" />
+        <mark key="^" line="49" column="9" />
+        <mark key="." line="134" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Alert/index.js" timestamp="1540782443297">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="33" column="0" />
@@ -443,6 +460,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541041643906">
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="0" />
+        <mark key="." line="444" column="0" />
+        <mark key="^" line="50" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/StripeCard/Form/index.js" timestamp="1537311227776">
         <mark key="'" line="0" column="41" />
         <mark key="[" line="16" column="16" />
@@ -452,12 +475,6 @@
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" timestamp="1541051982896">
         <mark key="'" line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/firebase/scripts/README.md" timestamp="1540790428544">
-        <mark key="[" line="69" column="1" />
-        <mark key="]" line="69" column="95" />
-        <mark key="^" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ChoosePlan/index.js" timestamp="1541031624194">
         <mark key="'" line="3" column="9" />
@@ -643,12 +660,12 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" timestamp="1541112181919">
-        <mark key="'" line="47" column="10" />
-        <mark key="[" line="47" column="15" />
-        <mark key="]" line="47" column="19" />
-        <mark key="^" line="47" column="19" />
-        <mark key="." line="47" column="19" />
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" timestamp="1541112929512">
+        <mark key="'" line="70" column="2" />
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="57" column="31" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/index.js" timestamp="1541042275830">
         <mark key="'" line="40" column="1" />
@@ -728,6 +745,12 @@
         <mark key="." line="24" column="31" />
         <mark key="^" line="24" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/ParametricDrive/Drive/Preview/index.js" timestamp="1540944712892">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/TwoQubit/EvaluationType/index.js" timestamp="1535936707320">
         <mark key="'" line="113" column="0" />
         <mark key="[" line="23" column="11" />
@@ -756,6 +779,12 @@
         <mark key="^" line="36" column="17" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/selectors/ParametricDrive/index.js" timestamp="1540951458899">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/Evaluation/SelectedControls/index.js" timestamp="1540946240638">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="64" />
@@ -763,11 +792,17 @@
         <mark key="^" line="4" column="63" />
         <mark key="." line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/auth/onDelete.function.js" timestamp="1541042823652">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="21" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/Visualize/OneQubit/index.js" timestamp="1540879243479">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="64" column="3" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/MaintenanceMode/index.js" timestamp="1541029848941">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+        <mark key="^" line="8" column="59" />
       </file>
       <file name="$USER_HOME$/Code/visualizer/src/lib/threeJs/elementObjectsGenerator/index.js" timestamp="1540938791935">
         <mark key="'" line="27" column="28" />
@@ -814,10 +849,10 @@
         <mark key="^" line="52" column="27" />
         <mark key="." line="52" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/User/index.js" timestamp="1540334630123">
+      <file name="$USER_HOME$/Code/frontend/src/actions/User/index.js" timestamp="1541113013231">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="25" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="70" />
         <mark key="." line="88" column="7" />
         <mark key="^" line="88" column="7" />
       </file>
@@ -839,6 +874,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="154" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/users/inviteTokens/onCreate.function.js" timestamp="1541113257103">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulses/Pulse/index.js" timestamp="1540952107989">
         <mark key="'" line="49" column="0" />
@@ -868,6 +909,13 @@
         <mark key="^" line="8" column="58" />
         <mark key="." line="8" column="58" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" timestamp="1541113720854">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" timestamp="1541112176067">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="12" />
@@ -892,10 +940,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/utils/router.js" timestamp="1541049642703">
-        <mark key="[" line="160" column="54" />
-        <mark key="]" line="160" column="60" />
-        <mark key="." line="160" column="60" />
+      <file name="$USER_HOME$/Code/firebase/functions/utils/router.js" timestamp="1541113667102">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
         <mark key="^" line="160" column="60" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/Evaluation.test.js" timestamp="1535596286093">
@@ -905,8 +953,8 @@
         <mark key="." line="65" column="17" />
         <mark key="^" line="65" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" timestamp="1541036052505">
-        <mark key="'" line="83" column="8" />
+      <file name="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" timestamp="1541112973487">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -1092,6 +1140,12 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drives/index.js" timestamp="1540945250405">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="65" />
+        <mark key="." line="11" column="65" />
+        <mark key="^" line="11" column="65" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Loading/index.js" timestamp="1537338107587">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="50" column="15" />
@@ -1236,6 +1290,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Aside/index.js" timestamp="1541035045274">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/EmailVerification/index.js" timestamp="1541031145817">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="3" column="0" />
@@ -1280,12 +1340,6 @@
         <mark key="." line="6" column="63" />
         <mark key="^" line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drives/Empty/index.js" timestamp="1540948685573">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="39" column="22" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Noise/index.js" timestamp="1538542551720">
         <mark key="'" line="7" column="23" />
         <mark key="[" line="28" column="0" />
@@ -1306,12 +1360,6 @@
         <mark key="]" line="6" column="64" />
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="64" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Grid/Flex/index.js" timestamp="1541030450010">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/OneQubit/Attributes/index.js" timestamp="1540342445753">
         <mark key="'" line="33" column="16" />
@@ -1500,62 +1548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="3" column="13" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="45" column="70" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="31" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="13" column="14" filename="$USER_HOME$/Code/firebase/functions/db/organisations/onCreate.function.js" />
-      <jump line="15" column="9" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/organisations/users/onWrite.function.js" />
-      <jump line="84" column="16" filename="$USER_HOME$/Code/firebase/functions/utils/constants.js" />
-      <jump line="28" column="14" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="34" column="3" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="35" column="44" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="4" column="20" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="5" column="18" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="36" column="51" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="94" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="87" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="74" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="71" column="25" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="10" column="5" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="72" column="24" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/oneQubit/attributes/updatedAt/onWrite.function.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="76" column="30" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
-      <jump line="96" column="19" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.js" />
       <jump line="51" column="4" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
       <jump line="41" column="25" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
@@ -1571,13 +1563,11 @@
       <jump line="81" column="0" filename="$USER_HOME$/Code/frontend/src/containers/Private/index.js" />
       <jump line="72" column="24" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="140" column="24" filename="$USER_HOME$/Code/frontend/src/containers/Private/index.js" />
       <jump line="41" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="52" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="90" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="94" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
@@ -1586,63 +1576,121 @@
       <jump line="78" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="75" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="18" column="4" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
-      <jump line="27" column="59" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="28" column="55" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="108" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="106" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="101" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="97" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="93" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
-      <jump line="47" column="10" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/pDrive/iSWAP/controls/control/onCreate.function.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/firebase/functions/db/pDrive/iSWAP/controls/control/onCreate.function.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/firebase/functions/db/pDrive/iSWAP/controls/control/onCreate.function.js" />
       <jump line="62" column="0" filename="$USER_HOME$/Code/firebase/functions/db/pDrive/iSWAP/controls/control/onCreate.function.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/firebase/functions/db/pDrive/iSWAP/controls/control/onCreate.function.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Code/firebase/functions/db/pDrive/iSWAP/controls/control/onCreate.function.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="57" column="16" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="70" column="2" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaOrganisations.function.js" />
+      <jump line="13" column="10" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetParametricDriveControls.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetParametricDriveControls.function.js" />
+      <jump line="13" column="34" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="14" column="1" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="21" column="18" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Signup/index.js" />
+      <jump line="64" column="20" filename="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/containers/JoinOrganisation/index.js" />
+      <jump line="23" column="3" filename="$USER_HOME$/Code/firebase/functions/db/users/inviteTokens/onCreate.function.js" />
+      <jump line="4" column="8" filename="$USER_HOME$/Code/firebase/functions/db/users/inviteTokens/onCreate.function.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/Code/firebase/functions/db/users/inviteTokens/onCreate.function.js" />
+      <jump line="5" column="26" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="18" column="37" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="51" column="6" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="23" column="7" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/updateAlphaUsers.function.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Object.keys(users).length</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>users</text>
       </register>
-      <register name="0" type="4">
-        <text>Object.keys(users).length</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBhZG1pbgogICAgICAuZGF0YWJhc2UoKQogICAgICAucmVmKHJvdXRlci51c2Vycy5yb290UGF0aCh1c2VyVUlEKSkKICAgICAgLm9uY2UoInZhbHVlIikKICAgICAgLnRoZW4odXNlclNuYXBzaG90ID0+IHsKICAgICAgICBjb25zdCB7IG9yZ2FuaXNhdGlvbnMgfSA9IHVzZXJTbmFwc2hvdC52YWwoKTsKCiAgICAgICAgY29uc3QgcHJvbWlzZXMgPSBPYmplY3Qua2V5cyhvcmdhbmlzYXRpb25zKS5tYXAob3JnVUlEID0+IGFkbWluCiAgICAgICAgICAgIC5kYXRhYmFzZSgpCiAgICAgICAgICAgIC5yZWYocm91dGVyLm9yZ2FuaXNhdGlvbnMudXNlclBhdGgob3JnVUlELCB1c2VyVUlEKSkKICAgICAgICAgICAgLnVwZGF0ZSgidXNlciIpCiAgICAgICAgKTsKICAgICAgICAKICAgICAgICByZXR1cm4gUHJvbWlzZS5hbGwocHJvbWlzZXMpCiAgICAgIH0pOwogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHBsYW5QYXRoOiBvcmdVSUQgPT4gewogICAgICByZXR1cm4gYCR7T1JHQU5JU0FUSU9OU19ST09UfS8ke29yZ1VJRH0vcGxhbmA7CiAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pbgogICAgICAgICAgLmRhdGFiYXNlKCkKICAgICAgICAgIC5yZWYocm91dGVyLm9yZ2FuaXNhdGlvbnMuaW52aXRlVXJsUGF0aChvcmdhbmlzYXRpb25VSUQpKQogICAgICAgICAgLnVwZGF0ZShgJHtBUFBfSE9TVH0vam9pbk9yZ2FuaXNhdGlvbi8ke3JlZi5rZXl9YCkK</text>
+        <text encoding="base64">Y29uc3QgcGFyYW1ldHJpY0RyaXZlSXN3YXAgPSByZXF1aXJlKCIuLi8uLi9kYXRhL3BhcmFtZXRyaWNEcml2ZUlzd2FwLmpzb24iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICApOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gYWRtaW4KICAgIC5kYXRhYmFzZSgpCiAgICAucmVmKHJvdXRlci5wYXJhbWV0cmljRHJpdmVJc3dhcC5jb250cm9sc1BhdGgodXNlclVJRCkpCiAgICAudXBkYXRlKHBhcmFtZXRyaWNEcml2ZUlzd2FwLmNvbnRyb2xzKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9taXNlcy5wdXNoKAogICk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWRtaW4KICAgICAgICAuZGF0YWJhc2UoKQogICAgICAgIC5yZWYocm91dGVyLm9yZ2FuaXNhdGlvbnMuaW52aXRlVXJsUGF0aChvcmdhbmlzYXRpb25VSUQpKQogICAgICAgIC51cGRhdGUoYCR7QVBQX0hPU1R9L2pvaW5PcmdhbmlzYXRpb24vJHtyZWYua2V5fWApCg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbgogICAgICAgICAgLmRhdGFiYXNlKCkKICAgICAgICAgIC5yZWYocm91dGVyLm9yZ2FuaXNhdGlvbnMudXNlcnNQYXRoKG9yZ1VJRCkpCiAgICAgICAgICAudXBkYXRlKHsgW3VzZXJVSURdOiAidXNlciIgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkbWluCiAgICAgIC5kYXRhYmFzZSgpCiAgICAgIC5yZWYocm91dGVyLm9yZ2FuaXNhdGlvbnMucm9vdFBhdGgob3JnYW5pc2F0aW9uVUlEKSkKICAgICAgLnVwZGF0ZSh7CiAgICAgICAgc3RhdHVzOiBPUkdBTklTQVRJT05fU1RBVFVTRVMuQUxQSEEsCiAgICAgICAgb3JnYW5pc2F0aW9uVHlwZTogT1JHQU5JU0FUSU9OX1RZUEVTLlJFR1VMQVIKICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm9taXNlcyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvcmdhbmlzYXRpb25zID0ge30K</text>
       </register>
       <register name=":" type="4">
-        <text>95</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1696,8 +1744,8 @@
         <entry>qa</entry>
         <entry>red</entry>
         <entry>28</entry>
-        <entry>w</entry>
         <entry>95</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
