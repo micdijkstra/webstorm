@@ -154,12 +154,12 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541132096226">
-        <mark key="'" line="240" column="8" />
-        <mark key="[" line="269" column="64" />
-        <mark key="]" line="269" column="65" />
-        <mark key="." line="269" column="65" />
-        <mark key="^" line="213" column="5" />
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541133186801">
+        <mark key="'" line="56" column="43" />
+        <mark key="[" line="232" column="56" />
+        <mark key="]" line="232" column="60" />
+        <mark key="." line="232" column="60" />
+        <mark key="^" line="232" column="60" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1540944967878">
         <mark key="'" line="15" column="2" />
@@ -1496,56 +1496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/.circleci/config.yml" />
-      <jump line="18" column="53" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="10" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="25" column="11" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Login/Form/index.js" />
-      <jump line="238" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="230" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="227" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="224" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="221" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="217" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="213" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="209" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="215" column="19" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Checkbox/index.js" />
-      <jump line="100" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
-      <jump line="68" column="18" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="106" column="18" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1203" column="16" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="112" column="18" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="114" column="18" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="13" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/EmailVerification/index.js" />
-      <jump line="49" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/EmailVerification/index.js" />
-      <jump line="56" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/EmailVerification/index.js" />
-      <jump line="274" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="273" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="265" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="260" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="204" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="169" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="152" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="129" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Private/index.js" />
-      <jump line="140" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
-      <jump line="139" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
-      <jump line="71" column="44" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
-      <jump line="73" column="62" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
-      <jump line="107" column="23" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
-      <jump line="108" column="45" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
-      <jump line="148" column="48" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
-      <jump line="120" column="45" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="82" column="46" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/Header/Session/index.js" />
@@ -1596,6 +1546,56 @@
       <jump line="179" column="27" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="237" column="10" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="240" column="8" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="238" column="52" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="496" column="11" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="497" column="11" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="499" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="500" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="501" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="502" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="503" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="504" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="506" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="507" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="508" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="509" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="512" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="523" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="530" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="537" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="556" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="563" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="570" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="575" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="601" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="609" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="615" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="620" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="636" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="633" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="628" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="624" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="711" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="993" column="47" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1006" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1016" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1043" column="33" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1050" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1080" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1090" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1249" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1258" column="33" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1272" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1294" column="41" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1306" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1315" column="35" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="32" column="38" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="45" column="52" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="46" column="53" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="52" column="43" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="232" column="46" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="56" column="43" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1605,7 +1605,7 @@
         <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>2,500</text>
+        <text>black-opal-plan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMzY0LjIxIDM2NC4yMSI+PGRlZnM+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQiIGN4PSIzMzY5LjA5IiBjeT0iODE3Ljc0IiByPSI2NS42OCIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgtMjc3OC40MSAxOTI4Ljg5KSByb3RhdGUoLTQ1KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC40MiIgc3RvcC1jb2xvcj0iIzM4MWU0MyIvPjxzdG9wIG9mZnNldD0iMC42MSIgc3RvcC1jb2xvcj0iIzVkMDJjMSIvPjxzdG9wIG9mZnNldD0iMC44MyIgc3RvcC1jb2xvcj0iIzY5MGVlYSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2I1MGVlYSIvPjwvcmFkaWFsR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMiIgY3g9IjMzODguODIiIGN5PSI4NTguMjUiIHI9IjY0LjI0IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMyIgY3g9IjMzMjguNTgiIGN5PSI3OTguMDIiIHI9IjY0LjI0IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtNCIgY3g9IjMyODguMDciIGN5PSI4MTcuNzUiIHI9IjY1LjY4IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtNSIgY3g9IjMyNjguMzYiIGN5PSI4NTguMjYiIHI9IjY0LjI0IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtNiIgY3g9IjMyODguMDgiIGN5PSI4OTguNzYiIHI9IjY1LjY4IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtNyIgY3g9IjMzMjguNTkiIGN5PSI5MTguNDgiIHI9IjY0LjI0IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtOCIgY3g9IjMzNjkuMTEiIGN5PSI4OTguNzYiIHI9IjY1LjY2IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtOSIgY3g9IjMzNTMuNCIgY3k9IjgzMy40NCIgcj0iNDMuNSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgtMjc3OC40MSAxOTI4Ljg5KSByb3RhdGUoLTQ1KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC40MiIgc3RvcC1jb2xvcj0iIzM4MWU0MyIvPjxzdG9wIG9mZnNldD0iMC42MSIgc3RvcC1jb2xvcj0iIzVkMDJjMSIvPjxzdG9wIG9mZnNldD0iMC44MyIgc3RvcC1jb2xvcj0iIzY5MGVlYSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2I1MGVlYSIvPjwvcmFkaWFsR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMTAiIGN4PSIzMzY4LjQ4IiBjeT0iODU4LjI1IiByPSI0MS4xNyIgeGxpbms6aHJlZj0iI3JhZGlhbC1ncmFkaWVudC05Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMTEiIGN4PSIzMzUzLjQxIiBjeT0iODgzLjA4IiByPSI0My41IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50LTkiLz48cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudC0xMiIgY3g9IjMzMjguNTkiIGN5PSI4OTguMTUiIHI9IjQxLjE3IiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50LTkiLz48cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudC0xMyIgY3g9IjMzMDMuNzgiIGN5PSI4ODMuMDYiIHI9IjQzLjUiIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtOSIvPjxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50LTE0IiBjeD0iMzI4OC42OSIgY3k9Ijg1OC4yNiIgcj0iNDEuMTciIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtOSIvPjxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50LTE1IiBjeD0iMzMwMy43NiIgY3k9IjgzMy40NCIgcj0iNDMuNDgiIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtOSIvPjxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50LTE2IiBjeD0iMzMyOC41OCIgY3k9IjgxOC4zNiIgcj0iNDEuMTciIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtOSIvPjxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50LTE3IiBjeD0iLTMyMTEuOCIgY3k9IjUwODguMzIiIHI9IjE2LjE5IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDUyNTcuNDYgMzM3OS4xMSkgcm90YXRlKDkwKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC4xNyIgc3RvcC1jb2xvcj0iIzM4MWU0MyIvPjxzdG9wIG9mZnNldD0iMC40OCIgc3RvcC1jb2xvcj0iIzVkMDJjMSIvPjxzdG9wIG9mZnNldD0iMC43OSIgc3RvcC1jb2xvcj0iIzY5MGVlYSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2I1MGVlYSIvPjwvcmFkaWFsR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMTgiIGN4PSItMjUzNS42NSIgY3k9IjE5NDEuODYiIHI9IjE2LjE5IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDMzMjguNTcgNjAwLjcpIHJvdGF0ZSg0NSkiIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtMTciLz48cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudC0xOSIgY3g9IjE2Ny4zNCIgY3k9IjE5NS4wOSIgcj0iMTYuMTkiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMSwgMCwgMCwgMSwgMCwgMCkiIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtMTciLz48cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudC0yMCIgY3g9IjMzMTMuNzkiIGN5PSI4NzEuMjQiIHI9IjE2LjE5IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC0yNzc4LjQxIDE5MjguODkpIHJvdGF0ZSgtNDUpIiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50LTE3Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMjEiIGN4PSI1MDYwLjU3IiBjeT0iMzU3NC4yMyIgcj0iMTYuMTkiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTMzNzkuMTEgNTI1Ny40Nikgcm90YXRlKC05MCkiIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtMTciLz48cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudC0yMiIgY3g9IjQzODQuNDIiIGN5PSI2NzIwLjY5IiByPSIxNi4xOSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgtMTQ1MC4yMiA4MDM1Ljg4KSByb3RhdGUoLTEzNSkiIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtMTciLz48cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudC0yMyIgY3g9IjE2ODEuNDMiIGN5PSI4NDY3LjQ2IiByPSIxNi4xOSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgxODc4LjM1IDg2MzYuNTgpIHJvdGF0ZSgxODApIiB4bGluazpocmVmPSIjcmFkaWFsLWdyYWRpZW50LTE3Ii8+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQtMjQiIGN4PSItMTQ2NS4wMyIgY3k9Ijc3OTEuMzEiIHI9IjE2LjE5IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDQ2NTYuNzYgNjcwNy42OCkgcm90YXRlKDEzNSkiIHhsaW5rOmhyZWY9IiNyYWRpYWwtZ3JhZGllbnQtMTciLz48L2RlZnM+PHRpdGxlPkxvZ29tYXJrIEdyYWRpZW50PC90aXRsZT48cGF0aCBkPSJNMTgyLjEyLDU5LjEyQTY1LjcxLDY1LjcxLDAsMCwwLDE1NSwxODQuNjdhMjcuMjksMjcuMjksMCwwLDEsMy0xNS4yNSw1MC43Miw1MC43MiwwLDEsMSw0OC4yNSwwLDI3LjMxLDI3LjMxLDAsMCwxLDMsMTUuMjMsNjUuNzcsNjUuNzcsMCwwLDAsMzguNTUtNTkuOCw2NS42OSw2NS42OSwwLDAsMC02NS43LTY1LjdaIiBzdHlsZT0ib3BhY2l0eTowLjcwMDAwMDAwMDAwMDAwMDE7ZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudCkiLz48cGF0aCBkPSJNMTc2LjE4LDk1LjE0YTY1Ljc4LDY1Ljc4LDAsMCwwLTE1LDY5LjU2Yy41My0uNjQsMS4xLTEuMjcsMS43LTEuODdhMjcuMTYsMjcuMTYsMCwwLDEsMTEuMi02Ljc2LDUwLjY5LDUwLjY5LDAsMSwxLDM0LjEsMzQuMSwyNywyNywwLDAsMS02Ljc2LDExLjJjLS42LjYtMS4yMiwxLjE3LTEuODYsMS43QTY1LjY5LDY1LjY5LDAsMSwwLDE3Ni4xOCw5NS4xNFoiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTIpIi8+PHBhdGggZD0iTTk1LjE2LDk1LjE1YTY1LjY4LDY1LjY4LDAsMCwwLDY5LjU3LDEwNy45MiwyMywyMywwLDAsMS0xLjg3LTEuNywyNywyNywwLDAsMS02Ljc2LTExLjIsNTAuNjksNTAuNjksMCwxLDEsMzQuMS0zNC4xLDI3LjE2LDI3LjE2LDAsMCwxLDExLjIsNi43NmMuNi42LDEuMTYsMS4yMiwxLjcsMS44NkE2NS42OCw2NS42OCwwLDAsMCw5NS4xNiw5NS4xNVoiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTMpIi8+PHBhdGggZD0iTTE2OS40NSwyMDYuMjNhNTAuNzMsNTAuNzMsMCwxLDEsMC00OC4yNCwyNy4yLDI3LjIsMCwwLDEsMTUuMjItMyw2NS41MSw2NS41MSwwLDEsMCwuMDYsNTQuMjdBMjcuMzcsMjcuMzcsMCwwLDEsMTY5LjQ1LDIwNi4yM1oiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTQpIi8+PHBhdGggZD0iTTIwMS40LDIwMS4zN2EyNywyNywwLDAsMS0xMS4yLDYuNzZBNTAuNyw1MC43LDAsMSwxLDE1Ni4xLDE3NGEyNywyNywwLDAsMSw2Ljc2LTExLjIxYy42LS42LDEuMjItMS4xNiwxLjg2LTEuNjlhNjUuNjksNjUuNjksMCwxLDAsMzguMzgsMzguMzdDMjAyLjU3LDIwMC4xNSwyMDIsMjAwLjc3LDIwMS40LDIwMS4zN1oiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTUpIi8+PHBhdGggZD0iTTIwNi4yNSwxOTQuODFhNTAuNTksNTAuNTksMCwxLDEtNDguMjUsMCwyNy4yNywyNy4yNywwLDAsMS0zLTE1LjI1LDY1Ljc0LDY1Ljc0LDAsMSwwLDU0LjI3LDBBMjcuMzEsMjcuMzEsMCwwLDEsMjA2LjI1LDE5NC44MVoiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTYpIi8+PHBhdGggZD0iTTE5OS41MywxNjEuMTNjLjY1LjU0LDEuMjcsMS4xLDEuODcsMS43YTI3LDI3LDAsMCwxLDYuNzYsMTEuMiw1MC43LDUwLjcsMCwxLDEtMzQuMDksMzQuMTEsMjcuMTEsMjcuMTEsMCwwLDEtMTEuMjEtNi43N2MtLjYtLjYtMS4xNi0xLjIyLTEuNy0xLjg2YTY1LjcsNjUuNywwLDEsMCwzOC4zNy0zOC4zOFoiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTcpIi8+PHBhdGggZD0iTTIzOS40MiwxMTYuNEE2NS43OSw2NS43OSwwLDAsMCwxNzkuNjEsMTU1YTI3LjI3LDI3LjI3LDAsMCwxLDE1LjIyLDMsNTEuMTEsNTEuMTEsMCwwLDEsOC43Ni0xMS43MSw1MC42OCw1MC42OCwwLDEsMS04Ljc1LDU5Ljk1LDI3LjI5LDI3LjI5LDAsMCwxLTE1LjIyLDMsNjUuNjgsNjUuNjgsMCwxLDAsNTkuOC05Mi44NFoiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTgpIi8+PHBhdGggZD0iTTE4Mi4xMiwxMDMuNUE0My41Niw0My41NiwwLDAsMCwxMzguNjIsMTQ3aDBhNDMuMjUsNDMuMjUsMCwwLDAsMTIuNzQsMzAuNzYsNDUuODMsNDUuODMsMCwwLDAsMy41NCwzLjE3LDI3LjE0LDI3LjE0LDAsMCwxLDUuNTktMTUuMzlBMjguMjYsMjguMjYsMCwwLDEsMTUzLjYyLDE0N2gwYTI4LjUxLDI4LjUxLDAsMSwxLDUwLjE1LDE4LjUzLDI3LjIxLDI3LjIxLDAsMCwxLDUuNTksMTUuMzlxMS44My0xLjQ5LDMuNTMtMy4xNmE0My41MSw0My41MSwwLDAsMC0zMC43Ny03NC4yN1oiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTkpIi8+PHBhdGggZD0iTTE3Ni4xOCwxMjYuNTJBNDMuNDUsNDMuNDUsMCwwLDAsMTYzLjcyLDE2MmEyNy4xMywyNy4xMywwLDAsMSwxNC44Mi02LjkyLDI4LjUxLDI4LjUxLDAsMSwxLDMwLjYsMzAuNTksMjcuMDgsMjcuMDgsMCwwLDEtNi45MSwxNC44Miw0My40OSw0My40OSwwLDEsMC0yNi03NFoiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTEwKSIvPjxwYXRoIGQ9Ik0yMTcuMjMsMTM4LjU5aDBhNDMuNDIsNDMuNDIsMCwwLDAtMzMuOSwxNi4yOSwyNy4xLDI3LjEsMCwwLDEsMTUuMzcsNS41OSwyOC40OSwyOC40OSwwLDEsMSwwLDQzLjI3LDI3LjE0LDI3LjE0LDAsMCwxLTE1LjM5LDUuNTlxMS40OCwxLjgzLDMuMTYsMy41M2E0My41LDQzLjUsMCwxLDAsMzAuNzctNzQuMjdaIiBzdHlsZT0ib3BhY2l0eTowLjcwMDAwMDAwMDAwMDAwMDE7ZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0xMSkiLz48cGF0aCBkPSJNMjAyLjIzLDE2My43YTI3LjEyLDI3LjEyLDAsMCwxLDYuOTEsMTQuODIsMjguNSwyOC41LDAsMSwxLTMwLjU5LDMwLjYsMjcuMDksMjcuMDksMCwwLDEtMTQuODItNi45Miw0My41MSw0My41MSwwLDEsMCwzOC41LTM4LjVaIiBzdHlsZT0ib3BhY2l0eTowLjcwMDAwMDAwMDAwMDAwMDE7ZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0xMikiLz48cGF0aCBkPSJNMjAzLjc3LDE5OC42NmEyOC41LDI4LjUsMCwxLDEtNDMuMjgsMCwyNy4xNSwyNy4xNSwwLDAsMS01LjU5LTE1LjM4LDQzLjQ5LDQzLjQ5LDAsMSwwLDcwLjc0LDMzLjkyaDBhNDMuMjMsNDMuMjMsMCwwLDAtMTIuNzQtMzAuNzYsNDUuODMsNDUuODMsMCwwLDAtMy41NC0zLjE3QTI3LjE0LDI3LjE0LDAsMCwxLDIwMy43NywxOTguNjZaIiBzdHlsZT0ib3BhY2l0eTowLjcwMDAwMDAwMDAwMDAwMDE7ZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0xMykiLz48cGF0aCBkPSJNMTg1LjcyLDIwOS4xMmEyOC41MSwyOC41MSwwLDEsMS0zMC42LTMwLjU5QTI3LjExLDI3LjExLDAsMCwxLDE2MiwxNjMuN2E0My41LDQzLjUsMCwxLDAsMzguNTEsMzguNUEyNy4yLDI3LjIsMCwwLDEsMTg1LjcyLDIwOS4xMloiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTE0KSIvPjxwYXRoIGQ9Ik0xNjUuNTYsMjAzLjc0QTI4LjMzLDI4LjMzLDAsMCwxLDE0NywyMTAuNjFoMGEyOC41LDI4LjUsMCwxLDEsMTguNTMtNTAuMTQsMjcuMTksMjcuMTksMCwwLDEsMTUuMzYtNS41OUE0My40OSw0My40OSwwLDEsMCwxNDcsMjI1LjYxaDBhNDMuMzksNDMuMzksMCwwLDAsMzAuNzUtMTIuNzUsNDMuODYsNDMuODYsMCwwLDAsMy4xNS0zLjUzQTI3LjI1LDI3LjI1LDAsMCwxLDE2NS41NiwyMDMuNzRaIiBzdHlsZT0ib3BhY2l0eTowLjcwMDAwMDAwMDAwMDAwMDE7ZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0xNSkiLz48cGF0aCBkPSJNMTI2LjU1LDEyNi41M2E0My40OCw0My40OCwwLDAsMCwzNS40OCw3NCwyNy4xNSwyNy4xNSwwLDAsMS02LjkxLTE0LjgyLDI4LjUsMjguNSwwLDEsMSwzMC41OS0zMC42QTI3LjE1LDI3LjE1LDAsMCwxLDIwMC41MywxNjJhNDMuNDgsNDMuNDgsMCwwLDAtNzQtMzUuNDdaIiBzdHlsZT0ib3BhY2l0eTowLjcwMDAwMDAwMDAwMDAwMDE7ZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0xNikiLz48cGF0aCBkPSJNMTU0Ljg4LDE4Mi4xYTI3LjI1LDI3LjI1LDAsMCwxLDI3LjI1LTI3LjI1Yy42OSwwLDEuMzYsMCwyLC4wOEEyMS4yMywyMS4yMywwLDAsMCwxNTUsMTg0LjE2QzE1NC45MSwxODMuNDgsMTU0Ljg4LDE4Mi44LDE1NC44OCwxODIuMVoiIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMTtmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTE3KSIvPjxnIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMSI+PHBhdGggZD0iTTE2Mi44NiwyMDEuMzdhMjcuMjQsMjcuMjQsMCwwLDEsMC0zOC41NGMuNDgtLjQ4LDEtLjk0LDEuNS0xLjM4YTIxLjIzLDIxLjIzLDAsMCwwLDAsNDEuMzJDMTYzLjg2LDIwMi4zMywxNjMuMzUsMjAxLjg3LDE2Mi44NiwyMDEuMzdaIiBzdHlsZT0iZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0xOCkiLz48L2c+PGcgc3R5bGU9Im9wYWNpdHk6MC43MDAwMDAwMDAwMDAwMDAxIj48cGF0aCBkPSJNMTgyLjEzLDIwOS4zNmEyNy4yNSwyNy4yNSwwLDAsMS0yNy4yNS0yNy4yNmMwLS42OCwwLTEuMzYuMDgtMmEyMS4yMywyMS4yMywwLDAsMCwyOS4yMywyOS4yQzE4My41MSwyMDkuMzIsMTgyLjgyLDIwOS4zNiwxODIuMTMsMjA5LjM2WiIgc3R5bGU9ImZpbGw6dXJsKCNyYWRpYWwtZ3JhZGllbnQtMTkpIi8+PC9nPjxnIHN0eWxlPSJvcGFjaXR5OjAuNzAwMDAwMDAwMDAwMDAwMSI+PHBhdGggZD0iTTIwMS40LDIwMS4zN2EyNy4yNCwyNy4yNCwwLDAsMS0zOC41NCwwYy0uNDktLjQ4LS45NC0xLTEuMzgtMS40OWEyMS4yMywyMS4yMywwLDAsMCw0MS4zMiwwQzIwMi4zNSwyMDAuMzcsMjAxLjg5LDIwMC44OCwyMDEuNCwyMDEuMzdaIiBzdHlsZT0iZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0yMCkiLz48L2c+PGcgc3R5bGU9Im9wYWNpdHk6MC43MDAwMDAwMDAwMDAwMDAxIj48cGF0aCBkPSJNMjA5LjM4LDE4Mi4xYTI3LjI1LDI3LjI1LDAsMCwxLTI3LjI1LDI3LjI2Yy0uNjksMC0xLjM2LDAtMi0uMDlBMjEuMjMsMjEuMjMsMCwwLDAsMjA5LjMsMTgwQzIwOS4zNSwxODAuNzIsMjA5LjM4LDE4MS40MSwyMDkuMzgsMTgyLjFaIiBzdHlsZT0iZmlsbDp1cmwoI3JhZGlhbC1ncmFkaWVudC0yMSkiLz48L2c+PGcgc3R5bGU9Im9wYWNpdHk6MC43MDAwMDAwMDAwMDAwMDAxIj48cGF0aCBkPSJNMjAxLjQsMTYyLjgzYTI3LjI0LDI3LjI0LDAsMCwxLDAsMzguNTRjLS40OC40OS0xLC45NC0xLjUsMS4zOGEyMS4yMywyMS4yMywwLDAsMCwwLTQxLjMyQzIwMC40LDE2MS44OCwyMDAuOTEsMTYyLjM0LDIwMS40LDE2Mi44M1oiIHN0eWxlPSJmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTIyKSIvPjwvZz48ZyBzdHlsZT0ib3BhY2l0eTowLjcwMDAwMDAwMDAwMDAwMDEiPjxwYXRoIGQ9Ik0xODIuMTMsMTU0Ljg1YTI3LjI1LDI3LjI1LDAsMCwxLDI3LjI1LDI3LjI1YzAsLjY5LDAsMS4zNy0uMDgsMmEyMS4yNCwyMS4yNCwwLDAsMC0yOS4yMy0yOS4yMUMxODAuNzUsMTU0Ljg4LDE4MS40NCwxNTQuODUsMTgyLjEzLDE1NC44NVoiIHN0eWxlPSJmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTIzKSIvPjwvZz48ZyBzdHlsZT0ib3BhY2l0eTowLjcwMDAwMDAwMDAwMDAwMDEiPjxwYXRoIGQ9Ik0xNjIuODYsMTYyLjgzYTI3LjI2LDI3LjI2LDAsMCwxLDM4LjU0LDBjLjQ5LjQ5Ljk0LDEsMS4zOCwxLjVhMjEuMjMsMjEuMjMsMCwwLDAtNDEuMzIsMEMxNjEuOTEsMTYzLjgzLDE2Mi4zNywxNjMuMzIsMTYyLjg2LDE2Mi44M1oiIHN0eWxlPSJmaWxsOnVybCgjcmFkaWFsLWdyYWRpZW50LTI0KSIvPjwvZz48L3N2Zz4K</text>
@@ -1642,9 +1642,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2,500</last-search>
+      <last-search>black-opal-plan</last-search>
       <last-offset />
-      <last-pattern>2,500</last-pattern>
+      <last-pattern>black-opal-plan</last-pattern>
       <last-replace>organisationUID</last-replace>
       <last-substitute>orgUID</last-substitute>
       <last-dir>1</last-dir>
@@ -1652,10 +1652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>light</entry>
-        <entry>console</entry>
-        <entry>square</entry>
-        <entry>ROLES</entry>
         <entry>TextInput</entry>
         <entry>Email</entry>
         <entry>Errors</entry>
@@ -1672,6 +1668,10 @@
         <entry>1000</entry>
         <entry>1,000</entry>
         <entry>2,500</entry>
+        <entry>data</entry>
+        <entry>pulse</entry>
+        <entry>black</entry>
+        <entry>black-opal-plan</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
