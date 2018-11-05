@@ -165,12 +165,12 @@
         <mark key="[" line="298" column="0" />
         <mark key="]" line="301" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541396642884">
-        <mark key="'" line="1252" column="28" />
-        <mark key="[" line="1243" column="33" />
-        <mark key="]" line="1243" column="33" />
-        <mark key="." line="1243" column="33" />
-        <mark key="^" line="1252" column="28" />
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541457914781">
+        <mark key="'" line="124" column="40" />
+        <mark key="[" line="136" column="55" />
+        <mark key="]" line="136" column="62" />
+        <mark key="." line="136" column="62" />
+        <mark key="^" line="136" column="62" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1541379524343">
         <mark key="'" line="58" column="8" />
@@ -192,13 +192,6 @@
         <mark key="]" line="49" column="28" />
         <mark key="." line="49" column="28" />
         <mark key="^" line="49" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Visualize/OneQubit/index.js" timestamp="1541394973347">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="192" column="38" />
-        <mark key="]" line="192" column="37" />
-        <mark key="^" line="192" column="37" />
-        <mark key="." line="192" column="37" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/OneQubit/index.js" timestamp="1540426905605">
         <mark key="'" line="17" column="6" />
@@ -484,12 +477,8 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541397683407">
-        <mark key="'" line="479" column="0" />
-        <mark key="[" line="671" column="8" />
-        <mark key="]" line="671" column="7" />
-        <mark key="." line="671" column="7" />
-        <mark key="^" line="671" column="7" />
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541456029122">
+        <mark key="'" line="775" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/StripeCard/Form/index.js" timestamp="1537311227776">
         <mark key="'" line="0" column="41" />
@@ -1022,6 +1011,13 @@
         <mark key="^" line="40" column="44" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/.circleci/config.yml" timestamp="1541456137117">
+        <mark key="'" line="18" column="128" />
+        <mark key="[" line="18" column="129" />
+        <mark key="]" line="18" column="128" />
+        <mark key="^" line="18" column="128" />
+        <mark key="." line="18" column="128" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/selectors/InviteToken/index.js" timestamp="1539665655228">
         <mark key="'" line="13" column="28" />
         <mark key="[" line="3" column="6" />
@@ -1210,12 +1206,12 @@
         <mark key="." line="27516" column="0" />
         <mark key="^" line="1" column="84886" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" timestamp="1541129183907">
-        <mark key="'" line="101" column="33" />
-        <mark key="[" line="100" column="61" />
-        <mark key="]" line="100" column="72" />
-        <mark key="." line="100" column="72" />
-        <mark key="^" line="100" column="72" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" timestamp="1541456697628">
+        <mark key="'" line="178" column="49" />
+        <mark key="[" line="159" column="33" />
+        <mark key="]" line="159" column="33" />
+        <mark key="." line="159" column="33" />
+        <mark key="^" line="180" column="59" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Signup/Organisation/index.js" timestamp="1541118381666">
         <mark key="'" line="183" column="21" />
@@ -1560,68 +1556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="69" column="34" filename="$USER_HOME$/Code/frontend/src/components/templates/TwoQubit/Attributes/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/TwoQubit/Attributes/index.js" />
-      <jump line="47" column="50" filename="$USER_HOME$/Code/frontend/src/components/templates/TwoQubit/Attributes/index.js" />
-      <jump line="45" column="12" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="128" column="41" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="121" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="107" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="119" column="57" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="64" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="126" column="51" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="11" column="7" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="30" column="9" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="4" column="47" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="5" column="65" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="13" column="28" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="12" column="35" filename="$USER_HOME$/Code/frontend/.env.development.local" />
-      <jump line="26" column="29" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="29" column="17" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="116" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="576" column="28" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="587" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="976" column="29" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1639" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1234" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="112" column="40" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="1244" column="28" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="459" column="21" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="442" column="2" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="828" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="818" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="803" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="796" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="792" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="778" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="597" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="588" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="577" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="544" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="539" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="534" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="522" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="516" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="509" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="495" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="484" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="479" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="135" column="32" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="104" column="63" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="123" column="46" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="201" column="25" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="211" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="170" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="177" column="55" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
-      <jump line="166" column="28" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
       <jump line="156" column="18" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
       <jump line="172" column="18" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/CustomDrive/index.js" />
@@ -1660,55 +1594,117 @@
       <jump line="60" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/CustomDrive/index.js" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/CustomDrive/index.js" />
       <jump line="75" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/CustomDrive/index.js" />
+      <jump line="649" column="13" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="750" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="764" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="768" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="800" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="790" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="775" column="0" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="1217" column="48" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1223" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1231" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1240" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1242" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1244" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1253" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1260" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1267" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1276" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1283" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1290" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1298" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1301" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1310" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1319" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1329" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1334" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1339" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1349" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1357" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1360" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1365" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1372" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1380" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1386" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1394" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1400" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1413" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1422" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1427" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1432" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1440" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1572" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1569" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="31" column="29" filename="$USER_HOME$/Code/firebase/.circleci/config.yml" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/firebase/.circleci/config.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/firebase/.circleci/config.yml" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/firebase/.circleci/config.yml" />
+      <jump line="18" column="128" filename="$USER_HOME$/Code/firebase/.circleci/config.yml" />
+      <jump line="95" column="36" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="135" column="28" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="137" column="42" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="142" column="40" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="152" column="40" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="154" column="50" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="161" column="49" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="163" column="52" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="166" column="51" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="168" column="58" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="171" column="53" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="176" column="49" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="186" column="49" filename="$USER_HOME$/Code/frontend/src/components/templates/Signup/User/index.js" />
+      <jump line="1568" column="16" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="124" column="40" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG10PXsyfQ==</text>
+        <text>release</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG10PXsyfQ==</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
-        <text>Detuning</text>
+        <text>phase</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCb3ggdz17MSAvIDN9IG14PXsxfT4KICAgICAgICAgICAgICAgICAgPEZsZXggZmxleFdyYXA9IndyYXAiPgo=</text>
+        <text encoding="base64">ICAgICAgImFjY2VwdFRlcm1zIjogewogICAgICAgICJsYWJlbCI6ICJBZ3JlZSB0byBvdXIiLAogICAgICAgICJsaW5rIjogIlRlcm1zICYgUG9saWNpZXMiLAogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9oZWxwLnEtY3RybC5jb20vcG9saWNpZXMiLAogICAgICAgICJyZXF1aXJlZCI6ICJZb3UgbXVzdCBhY2NlcHQgb3VyIFRlcm1zICYgUG9saWNpZXMiCiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgYXR0cmlidXRlLCB2YWx1ZSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9e2xvY2FsZS5hY2NlcHRCZXRhLnVybH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtsb2NhbGUuYWNjZXB0QmV0YS5saW5rfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgaXRlbSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAibGluayI6ICJUZXJtcyAmIFBvbGljaWVzIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBhZGRyZXNzZWRJb25zIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAibGluayI6ICJUZXJtcyAmIFBvbGljaWVzIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vaGVscC5xLWN0cmwuY29tL3BvbGljaWVzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA8Qm94IHc9ezEgLyAzfSBteD17MX0+CiAgICAgICAgICAgICAgICAgIDxGbGV4IGZsZXhXcmFwPSJ3cmFwIj4KICAgICAgICAgICAgICAgICAgICA8Qm94IHc9ezF9PgogICAgICAgICAgICAgICAgICAgICAgPExhYmVsIG1iPXsxfT4KICAgICAgICAgICAgICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9Im1vbG1lclNvcmVuc2VuRHJpdmUuY3VzdG9tLmF0b21pY01hc3MubGFiZWwiIC8+CiAgICAgICAgICAgICAgICAgICAgICA8L0xhYmVsPgogICAgICAgICAgICAgICAgICAgIDwvQm94PgogICAgICAgICAgICAgICAgICAgIDxCb3ggdz17MX0+CiAgICAgICAgICAgICAgICAgICAgICA8TnVtYmVySW5wdXQKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJxYS1hdG9taWNNYXNzIgogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbD0iLmF0b21pY01hc3MiCiAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJhdG9taWNNYXNzIgogICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0b3JzPXt7IHJlcXVpcmVkIH19CiAgICAgICAgICAgICAgICAgICAgICAgIG1hcFByb3BzPXttYXBQcm9wc30KICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9Cb3g+CiAgICAgICAgICAgICAgICAgICAgPEJveCBmbGV4PSIxIiBkYXRhLXFhPSJhdG9taWNNYXNzLWVycm9yLW1lc3NhZ2VzIj4KICAgICAgICAgICAgICAgICAgICAgIDxFcnJvck1lc3NhZ2VzCiAgICAgICAgICAgICAgICAgICAgICAgIGludGw9e2ludGx9CiAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJtb2xtZXJTb3JlbnNlbkRyaXZlLmN1c3RvbS5hdG9taWNNYXNzIgogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbD0iLm5hbWUiCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbGlkYXRvcnM9e1sicmVxdWlyZWQiXX0KICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9Cb3g+CiAgICAgICAgICAgICAgICAgIDwvRmxleD4KICAgICAgICAgICAgICAgIDwvQm94Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgYXR0cmlidXRlLCB2YWx1ZSB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgaXRlbSB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCb3ggdz17MSAvIDN9IG14PXsxfT4KICAgICAgICAgICAgICAgICAgPEZsZXggZmxleFdyYXA9IndyYXAiPgogICAgICAgICAgICAgICAgICAgIDxCb3ggdz17MX0+CiAgICAgICAgICAgICAgICAgICAgICA8TGFiZWwgbWI9ezF9PgogICAgICAgICAgICAgICAgICAgICAgICA8Rm9ybWF0dGVkTWVzc2FnZSBpZD0ibW9sbWVyU29yZW5zZW5Ecml2ZS5jdXN0b20uYXRvbWljTWFzcy5sYWJlbCIgLz4KICAgICAgICAgICAgICAgICAgICAgIDwvTGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPC9Cb3g+CiAgICAgICAgICAgICAgICAgICAgPEJveCB3PXsxfT4KICAgICAgICAgICAgICAgICAgICAgIDxOdW1iZXJJbnB1dAogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InFhLWF0b21pY01hc3MiCiAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPSIuYXRvbWljTWFzcyIKICAgICAgICAgICAgICAgICAgICAgICAgaWQ9ImF0b21pY01hc3MiCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbGlkYXRvcnM9e3sgcmVxdWlyZWQgfX0KICAgICAgICAgICAgICAgICAgICAgICAgbWFwUHJvcHM9e21hcFByb3BzfQogICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICA8L0JveD4KICAgICAgICAgICAgICAgICAgICA8Qm94IGZsZXg9IjEiIGRhdGEtcWE9ImF0b21pY01hc3MtZXJyb3ItbWVzc2FnZXMiPgogICAgICAgICAgICAgICAgICAgICAgPEVycm9yTWVzc2FnZXMKICAgICAgICAgICAgICAgICAgICAgICAgaW50bD17aW50bH0KICAgICAgICAgICAgICAgICAgICAgICAgaWQ9Im1vbG1lclNvcmVuc2VuRHJpdmUuY3VzdG9tLmF0b21pY01hc3MiCiAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPSIubmFtZSIKICAgICAgICAgICAgICAgICAgICAgICAgdmFsaWRhdG9ycz17WyJyZXF1aXJlZCJdfQogICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICA8L0JveD4KICAgICAgICAgICAgICAgICAgPC9GbGV4PgogICAgICAgICAgICAgICAgPC9Cb3g+Cgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBhZGRyZXNzZWRJb25zIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEZsZXggZmxleFdyYXA9IndyYXAiPgogICAgICAgICAgICAgICAgICAgIDxCb3ggdz17MX0+CiAgICAgICAgICAgICAgICAgICAgICA8TGFiZWwgbWI9ezF9PgogICAgICAgICAgICAgICAgICAgICAgICA8Rm9ybWF0dGVkTWVzc2FnZSBpZD0ibW9sbWVyU29yZW5zZW5Ecml2ZS5jdXN0b20ubnVtYmVyT2ZJb25zLmxhYmVsIiAvPgogICAgICAgICAgICAgICAgICAgICAgPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgICA8L0JveD4KICAgICAgICAgICAgICAgICAgICA8Qm94IHc9ezF9PgogICAgICAgICAgICAgICAgICAgICAgPE51bWJlcklucHV0CiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0icWEtbnVtYmVyT2ZJb25zIgogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbD0iLm51bWJlck9mSW9ucyIKICAgICAgICAgICAgICAgICAgICAgICAgaWQ9Im51bWJlck9mSW9ucyIKICAgICAgICAgICAgICAgICAgICAgICAgdmFsaWRhdG9ycz17ewogICAgICAgICAgICAgICAgICAgICAgICAgIGdyZWF0ZXJUaGFuT25lOiBncmVhdGVyVGhhbigxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICBsZXNzVGhhblRlbjogbGVzc1RoYW4oMTApCiAgICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICAgIG1hcFByb3BzPXttYXBQcm9wc30KICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9Cb3g+CiAgICAgICAgICAgICAgICAgICAgPEJveCBmbGV4PSIxIiBkYXRhLXFhPSJuYW1lLWVycm9yLW1lc3NhZ2VzIj4KICAgICAgICAgICAgICAgICAgICAgIDxFcnJvck1lc3NhZ2VzCiAgICAgICAgICAgICAgICAgICAgICAgIGludGw9e2ludGx9CiAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJtb2xtZXJTb3JlbnNlbkRyaXZlLmN1c3RvbS5udW1iZXJPZklvbnMiCiAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsPSIubnVtYmVyT2ZJb25zIgogICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0b3JzPXtbImdyZWF0ZXJUaGFuT25lIiwgImxlc3NUaGFuVGVuIl19CiAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgIDwvQm94PgogICAgICAgICAgICAgICAgICA8L0ZsZXg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBldmFsdWF0aW9uVHlwZSwK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8Qm94IHc9ezEgLyAzfSBteD17MX0+CiAgICAgICAgICAgICAgICAgIDxGbGV4IGZsZXhXcmFwPSJ3cmFwIj4KICAgICAgICAgICAgICAgICAgICA8Qm94IHc9ezF9PgogICAgICAgICAgICAgICAgICAgICAgPExhYmVsIG1iPXsxfT4KICAgICAgICAgICAgICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9Im1vbG1lclNvcmVuc2VuRHJpdmUuY3VzdG9tLmF0b21pY01hc3MubGFiZWwiIC8+CiAgICAgICAgICAgICAgICAgICAgICA8L0xhYmVsPgogICAgICAgICAgICAgICAgICAgIDwvQm94PgogICAgICAgICAgICAgICAgICAgIDxCb3ggdz17MX0+CiAgICAgICAgICAgICAgICAgICAgICA8TnVtYmVySW5wdXQKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJxYS1hdG9taWNNYXNzIgogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbD0iLmF0b21pY01hc3MiCiAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJhdG9taWNNYXNzIgogICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0b3JzPXt7IHJlcXVpcmVkIH19CiAgICAgICAgICAgICAgICAgICAgICAgIG1hcFByb3BzPXttYXBQcm9wc30KICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9Cb3g+CiAgICAgICAgICAgICAgICAgICAgPEJveCBmbGV4PSIxIiBkYXRhLXFhPSJhdG9taWNNYXNzLWVycm9yLW1lc3NhZ2VzIj4KICAgICAgICAgICAgICAgICAgICAgIDxFcnJvck1lc3NhZ2VzCiAgICAgICAgICAgICAgICAgICAgICAgIGludGw9e2ludGx9CiAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJtb2xtZXJTb3JlbnNlbkRyaXZlLmN1c3RvbS5hdG9taWNNYXNzIgogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbD0iLm5hbWUiCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbGlkYXRvcnM9e1sicmVxdWlyZWQiXX0KICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9Cb3g+CiAgICAgICAgICAgICAgICAgIDwvRmxleD4KICAgICAgICAgICAgICAgIDwvQm94Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Detuning</last-search>
+      <last-search>phase</last-search>
       <last-offset />
-      <last-pattern>Detuning</last-pattern>
+      <last-pattern>phase</last-pattern>
       <last-replace>parametricDrive</last-replace>
       <last-substitute>parametricDive</last-substitute>
       <last-dir>1</last-dir>
@@ -1716,9 +1712,6 @@
     </search>
     <history>
       <history-search>
-        <entry>can</entry>
-        <entry>canAccess</entry>
-        <entry>eval</entry>
         <entry>permissions</entry>
         <entry>Button</entry>
         <entry>index</entry>
@@ -1736,6 +1729,9 @@
         <entry>console</entry>
         <entry>detuning</entry>
         <entry>Detuning</entry>
+        <entry>Terms</entry>
+        <entry>acceptTerms</entry>
+        <entry>phase</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -1756,8 +1752,8 @@
         <entry>%s/parametricDive/parametricDrive/g</entry>
         <entry>Lw</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>red</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
