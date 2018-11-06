@@ -66,6 +66,9 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/functions/db/migrations/resetParametricDriveControls.function.js" timestamp="1541459372030">
+        <mark key="'" line="47" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/test/validateAcademicEmailAddress.js" timestamp="1540178756837">
         <mark key="'" line="20" column="35" />
         <mark key="[" line="22" column="29" />
@@ -575,12 +578,21 @@
         <mark key="." line="73" column="16" />
         <mark key="^" line="73" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/containers/App/index.js" timestamp="1540782612201">
+        <mark key="'" line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/storage/onFinalize.function.js" timestamp="1538451614572">
         <mark key="'" line="93" column="5" />
         <mark key="[" line="180" column="0" />
         <mark key="]" line="180" column="20" />
         <mark key="." line="166" column="0" />
         <mark key="^" line="203" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/node_modules/antd/lib/checkbox/Checkbox.d.ts" timestamp="1540786319952">
+        <mark key="'" line="26" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/CustomPulse/index.js" timestamp="1541394279179">
+        <mark key="'" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Controls/Control/Loading/index.js" timestamp="1538096449127">
         <mark key="'" line="48" column="0" />
@@ -602,6 +614,9 @@
         <mark key="]" line="56" column="32" />
         <mark key="." line="56" column="27" />
         <mark key="^" line="56" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/package.json" timestamp="1541479851209">
+        <mark key="'" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ParametricDrive/Drive/Chart/index.js" timestamp="1541379534805">
         <mark key="'" line="28" column="26" />
@@ -833,6 +848,9 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/functions/utils/router.js" timestamp="1541459359626">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/__tests__/OneQubit/Evaluation.test.js" timestamp="1535596286093">
         <mark key="'" line="44" column="17" />
         <mark key="[" line="65" column="8" />
@@ -1043,6 +1061,9 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/functions/utils/dbHelper.js" timestamp="1540780539252">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Login/index.js" timestamp="1541118330139">
         <mark key="'" line="55" column="17" />
         <mark key="[" line="12" column="33" />
@@ -1063,6 +1084,9 @@
         <mark key="]" line="17" column="16" />
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Nav/Link/index.js" timestamp="1541030965269">
+        <mark key="'" line="108" column="2" />
       </file>
       <file name="$USER_HOME$/Code/firebase/scripts/db/parametricDrive/iSWAP/pulses.json" timestamp="1540790493420">
         <mark key="'" line="24266" column="0" />
@@ -1112,6 +1136,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/actions/UserOnboarding/index.js" timestamp="1541030121606">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Product/index.js" timestamp="1537245513833">
         <mark key="'" line="11" column="6" />
@@ -1203,6 +1230,9 @@
         <mark key="]" line="6" column="64" />
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="64" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Grid/Flex/index.js" timestamp="1541479904122">
+        <mark key="'" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/OneQubit/Attributes/index.js" timestamp="1540342445753">
         <mark key="'" line="33" column="16" />
@@ -1323,6 +1353,9 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Typography/Header/index.js" timestamp="1541117288870">
+        <mark key="'" line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/mSorensen/gate/controls/control/onCreate.function.js" timestamp="1541475331659">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="86" column="6" />
@@ -1336,6 +1369,9 @@
         <mark key="]" line="17" column="8" />
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/WeightedComparisonOptions/index.js" timestamp="1540772860726">
+        <mark key="'" line="69" column="1" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/utils/plot.js" timestamp="1538010888478">
         <mark key="'" line="128" column="0" />
@@ -1367,9 +1403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
-      <jump line="5" column="3" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetMolmerSorensenGate.function.js" />
-      <jump line="42" column="11" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetMolmerSorensenGate.function.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetMolmerSorensenGate.function.js" />
       <jump line="2" column="60" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetMolmerSorensenGate.function.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/firebase/functions/db/migrations/resetMolmerSorensenGate.function.js" />
@@ -1467,6 +1500,9 @@
       <jump line="80" column="0" filename="$USER_HOME$/Code/frontend/src/theme/index.js" />
       <jump line="77" column="0" filename="$USER_HOME$/Code/frontend/src/theme/index.js" />
       <jump line="54" column="9" filename="$USER_HOME$/Code/frontend/src/theme/index.js" />
+      <jump line="13" column="22" filename="$USER_HOME$/Code/frontend/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Grid/Flex/index.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/Code/frontend/src/components/modules/Grid/Flex/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1476,7 +1512,7 @@
         <text>numberOfIons</text>
       </register>
       <register name="/" type="4">
-        <text>GREY_03</text>
+        <text>overflow</text>
       </register>
       <register name="0" type="4">
         <text>molmerSorensenDrive.custom.numberOfIons.label</text>
@@ -1513,9 +1549,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GREY_03</last-search>
+      <last-search>overflow</last-search>
       <last-offset />
-      <last-pattern>GREY_03</last-pattern>
+      <last-pattern>overflow</last-pattern>
       <last-replace>laserWavevector</last-replace>
       <last-substitute>laserWaveVector</last-substitute>
       <last-dir>1</last-dir>
@@ -1523,8 +1559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>addressed</entry>
         <entry>remove</entry>
         <entry>updatedAt</entry>
         <entry>prevIons</entry>
@@ -1543,6 +1577,8 @@
         <entry>CUTOM</entry>
         <entry>CUSTOM</entry>
         <entry>GREY_03</entry>
+        <entry>grid-styled</entry>
+        <entry>overflow</entry>
       </history-search>
       <history-cmd>
         <entry>Red</entry>
