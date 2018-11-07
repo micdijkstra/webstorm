@@ -146,13 +146,6 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541545809142">
-        <mark key="'" line="1125" column="31" />
-        <mark key="[" line="1310" column="32" />
-        <mark key="]" line="1310" column="51" />
-        <mark key="^" line="1260" column="24" />
-        <mark key="." line="678" column="57" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1541379524343">
         <mark key="'" line="58" column="8" />
         <mark key="[" line="58" column="29" />
@@ -445,13 +438,6 @@
         <mark key="]" line="12" column="33" />
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541545600128">
-        <mark key="'" line="671" column="5" />
-        <mark key="[" line="698" column="31" />
-        <mark key="]" line="698" column="31" />
-        <mark key="^" line="698" column="31" />
-        <mark key="." line="698" column="31" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/StripeCard/Form/index.js" timestamp="1537311227776">
         <mark key="'" line="0" column="41" />
@@ -1072,13 +1058,6 @@
         <mark key="]" line="52" column="26" />
         <mark key="." line="52" column="26" />
         <mark key="^" line="52" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/TwoQubit/Attributes/index.js" timestamp="1541545893487">
-        <mark key="'" line="6" column="7" />
-        <mark key="[" line="98" column="48" />
-        <mark key="]" line="99" column="3" />
-        <mark key="^" line="99" column="3" />
-        <mark key="." line="99" column="3" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/Controls/index.js" timestamp="1536296569345">
         <mark key="'" line="0" column="0" />
