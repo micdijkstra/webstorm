@@ -441,10 +441,10 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541631611150">
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541634508579">
         <mark key="'" line="674" column="4" />
-        <mark key="[" line="685" column="8" />
-        <mark key="]" line="685" column="23" />
+        <mark key="[" line="464" column="21" />
+        <mark key="]" line="464" column="42" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/StripeCard/Form/index.js" timestamp="1537311227776">
         <mark key="'" line="0" column="41" />
@@ -1572,8 +1572,8 @@
       <jump line="65" column="5" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeCA9IDsKICAgICAgY29uc3QgeSA9IDsK</text>
+      <register name="&quot;" type="4">
+        <text>phase_modulation_green</text>
       </register>
       <register name="-" type="4">
         <text>coordinates.xCoordinates</text>
