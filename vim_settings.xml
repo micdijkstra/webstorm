@@ -1526,43 +1526,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgX3BpY2soZXZhbHVhdGlvbiwgWyJkdXJhdGlvbiIsICJtYXhpbXVtUGhhc29yTW9kdWx1cyJdKSwK</text>
+        <text encoding="base64">ICAgIDxCb3ggdz17MX0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text encoding="base64">LCBCb3gg</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChpdGVtLm1heGltdW1QaGFzb3JNb2R1bHVzKSB7CiAgICAgIHVwZGF0ZWRJdGVtLm1heGltdW1QaGFzb3JNb2R1bHVzID0gbWF0aC5ldmFsKAogICAgICAgIGl0ZW0ubWF4aW11bVBoYXNvck1vZHVsdXMKICAgICAgKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIDxCb3ggdz17WzEsIDEsIDEvMl19Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgX3BpY2soZXZhbHVhdGlvbiwgWyJkdXJhdGlvbiIsICJtYXhpbXVtUGhhc29yTW9kdWx1cyJdKSwK</text>
+        <text encoding="base64">ICAgIDxCb3ggdz17MX0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdXJhdGlvbiwK</text>
+        <text encoding="base64">ICA8L0ZsZXg+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGR1cmF0aW9uID0gbWF0aC5ldmFsKGV2YWx1YXRpb24uZHVyYXRpb24pOwo=</text>
+        <text encoding="base64">ICA8RmxleCBwPXsxfT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8RmxleCBwPXsxfT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXRlbS4K</text>
+        <text encoding="base64">ICAgIDwvQm94Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxCb3ggdz17MX0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgX3BpY2soZXZhbHVhdGlvbiwgWyJkdXJhdGlvbiIsICJtYXhpbXVtUGhhc29yTW9kdWx1cyJdKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhpbXVtUGhvbm9uTnVtYmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBkdXJhdGlvbiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxhc2VyRGV0dW5pbmcgPSBtYXRoLmV2YWwoaXRlbS5sYXNlckRldHVuaW5nKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGR1cmF0aW9uID0gbWF0aC5ldmFsKGV2YWx1YXRpb24uZHVyYXRpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
