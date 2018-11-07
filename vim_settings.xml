@@ -316,6 +316,9 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" timestamp="1541567749539">
+        <mark key="'" line="60" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" timestamp="1540953201504">
         <mark key="'" line="125" column="0" />
         <mark key="[" line="199" column="0" />
@@ -660,12 +663,12 @@
         <mark key="." line="31" column="41" />
         <mark key="^" line="31" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/TwoQubit/Drive/Visualization/index.js" timestamp="1541567110575">
+      <file name="$USER_HOME$/Code/frontend/src/containers/TwoQubit/Drive/Visualization/index.js" timestamp="1541568455261">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="14" column="11" />
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="53" />
+        <mark key="^" line="25" column="53" />
+        <mark key="." line="25" column="53" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Account/UserProfile/index.js" timestamp="1541034441528">
         <mark key="'" line="29" column="9" />
@@ -749,12 +752,12 @@
         <mark key="^" line="58" column="22" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/PlayBar/index.js" timestamp="1541553743494">
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/PlayBar/index.js" timestamp="1541567760269">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="16" column="5" />
-        <mark key="^" line="16" column="5" />
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/migrations/updateCharacterizationBands.function.js" timestamp="1541563117447">
         <mark key="'" line="32" column="54" />
@@ -1092,12 +1095,11 @@
       <file name="$USER_HOME$/Code/firebase/functions/utils/dbHelper.js" timestamp="1540780539252">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/Visualize/TwoQubit/index.js" timestamp="1541565289662">
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/Visualize/TwoQubit/index.js" timestamp="1541568448195">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="15" column="32" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/JoinOrganisation/Login/index.js" timestamp="1541118330139">
         <mark key="'" line="55" column="17" />
@@ -1442,11 +1444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="48" column="4" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="56" column="4" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="70" column="62" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
-      <jump line="79" column="62" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
       <jump line="92" column="4" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
       <jump line="68" column="4" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
       <jump line="432" column="4" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
@@ -1542,55 +1539,60 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/frontend/src/containers/TwoQubit/Drive/Visualization/index.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/frontend/src/containers/TwoQubit/Drive/Visualization/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/containers/TwoQubit/Drive/Visualization/index.js" />
+      <jump line="62" column="6" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="97" column="2" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="112" column="2" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
+      <jump line="60" column="18" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Slider/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIiLCBsYWJlbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">MTAwMCA=</text>
       </register>
       <register name="/" type="4">
-        <text>isPlaying</text>
+        <text>step</text>
       </register>
       <register name="0" type="4">
         <text>isPlaying</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIiLCBsYWJlbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2dyZXNzLAo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2dyZXNzLAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17eyBsaW5lSGVpZ2h0OiAwIH19Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJvZ3Jlc3MsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIiLCBsYWJlbHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb2dyZXNzPXtwcm9ncmVzc30K</text>
+        <text encoding="base64">ICAgIHByb2dyZXNzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxheW91dD17eyBhbmltYXRpb246IHsgZnBzOiAzMCB9IH19Cg==</text>
+        <text encoding="base64">ICAgIHByb2dyZXNzLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvZ3Jlc3MsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpc1BsYXlpbmc9e2lzUGxheWluZ30K</text>
+        <text encoding="base64">ICAgICAgICAgIHByb2dyZXNzPXtwcm9ncmVzc30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxheW91dD17eyBhbmltYXRpb246IHsgZnBzOiAzMCB9IH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isPlaying</last-search>
+      <last-search>step</last-search>
       <last-offset />
-      <last-pattern>isPlaying</last-pattern>
+      <last-pattern>step</last-pattern>
       <last-replace>laserWavevector</last-replace>
       <last-substitute>laserWaveVector</last-substitute>
       <last-dir>1</last-dir>
@@ -1598,8 +1600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>We are preparing to</entry>
-        <entry>maximumModulus</entry>
         <entry>Phasor</entry>
         <entry>math</entry>
         <entry>Play</entry>
@@ -1618,6 +1618,8 @@
         <entry>bands</entry>
         <entry>data</entry>
         <entry>isPlaying</entry>
+        <entry>steps</entry>
+        <entry>step</entry>
       </history-search>
       <history-cmd>
         <entry>Red</entry>
