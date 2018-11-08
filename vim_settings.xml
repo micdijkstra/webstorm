@@ -1061,12 +1061,11 @@
         <mark key="^" line="207" column="19" />
         <mark key="." line="207" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" timestamp="1541656574294">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="52" column="24" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" timestamp="1541714376940">
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="59" column="45" />
+        <mark key="^" line="58" column="48" />
+        <mark key="." line="59" column="45" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/reducers/Evaluation/Controls/index.js" timestamp="1536296569345">
         <mark key="'" line="0" column="0" />
@@ -1556,11 +1555,11 @@
       <jump line="1152" column="14" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFJlbW92ZSBpbmRleAo=</text>
+      <register name="&quot;" type="4">
+        <text>[0]</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw8</text>
@@ -1569,34 +1568,34 @@
         <text>parametriDdrive</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFJlbW92ZSBpbmRleAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBtYXJrZXJzIGF0IGxhc3QgcG9pbnQ/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSZW1vdmUgaW5kZXgK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFJlbW92ZSBpbmRleAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSBmcm9tICIuLi8uLi8uLi9tb2R1bGVzL0Zvcm0iOwppbXBvcnQgeyBtYXBQcm9wcywgcmVxdWlyZWQgfSBmcm9tICIuLi8uLi8uLi8uLi91dGlscy9mb3JtIjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBSZW1vdmUgaW5kZXgK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBCdXR0b24sIHsKICBCdXR0b25Hcm91cCwKICBUb29sVGlwcGVkQnV0dG9uCn0gZnJvbSAiLi4vLi4vLi4vbW9kdWxlcy9CdXR0b24vaW5kZXgiOwppbXBvcnQgQ2hhcnQgZnJvbSAiLi4vRHJpdmUvQ2hhcnQvaW5kZXgiOwppbXBvcnQgUHVsc2UgZnJvbSAiLi4vLi4vUHVsc2VzL1B1bHNlL2luZGV4IjsKaW1wb3J0IHsgRmxleCwgQm94IH0gZnJvbSAiLi4vLi4vLi4vbW9kdWxlcy9HcmlkL2luZGV4IjsKaW1wb3J0IHsgQm9keSwgRGl2aWRlciwgSGVhZGVyIH0gZnJvbSAiLi4vLi4vLi4vbW9kdWxlcy9UeXBvZ3JhcGh5L2luZGV4IjsKPT09PT09PQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">fSBmcm9tICIuLi8uLi8uLi9tb2R1bGVzL0Zvcm0iOwppbXBvcnQgeyBtYXBQcm9wcywgcmVxdWlyZWQgfSBmcm9tICIuLi8uLi8uLi8uLi91dGlscy9mb3JtIjsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBSZW1vdmUgaW5kZXgK</text>
+      </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1650,8 +1649,8 @@
         <entry>q!</entry>
         <entry>q</entry>
         <entry>red</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
