@@ -1247,12 +1247,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" timestamp="1541722486197">
-        <mark key="'" line="11" column="7" />
+      <file name="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" timestamp="1541742244055">
+        <mark key="'" line="7" column="12" />
         <mark key="[" line="4033" column="7" />
-        <mark key="]" line="4033" column="26" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
+        <mark key="]" line="4033" column="22" />
+        <mark key="." line="4033" column="7" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/EmailVerification/index.js" timestamp="1541129267636">
         <mark key="'" line="57" column="22" />
@@ -1492,12 +1492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="5" filename="$USER_HOME$/Code/frontend/src/utils/control.js" />
-      <jump line="193" column="3" filename="$USER_HOME$/Code/frontend/src/theme/index.js" />
-      <jump line="196" column="32" filename="$USER_HOME$/Code/frontend/src/theme/index.js" />
-      <jump line="67" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="71" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="79" column="10" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
       <jump line="859" column="28" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="39" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
       <jump line="33" column="37" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
@@ -1592,19 +1586,25 @@
       <jump line="157" column="22" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="205" column="24" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
+      <jump line="11" column="7" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
+      <jump line="4033" column="21" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
+      <jump line="4" column="5" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
+      <jump line="5" column="5" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
+      <jump line="3" column="5" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
+      <jump line="7" column="12" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ONE_QUBIT</text>
+        <text>maximumPhasorModulus</text>
       </register>
       <register name="-" type="4">
-        <text>ONE_QUBIT</text>
+        <text>maximumPhasorModulus</text>
       </register>
       <register name="/" type="4">
-        <text>ONE</text>
+        <text>detuning</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoZXZhbHVhdGlvblR5cGUgPT09IEVWQUxVQVRJT05fVFlQRVMuT05FX1FVQklUKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>maximumRabiRate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgICBjb25zb2xlLmxvZyh7aXRlbX0pCg==</text>
@@ -1638,9 +1638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ONE</last-search>
+      <last-search>detuning</last-search>
       <last-offset />
-      <last-pattern>ONE</last-pattern>
+      <last-pattern>detuning</last-pattern>
       <last-replace>maximumPhasorModulus</last-replace>
       <last-substitute>maximumRabiRate</last-substitute>
       <last-dir>1</last-dir>
@@ -1648,8 +1648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Controls</entry>
-        <entry>molmerSorensen.type</entry>
         <entry>mode</entry>
         <entry>intl</entry>
         <entry>format</entry>
@@ -1668,6 +1666,8 @@
         <entry>metrics</entry>
         <entry>CUSTOM</entry>
         <entry>ONE</entry>
+        <entry>maximumPhasor</entry>
+        <entry>detuning</entry>
       </history-search>
       <history-cmd>
         <entry>%s</entry>
@@ -1682,13 +1682,13 @@
         <entry>Red</entry>
         <entry>&quot;w</entry>
         <entry>q!</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>%s/maximumRabiRate/maximumPhasorModulus/g</entry>
         <entry>red</entry>
         <entry encoding="base64">JzwsJz40NQ==</entry>
         <entry>45</entry>
         <entry>W</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
