@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" timestamp="1541730336403">
+      <file name="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" timestamp="1541741159818">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="539" column="0" />
-        <mark key="]" line="539" column="0" />
-        <mark key="^" line="67" column="2" />
-        <mark key="." line="539" column="0" />
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="88" />
+        <mark key="^" line="10" column="88" />
+        <mark key="." line="10" column="88" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ParametricDrive/Attributes/index.js" timestamp="1541042404098">
         <mark key="'" line="84" column="40" />
@@ -64,12 +64,6 @@
         <mark key="]" line="11" column="33" />
         <mark key="^" line="45" column="39" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Signup/index.js" timestamp="1541715268237">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="54" />
-        <mark key="^" line="23" column="54" />
       </file>
       <file name="$USER_HOME$/Code/firebase/functions/utils/constants.js" timestamp="1541724173988">
         <mark key="'" line="140" column="5" />
@@ -421,11 +415,11 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" timestamp="1541740011802">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="48" />
-        <mark key="^" line="19" column="49" />
-        <mark key="." line="19" column="48" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" timestamp="1541741049149">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulses/index.js" timestamp="1538097689465">
         <mark key="'" line="13" column="39" />
@@ -1498,11 +1492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="2" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/index.js" />
-      <jump line="22" column="9" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/index.js" />
-      <jump line="151" column="47" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="57" column="5" filename="$USER_HOME$/Code/frontend/src/utils/control.js" />
       <jump line="193" column="3" filename="$USER_HOME$/Code/frontend/src/theme/index.js" />
       <jump line="196" column="32" filename="$USER_HOME$/Code/frontend/src/theme/index.js" />
@@ -1589,7 +1578,6 @@
       <jump line="72" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
       <jump line="19" column="31" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
       <jump line="23" column="30" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
@@ -1598,55 +1586,61 @@
       <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
       <jump line="46" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
       <jump line="55" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
+      <jump line="12" column="9" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
+      <jump line="18" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
+      <jump line="29" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/PerformanceMetrics/index.js" />
+      <jump line="157" column="22" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
+      <jump line="205" column="24" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/actions/Evaluation/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ONE_QUBIT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ONE_QUBIT</text>
       </register>
       <register name="/" type="4">
-        <text>key</text>
+        <text>ONE</text>
       </register>
-      <register name="0" type="4">
-        <text>performanceMetric</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpZiAoZXZhbHVhdGlvblR5cGUgPT09IEVWQUxVQVRJT05fVFlQRVMuT05FX1FVQklUKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">CiAgICAgICAgICBjb25zb2xlLmxvZyh7aXRlbX0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB7CiAgICAgICAgICAgIGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICBiZW5jaG1hcmssCiAgICAgICAgICAgIGNvbG9ycywKICAgICAgICAgICAgY29udHJvbEVycm9yLAogICAgICAgICAgICB0aXRsZSwKICAgICAgICAgICAgcHJldHR5QXZlcmFnZUluZmlkZWxpdHksCiAgICAgICAgICAgIHByZXR0eUNvbnRyb2xFcnJvcgogICAgICAgICAgfSA9IGl0ZW07CgogICAgICAgICAgbWV0cmljcy5wdXNoKHsKICAgICAgICAgICAgdGl0bGU6IHRpdGxlLAogICAgICAgICAgICBjb2xvcjogY29sb3JzWzBdLAogICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWU6IGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICAgICAgZGlzcGxheVZhbHVlOiBwcmV0dHlBdmVyYWdlSW5maWRlbGl0eQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWU6IGNvbnRyb2xFcnJvciwKICAgICAgICAgICAgICAgIGRpc3BsYXlWYWx1ZTogcHJldHR5Q29udHJvbEVycm9yCiAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgICB9KTsKCiAgICAgICAgICBpZiAoYmVuY2htYXJrKSB7CiAgICAgICAgICAgIGxldCB7CiAgICAgICAgICAgICAgYXZlcmFnZUluZmlkZWxpdHksCiAgICAgICAgICAgICAgY29sb3JzLAogICAgICAgICAgICAgIGNvbnRyb2xFcnJvciwKICAgICAgICAgICAgICBwcmV0dHlBdmVyYWdlSW5maWRlbGl0eSwKICAgICAgICAgICAgICBwcmV0dHlDb250cm9sRXJyb3IKICAgICAgICAgICAgfSA9IGJlbmNobWFyazsKCiAgICAgICAgICAgIG1ldHJpY3MucHVzaCh7CiAgICAgICAgICAgICAgdGl0bGU6IGludGwuZm9ybWF0TWVzc2FnZSh7IGlkOiBgcGVyZm9ybWFuY2VNZXRyaWMuYmVuY2htYXJrYCB9KSwKICAgICAgICAgICAgICBjb2xvcjogY29sb3JzWzBdLAogICAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgdmFsdWU6IGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICAgICAgICBkaXNwbGF5VmFsdWU6IHByZXR0eUF2ZXJhZ2VJbmZpZGVsaXR5CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICB2YWx1ZTogY29udHJvbEVycm9yLAogICAgICAgICAgICAgICAgICBkaXNwbGF5VmFsdWU6IHByZXR0eUNvbnRyb2xFcnJvcgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGl0ZW0gPSBzb3VyY2Vba2V5XTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3Qua2V5cyhzb3VyY2UpLm1hcChrZXkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB7CiAgICAgICAgICAgIGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICBiZW5jaG1hcmssCiAgICAgICAgICAgIGNvbG9ycywKICAgICAgICAgICAgY29udHJvbEVycm9yLAogICAgICAgICAgICB0aXRsZSwKICAgICAgICAgICAgcHJldHR5QXZlcmFnZUluZmlkZWxpdHksCiAgICAgICAgICAgIHByZXR0eUNvbnRyb2xFcnJvcgogICAgICAgICAgfSA9IGl0ZW07CgogICAgICAgICAgbWV0cmljcy5wdXNoKHsKICAgICAgICAgICAgdGl0bGU6IHRpdGxlLAogICAgICAgICAgICBjb2xvcjogY29sb3JzWzBdLAogICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWU6IGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICAgICAgZGlzcGxheVZhbHVlOiBwcmV0dHlBdmVyYWdlSW5maWRlbGl0eQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWU6IGNvbnRyb2xFcnJvciwKICAgICAgICAgICAgICAgIGRpc3BsYXlWYWx1ZTogcHJldHR5Q29udHJvbEVycm9yCiAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgICB9KTsKCiAgICAgICAgICBpZiAoYmVuY2htYXJrKSB7CiAgICAgICAgICAgIGxldCB7CiAgICAgICAgICAgICAgYXZlcmFnZUluZmlkZWxpdHksCiAgICAgICAgICAgICAgY29sb3JzLAogICAgICAgICAgICAgIGNvbnRyb2xFcnJvciwKICAgICAgICAgICAgICBwcmV0dHlBdmVyYWdlSW5maWRlbGl0eSwKICAgICAgICAgICAgICBwcmV0dHlDb250cm9sRXJyb3IKICAgICAgICAgICAgfSA9IGJlbmNobWFyazsKCiAgICAgICAgICAgIG1ldHJpY3MucHVzaCh7CiAgICAgICAgICAgICAgdGl0bGU6IGludGwuZm9ybWF0TWVzc2FnZSh7IGlkOiBgcGVyZm9ybWFuY2VNZXRyaWMuYmVuY2htYXJrYCB9KSwKICAgICAgICAgICAgICBjb2xvcjogY29sb3JzWzBdLAogICAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgdmFsdWU6IGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICAgICAgICBkaXNwbGF5VmFsdWU6IHByZXR0eUF2ZXJhZ2VJbmZpZGVsaXR5CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICB2YWx1ZTogY29udHJvbEVycm9yLAogICAgICAgICAgICAgICAgICBkaXNwbGF5VmFsdWU6IHByZXR0eUNvbnRyb2xFcnJvcgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICByZXR1cm4gbWV0cmljczsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGl0ZW0gPSBzb3VyY2Vba2V5XTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1ldHJpY3MgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3Qua2V5cyhzb3VyY2UpLm1hcChrZXkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhCg==</text>
+        <text encoding="base64">CiAgICAgICAgICByZXR1cm4gbWV0cmljczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWV0cmljcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1ldHJpY3MgPSBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>key</last-search>
+      <last-search>ONE</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
+      <last-pattern>ONE</last-pattern>
       <last-replace>maximumPhasorModulus</last-replace>
       <last-substitute>maximumRabiRate</last-substitute>
       <last-dir>1</last-dir>
@@ -1654,9 +1648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>canAccess</entry>
-        <entry>graphColors</entry>
-        <entry>color</entry>
         <entry>Controls</entry>
         <entry>molmerSorensen.type</entry>
         <entry>mode</entry>
@@ -1672,8 +1663,11 @@
         <entry>benchmark</entry>
         <entry>PerformanceMetric</entry>
         <entry>performanceMetric</entry>
-        <entry>data</entry>
         <entry>key</entry>
+        <entry>data</entry>
+        <entry>metrics</entry>
+        <entry>CUSTOM</entry>
+        <entry>ONE</entry>
       </history-search>
       <history-cmd>
         <entry>%s</entry>
