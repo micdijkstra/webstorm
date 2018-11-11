@@ -44,12 +44,11 @@
         <mark key="]" line="67" column="57" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" timestamp="1541738643535">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="82" column="71" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" timestamp="1541976053432">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Control/Warning/index.js" timestamp="1536199813467">
         <mark key="'" line="3" column="53" />
@@ -159,12 +158,12 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541739138556">
-        <mark key="'" line="910" column="0" />
-        <mark key="[" line="973" column="5" />
-        <mark key="]" line="973" column="22" />
-        <mark key="." line="973" column="5" />
-        <mark key="^" line="973" column="4" />
+      <file name="$USER_HOME$/Code/frontend/src/locales/data.json" timestamp="1541976334016">
+        <mark key="'" line="1182" column="0" />
+        <mark key="[" line="1202" column="49" />
+        <mark key="]" line="1202" column="61" />
+        <mark key="." line="1202" column="61" />
+        <mark key="^" line="1202" column="61" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/ParametricDrive/Drive/index.js" timestamp="1541648957640">
         <mark key="'" line="46" column="0" />
@@ -421,6 +420,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/firebase/database.rules.json" timestamp="1541975661469">
+        <mark key="[" line="101" column="38" />
+        <mark key="]" line="101" column="38" />
+        <mark key="." line="101" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/OneQubit/Pulses/index.js" timestamp="1538097689465">
         <mark key="'" line="13" column="39" />
         <mark key="[" line="35" column="0" />
@@ -456,12 +460,10 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541733521157">
-        <mark key="'" line="423" column="11" />
-        <mark key="[" line="420" column="12" />
-        <mark key="]" line="420" column="26" />
-        <mark key="." line="420" column="26" />
-        <mark key="^" line="420" column="26" />
+      <file name="$USER_HOME$/Code/frontend/src/constants/index.js" timestamp="1541976780644">
+        <mark key="[" line="394" column="0" />
+        <mark key="]" line="394" column="0" />
+        <mark key="." line="394" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/containers/StripeCard/Form/index.js" timestamp="1537311227776">
         <mark key="'" line="0" column="41" />
@@ -1492,34 +1494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="859" column="28" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="39" column="19" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="33" column="37" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="97" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="12" column="24" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="34" column="34" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="2" column="52" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomPulse/index.js" />
-      <jump line="27" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/CustomPulse/index.js" />
-      <jump line="58" column="32" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/index.js" />
-      <jump line="98" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="1347" column="23" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1275" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1274" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1270" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="1342" column="5" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="43" column="32" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Plot/index.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Preview/index.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Preview/index.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Preview/index.js" />
-      <jump line="29" column="25" filename="$USER_HOME$/Code/frontend/src/utils/control.js" />
-      <jump line="30" column="44" filename="$USER_HOME$/Code/frontend/src/utils/control.js" />
       <jump line="78" column="59" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
       <jump line="113" column="45" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
@@ -1543,11 +1517,6 @@
       <jump line="918" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="909" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
       <jump line="900" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="70" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
       <jump line="55" column="23" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
       <jump line="69" column="0" filename="$USER_HOME$/Code/frontend/src/selectors/Evaluation/index.js" />
@@ -1592,55 +1561,88 @@
       <jump line="5" column="5" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
       <jump line="3" column="5" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
       <jump line="7" column="12" filename="$USER_HOME$/Code/firebase/functions/data/molmerSorensenGate.json" />
+      <jump line="416" column="38" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="371" column="21" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="54" column="22" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="54" column="13" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="391" column="2" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="351" column="4" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="385" column="27" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="359" column="4" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="364" column="4" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="380" column="27" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
+      <jump line="158" column="36" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/FilterFunctions/Plot/index.js" />
+      <jump line="973" column="21" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1127" column="29" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1129" column="11" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1164" column="47" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
+      <jump line="1182" column="0" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>maximumPhasorModulus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBNZXJnZSBmaXgK</text>
       </register>
       <register name="-" type="4">
-        <text>maximumPhasorModulus</text>
+        <text>\Omega_{max}</text>
       </register>
       <register name="/" type="4">
-        <text>detuning</text>
+        <text encoding="base64">PDw8PA==</text>
       </register>
-      <register name="0" type="4">
-        <text>maximumRabiRate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBxdWJpdDFfZGVwaGFzaW5nOiB7CiAgICBbTk9JU0VfVFlQRVMucXViaXQxX2RlcGhhc2luZy5BTkFMWVRJQ0FMXTogImxvZyIsCiAgICBbTk9JU0VfVFlQRVMucXViaXQxX2RlcGhhc2luZy5TQU1QTEVEXTogImxpbmVhciIsCiAgICBbTk9JU0VfVFlQRVMucXViaXQxX2RlcGhhc2luZy5SRUNPTlNUUlVDVEVEXTogImxpbmVhciIKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICBjb25zb2xlLmxvZyh7aXRlbX0pCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBNZXJnZSBmaXgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTaG93IG5vaXNlcywgZmlsdGVyIGZ1bmN0aW9ucywgcGVyZm9ybWFuY2UgbWV0cmljcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB7CiAgICAgICAgICAgIGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICBiZW5jaG1hcmssCiAgICAgICAgICAgIGNvbG9ycywKICAgICAgICAgICAgY29udHJvbEVycm9yLAogICAgICAgICAgICB0aXRsZSwKICAgICAgICAgICAgcHJldHR5QXZlcmFnZUluZmlkZWxpdHksCiAgICAgICAgICAgIHByZXR0eUNvbnRyb2xFcnJvcgogICAgICAgICAgfSA9IGl0ZW07CgogICAgICAgICAgbWV0cmljcy5wdXNoKHsKICAgICAgICAgICAgdGl0bGU6IHRpdGxlLAogICAgICAgICAgICBjb2xvcjogY29sb3JzWzBdLAogICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWU6IGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICAgICAgZGlzcGxheVZhbHVlOiBwcmV0dHlBdmVyYWdlSW5maWRlbGl0eQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWU6IGNvbnRyb2xFcnJvciwKICAgICAgICAgICAgICAgIGRpc3BsYXlWYWx1ZTogcHJldHR5Q29udHJvbEVycm9yCiAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgICB9KTsKCiAgICAgICAgICBpZiAoYmVuY2htYXJrKSB7CiAgICAgICAgICAgIGxldCB7CiAgICAgICAgICAgICAgYXZlcmFnZUluZmlkZWxpdHksCiAgICAgICAgICAgICAgY29sb3JzLAogICAgICAgICAgICAgIGNvbnRyb2xFcnJvciwKICAgICAgICAgICAgICBwcmV0dHlBdmVyYWdlSW5maWRlbGl0eSwKICAgICAgICAgICAgICBwcmV0dHlDb250cm9sRXJyb3IKICAgICAgICAgICAgfSA9IGJlbmNobWFyazsKCiAgICAgICAgICAgIG1ldHJpY3MucHVzaCh7CiAgICAgICAgICAgICAgdGl0bGU6IGludGwuZm9ybWF0TWVzc2FnZSh7IGlkOiBgcGVyZm9ybWFuY2VNZXRyaWMuYmVuY2htYXJrYCB9KSwKICAgICAgICAgICAgICBjb2xvcjogY29sb3JzWzBdLAogICAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgdmFsdWU6IGF2ZXJhZ2VJbmZpZGVsaXR5LAogICAgICAgICAgICAgICAgICBkaXNwbGF5VmFsdWU6IHByZXR0eUF2ZXJhZ2VJbmZpZGVsaXR5CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICB2YWx1ZTogY29udHJvbEVycm9yLAogICAgICAgICAgICAgICAgICBkaXNwbGF5VmFsdWU6IHByZXR0eUNvbnRyb2xFcnJvcgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGl0ZW0gPSBzb3VyY2Vba2V5XTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgc291cmNlLCBub2lzZSB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3Qua2V5cyhzb3VyY2UpLm1hcChrZXkgPT4gewo=</text>
+        <text encoding="base64">ICAgIFtOT0lTRV9UWVBFUy5xdWJpdDFfZGVwaGFzaW5nLlJFQ09OU1RSVUNURURdOiAibGluZWFyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICByZXR1cm4gbWV0cmljczsK</text>
+        <text encoding="base64">ICAgIFtOT0lTRV9UWVBFUy5xdWJpdDFfZGVwaGFzaW5nLlJFQ09OU1RSVUNURURdOiAibGluZWFyIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1ldHJpY3MgPSBbXTsK</text>
+        <text encoding="base64">ICAgID4+Pj4+Pj4gU2hvdyBub2lzZXMsIGZpbHRlciBmdW5jdGlvbnMsIHBlcmZvcm1hbmNlIG1ldHJpY3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>detuning</last-search>
+      <last-search encoding="base64">PDw8PA==</last-search>
       <last-offset />
-      <last-pattern>detuning</last-pattern>
+      <last-pattern encoding="base64">PDw8PA==</last-pattern>
       <last-replace>maximumPhasorModulus</last-replace>
       <last-substitute>maximumRabiRate</last-substitute>
       <last-dir>1</last-dir>
@@ -1648,15 +1650,7 @@
     </search>
     <history>
       <history-search>
-        <entry>mode</entry>
-        <entry>intl</entry>
-        <entry>format</entry>
-        <entry>molmerSorensenDrive</entry>
-        <entry>molmerSorensenDrive.type.benchmark</entry>
-        <entry>Colors.benchmark</entry>
-        <entry>modes</entry>
         <entry>title</entry>
-        <entry>console</entry>
         <entry>filterFunction</entry>
         <entry>benchmark</entry>
         <entry>PerformanceMetric</entry>
@@ -1668,9 +1662,16 @@
         <entry>ONE</entry>
         <entry>maximumPhasor</entry>
         <entry>detuning</entry>
+        <entry>HEAD</entry>
+        <entry>RECONSTRUCTED</entry>
+        <entry>console</entry>
+        <entry>Coupling</entry>
+        <entry encoding="base64">PDw8</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry encoding="base64">TTw8PDw=</entry>
+        <entry encoding="base64">PDw8PA==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s</entry>
         <entry>%s/parametricDive/parametricDrive/g</entry>
         <entry>Lw</entry>
         <entry>%s/comFrequency/comFrequencies/g</entry>
@@ -1682,13 +1683,14 @@
         <entry>Red</entry>
         <entry>&quot;w</entry>
         <entry>q!</entry>
-        <entry>q</entry>
         <entry>%s/maximumRabiRate/maximumPhasorModulus/g</entry>
         <entry>red</entry>
         <entry encoding="base64">JzwsJz40NQ==</entry>
         <entry>45</entry>
         <entry>W</entry>
         <entry>qa</entry>
+        <entry>158</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
