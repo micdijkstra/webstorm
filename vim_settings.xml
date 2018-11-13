@@ -293,13 +293,6 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" timestamp="1542066717857">
-        <mark key="'" line="386" column="35" />
-        <mark key="[" line="386" column="43" />
-        <mark key="]" line="387" column="35" />
-        <mark key="." line="387" column="35" />
-        <mark key="^" line="387" column="35" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.es6" timestamp="1539917989357">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
@@ -321,12 +314,28 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" timestamp="1542076855689">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="47" />
+        <mark key="^" line="47" column="47" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Legend/index.stories.js" timestamp="1542067507792">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/Pulse/index.js" timestamp="1540953201504">
         <mark key="'" line="125" column="0" />
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="29" />
         <mark key="^" line="201" column="28" />
         <mark key="." line="201" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/numericalPackage/Characterization/Amplitude/index.js" timestamp="1542075079538">
+        <mark key="[" line="73" column="11" />
+        <mark key="]" line="73" column="51" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" timestamp="1542066312455">
         <mark key="'" line="57" column="0" />
@@ -517,12 +526,12 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1542062497532">
-        <mark key="'" line="7" column="64" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Code/frontend/.env.development.local" timestamp="1542077286210">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Typography/Body/index.js" timestamp="1540865938897">
         <mark key="'" line="14" column="7" />
@@ -684,9 +693,6 @@
         <mark key="]" line="17" column="11" />
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
-      </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/Evaluation/Control/index.js" timestamp="1542060476939">
-        <mark key="'" line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/constants/authorisation.js" timestamp="1541733524183">
         <mark key="'" line="0" column="0" />
@@ -974,10 +980,10 @@
         <mark key="^" line="449" column="63" />
         <mark key="." line="449" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Legend/index.js" timestamp="1541116829220">
-        <mark key="'" line="114" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="58" />
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Legend/index.js" timestamp="1542067502823">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="115" column="21" />
         <mark key="." line="37" column="31" />
         <mark key="^" line="37" column="31" />
       </file>
@@ -1008,6 +1014,11 @@
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" timestamp="1542076100405">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/modules/Table/index.js" timestamp="1540860164488">
         <mark key="'" line="37" column="11" />
@@ -1168,13 +1179,6 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" timestamp="1542066609076">
-        <mark key="'" line="32" column="61" />
-        <mark key="[" line="91" column="29" />
-        <mark key="]" line="91" column="45" />
-        <mark key="^" line="91" column="45" />
-        <mark key="." line="91" column="45" />
-      </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Product/index.js" timestamp="1537245513833">
         <mark key="'" line="11" column="6" />
         <mark key="[" line="72" column="0" />
@@ -1300,10 +1304,10 @@
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/components/modules/Button/index.js" timestamp="1541120964731">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="14" />
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Button/index.js" timestamp="1542067764273">
+        <mark key="'" line="198" column="6" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="204" column="1" />
         <mark key="^" line="32" column="14" />
         <mark key="." line="32" column="14" />
       </file>
@@ -1419,6 +1423,12 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="100" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.stories.js" timestamp="1542069473077">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/firebase/functions/db/migrations/resetVisualizeWorkspace.function.js" timestamp="1540955446703">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="11" column="0" />
@@ -1435,65 +1445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="9" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="72" column="23" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="81" column="15" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="89" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="92" column="16" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="101" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="514" column="4" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="494" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="486" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="465" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="374" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="350" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="314" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="422" column="33" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
-      <jump line="21" column="2" filename="$USER_HOME$/Code/frontend/src/components/templates/OptimisedPulse/index.js" />
-      <jump line="364" column="43" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="12" column="14" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="18" column="25" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="69" column="5" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="117" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="123" column="39" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="210" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="212" column="39" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="227" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="248" column="39" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="250" column="32" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="245" column="88" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="426" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="320" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="321" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="335" column="22" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="347" column="21" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="450" column="35" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="429" column="39" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="411" column="63" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="1364" column="73" filename="$USER_HOME$/Code/frontend/src/locales/data.json" />
-      <jump line="9" column="14" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Preview/index.js" />
-      <jump line="11" column="45" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/Preview/index.js" />
-      <jump line="368" column="43" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="421" column="45" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="31" column="6" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="425" column="55" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="427" column="56" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="15" column="8" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="430" column="45" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="681" column="2" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="715" column="19" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="477" column="2" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="485" column="13" filename="$USER_HOME$/Code/frontend/src/constants/index.js" />
-      <jump line="128" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
-      <jump line="35" column="20" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="143" column="38" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/CreditCard/index.js" />
       <jump line="432" column="55" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
       <jump line="71" column="4" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
@@ -1535,67 +1486,121 @@
       <jump line="382" column="55" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
       <jump line="387" column="48" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
       <jump line="386" column="35" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
+      <jump line="16" column="20" filename="$USER_HOME$/Code/frontend/src/components/modules/Legend/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Legend/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Legend/index.stories.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Legend/index.stories.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="30" column="35" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" />
+      <jump line="29" column="67" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" />
+      <jump line="198" column="6" filename="$USER_HOME$/Code/frontend/src/components/modules/Button/index.js" />
+      <jump line="5" column="22" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="8" column="5" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" />
+      <jump line="4" column="11" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" />
+      <jump line="5" column="17" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" />
+      <jump line="6" column="9" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/Element/index.js" />
+      <jump line="1" column="34" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="27" column="20" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="15" column="21" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="10" column="24" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="60" column="26" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="41" column="13" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="8" column="26" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Sequence/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frontend/.env.development.local" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge2l0ZW0ubW9kZXNbc2hvd01vZGVdLm9uICYmICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8UmVhY3QuRnJhZ21lbnQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>`${evaluationType}.${operationType}.controls.item.${type}`</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>concatenation</text>
+        <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJtb2xtZXJTb3JlbnNlbkRyaXZlLmN1c3RvbS5tb2Rlcy5jb25jYXRlbmF0aW9uLmxhYmVsIjogIkNvbmNhdGVuYXRpb24iLAo=</text>
+      <register name="0" type="4">
+        <text>order[`element-${b.key}`], order[`element-${a.key}`]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge2l0ZW0ubW9kZXNbc2hvd01vZGVdLm9uICYmICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8UmVhY3QuRnJhZ21lbnQ+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgcmVzdWx0IH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1JlYWN0LkZyYWdtZW50PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgY2hpbGRyZW4gfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBldmFsdWF0aW9uVHlwZSwKICBvcGVyYXRpb25UeXBlLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh7IG9yZGVyZWRDaGlsZHJlbiB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRWYWx1ZT17CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0ubW9kZXNbc2hvd01vZGVdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNvbmNhdGVuYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wcm90IF9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dElucHV0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZXZlbD17M30KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yPSJwcmltYXJ5IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWw9e2AubW9kZXMuJHtzaG93TW9kZX0uY29uY2F0ZW5hdGlvbmB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD17YCR7c2hvd01vZGV9LmNvbmNhdGVuYXRpb25gfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsaWRhdG9ycz17eyByZXF1aXJlZCB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwUHJvcHM9e21hcFByb3BzfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyW2BlbGVtZW50LSR7Yi5rZXl9YF0sIG9yZGVyW2BlbGVtZW50LSR7YS5rZXl9YF0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEVycm9yTWVzc2FnZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnRsPXtpbnRsfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkPXtgbW9sbWVyU29yZW5zZW5Ecml2ZS5jdXN0b20ubW9kZXMuJHtzaG93TW9kZX0uY29uY2F0ZW5hdGlvbmB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWw9e2AubW9kZXMuJHtzaG93TW9kZX0uZnJlcXVlbmN5YH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0b3JzPXtbInJlcXVpcmVkIl19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICBvcmRlciwKICAgICAgYSwKICAgICAgYiwKICAgICAgb3JkZXJbYi5rZXldLAogICAgICBvcmRlclthLmtleV0sCiAgICAgIG9yZGVyW2Iua2V5XSAtIG9yZGVyW2Eua2V5XQogICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJtb2xtZXJTb3JlbnNlbkRyaXZlLmN1c3RvbS5tb2Rlcy5jb25jYXRlbmF0aW9uLnJlcXVpcmVkIjogIkNvbmNhdGVuYXRpb24iLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcmRlcmVkQ2hpbGRyZW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>concatenation</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>concatenation</last-pattern>
-      <last-replace>maximumPhasorModulus</last-replace>
-      <last-substitute>maximumRabiRate</last-substitute>
+      <last-pattern>console</last-pattern>
+      <last-replace>Element</last-replace>
+      <last-substitute>Knight</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Label</entry>
-        <entry>frequency</entry>
-        <entry>AttributeSet</entry>
-        <entry>on</entry>
-        <entry>mode0</entry>
         <entry>AddressedIons</entry>
         <entry>opacity</entry>
         <entry>color</entry>
@@ -1611,11 +1616,13 @@
         <entry>updateField</entry>
         <entry>showMode</entry>
         <entry>concatenation</entry>
+        <entry>knight</entry>
+        <entry>Knight</entry>
+        <entry>getActions</entry>
+        <entry>mapValues</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/comFrequency/comFrequencies/g</entry>
-        <entry>%s/moreThanOne/greaterThanOne/g</entry>
-        <entry>54</entry>
         <entry>%s/laserWaveVector/laserWavevector/g</entry>
         <entry>14</entry>
         <entry>%s/  /,/g</entry>
@@ -1630,8 +1637,11 @@
         <entry>106</entry>
         <entry>Red</entry>
         <entry>149</entry>
-        <entry>q</entry>
+        <entry>%s/knight/element/g</entry>
+        <entry>%s/Knight/Element/g</entry>
         <entry>red</entry>
+        <entry>9</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
