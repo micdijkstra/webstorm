@@ -1190,12 +1190,12 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" timestamp="1542154773070">
-        <mark key="'" line="203" column="26" />
-        <mark key="[" line="199" column="16" />
-        <mark key="]" line="199" column="60" />
-        <mark key="." line="199" column="60" />
-        <mark key="^" line="199" column="60" />
+      <file name="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" timestamp="1542156673562">
+        <mark key="'" line="217" column="22" />
+        <mark key="[" line="126" column="19" />
+        <mark key="]" line="126" column="37" />
+        <mark key="." line="126" column="37" />
+        <mark key="^" line="126" column="37" />
       </file>
       <file name="$USER_HOME$/Code/frontend/src/components/templates/ChoosePlan/Product/index.js" timestamp="1537245513833">
         <mark key="'" line="11" column="6" />
@@ -1468,8 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" />
-      <jump line="201" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" />
       <jump line="183" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" />
       <jump line="193" column="0" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/frontend/src/components/templates/MolmerSorensen/Drive/index.js" />
@@ -1568,16 +1566,18 @@
       <jump line="97" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Select/index.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Select/index.js" />
       <jump line="91" column="0" filename="$USER_HOME$/Code/frontend/src/components/modules/Form/Select/index.js" />
+      <jump line="203" column="34" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" />
+      <jump line="214" column="22" filename="$USER_HOME$/Code/frontend/src/containers/MolmerSorensen/Drive/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwbGFjZWhvbGRlcjogIlNlbGVjdCBvcHRpb24iLAo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>PROCESSING</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>placeholder</text>
+        <text>resetControl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwbGFjZWhvbGRlcjogIlNlbGVjdCBvcHRpb24iLAo=</text>
@@ -1614,9 +1614,9 @@
       </register>
     </registers>
     <search>
-      <last-search>placeholder</last-search>
+      <last-search>resetControl</last-search>
       <last-offset />
-      <last-pattern>placeholder</last-pattern>
+      <last-pattern>resetControl</last-pattern>
       <last-replace>Element</last-replace>
       <last-substitute>Knight</last-substitute>
       <last-dir>1</last-dir>
@@ -1624,7 +1624,6 @@
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>Elements</entry>
         <entry>childre</entry>
         <entry>orderedChildren</entry>
@@ -1644,6 +1643,7 @@
         <entry>modeColors</entry>
         <entry>Select</entry>
         <entry>placeholder</entry>
+        <entry>resetControl</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
